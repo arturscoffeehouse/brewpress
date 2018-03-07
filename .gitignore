@@ -1,5 +1,6 @@
 vendor/
 .env
 composer.lock
+wep/app/plugins/
 web/wp
 web/.htaccess
