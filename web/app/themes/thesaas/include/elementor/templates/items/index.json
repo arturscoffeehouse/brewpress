@@ -1,0 +1,2368 @@
+{
+  "content": [
+    {
+      "id": "gmdzlsx",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "zvlbvwu",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "ksvbsnk",
+              "elType": "widget",
+              "settings": {
+                "type": "type-7",
+                "t1_fullscreen": "",
+                "t1_header_text": "Header Title",
+                "t1_text": "Some description to put inside the header.",
+                "t2_header_text": "TheSaaS",
+                "t2_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t2_btn_text": "See demos",
+                "t3_header_text": "Create Professional Websites",
+                "t3_text": "TheSaaS is a responsive, professional, and multipurpose SaaS template powered with Bootstrap 4.",
+                "t3_btn_text": "Demos",
+                "t3_btn2_text": "Features",
+                "t4_header_text": "TheSaaS",
+                "t4_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t4_info_text": "Or Purchase Now",
+                "t5_header_text": "TheSaaS",
+                "t5_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_header_text": "TheSaaS",
+                "t6_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_btn_text": "Buy now $19",
+                "t7_background": "gradient",
+                "t7_color_1": "#243949",
+                "t7_color_2": "#517fa4",
+                "t7_gradient_dir": "bottom",
+                "t7_particle": "yes",
+                "t7_typing_text": "Authors, Startups, Entrepreneurs, SaaS, WebApps",
+                "t7_prefix": "Built for",
+                "t7_text": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t7_btn_text": "Purchase Now - $49",
+                "t7_btn_link": {
+                  "url": "https://themeforest.net/item/thesaas-responsive-saas-software-webapp-wordpress-theme/20136366?license=regular&open_purchase_for_item_id=20136366&purchasable=source&ref=thethemeio",
+                  "is_external": false,
+                  "nofollow": ""
+                },
+                "t7_btn_size": "btn-xl",
+                "t7_info_text": "or purchase an Extended License",
+                "t7_info_link": {
+                  "url": "https://themeforest.net/item/thesaas-responsive-saas-software-webapp-wordpress-theme/20136366?license=extended&open_purchase_for_item_id=20136366&purchasable=source&ref=thethemeio",
+                  "is_external": false,
+                  "nofollow": ""
+                },
+                "t7_flash_down_target": "section-demo",
+                "t8_header_text": "TheSaaS",
+                "t8_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t8_btn_text": "Get started",
+                "t8_info_text": "Already a member? Sign in",
+                "t9_header_text": "App Landing Page",
+                "t9_text": "The best template for your mobile app to showcase and acquire new customers all around the world. The best template that you can find anywhere!",
+                "t9_btn_text": "Download now",
+                "t9_btn2_text": "Features",
+                "t10_header_text": "TheSaaS",
+                "t10_text": "An elegant, modern and fully customizable SaaS and WebApp template",
+                "t10_btn_text": "Purchase now - $19",
+                "t10_info_text": "or purchase an Extended License",
+                "t1_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t1_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t1_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t2_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t2_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t2_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t5_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t5_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t5_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t5_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t10_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t10_bg_video_poster": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t10_bg_video_mp4": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t10_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t11_bg_image": {
+                  "id": 2073,
+                  "url": "bg-laptop.jpg"
+                },
+                "t11_bg_video_poster": {
+                  "id": 2073,
+                  "url": "bg-laptop.jpg"
+                },
+                "t11_bg_video_mp4": {
+                  "id": 2073,
+                  "url": "bg-laptop.jpg"
+                },
+                "t11_header_text": "COMING SOON",
+                "t11_text": "TheSaaS is a responsive, professional, and multipurpose SaaS, Software, Startup and WebApp landing template powered by Bootstrap 4. TheSaaS is a powerful and super flexible tool, which suits best for any kind of landing pages.",
+                "t11_counter_header": "We will be ready in",
+                "t11_counter_deadline": "2017/12/25"
+              },
+              "elements": [],
+              "widgetType": "the-cover"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "rdnfs00",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "xi0j2b7",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "rs65nmz",
+              "elType": "widget",
+              "settings": {
+                "type": "type-2",
+                "t1_small_text": "Portfolio",
+                "t1_header_text": "Product Designs",
+                "t1_lead_text": "You can find several product design by our professional team in this section.",
+                "t1_items": [
+                  {
+                    "title": "Phone Bag",
+                    "image": {
+                      "url": "portfolio-1.jpg"
+                    },
+                    "groups": "Bag, Box",
+                    "link": "#",
+                    "_id": "jd24wqt",
+                    "post": "0"
+                  },
+                  {
+                    "title": "Mockup Book",
+                    "image": {
+                      "url": "portfolio-2.jpg"
+                    },
+                    "groups": "Book",
+                    "link": "#",
+                    "_id": "rc08klf",
+                    "post": "0"
+                  },
+                  {
+                    "title": "T-shirt",
+                    "image": {
+                      "url": "portfolio-3.jpg"
+                    },
+                    "groups": "Box",
+                    "link": "#",
+                    "_id": "mw18q49",
+                    "post": "0"
+                  },
+                  {
+                    "title": "Coffee",
+                    "image": {
+                      "url": "portfolio-4.jpg"
+                    },
+                    "groups": "Bottle",
+                    "link": "#",
+                    "_id": "sly7w1c",
+                    "post": "0"
+                  },
+                  {
+                    "title": "Shampoo",
+                    "image": {
+                      "url": "portfolio-5.jpg"
+                    },
+                    "groups": "Bottle",
+                    "link": "#",
+                    "_id": "fcz9kmj",
+                    "post": "0"
+                  },
+                  {
+                    "title": "Paper bag",
+                    "image": {
+                      "url": "portfolio-6.jpg"
+                    },
+                    "groups": "Bag",
+                    "link": "#",
+                    "_id": "c5vopu6",
+                    "post": "0"
+                  },
+                  {
+                    "title": "Elixir",
+                    "image": {
+                      "url": "portfolio-7.jpg"
+                    },
+                    "groups": "Bottle",
+                    "link": "#",
+                    "_id": "63gk569",
+                    "post": "0"
+                  },
+                  {
+                    "title": "Magazine",
+                    "image": {
+                      "url": "portfolio-8.jpg"
+                    },
+                    "groups": "Book",
+                    "link": "#",
+                    "_id": "nlf2fps",
+                    "post": "0"
+                  }
+                ],
+                "t2_small_text": "Demo",
+                "t2_header_text": "Sample Landing Pages",
+                "t2_lead_text": "Apart from internal pages, we have designed several single sample pages to get start with.",
+                "t2_items": [
+                  {
+                    "title": "Helpato",
+                    "image": {
+                      "url": "http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/demo-helpato-sm.jpg"
+                    },
+                    "url": "#",
+                    "_id": "ems2zok",
+                    "post": "0",
+                    "link": "http://thetheme.io/wp/thesaas/demo-helpato-2",
+                    "groups": ""
+                  },
+                  {
+                    "title": "Trello",
+                    "image": {
+                      "url": "http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/demo-trello-sm.jpg"
+                    },
+                    "url": "#",
+                    "_id": "tlovpsi",
+                    "post": "0",
+                    "link": "http://thetheme.io/wp/thesaas/demo-trello",
+                    "groups": ""
+                  },
+                  {
+                    "title": "Gmail",
+                    "image": {
+                      "url": "http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/demo-gmail-sm.jpg"
+                    },
+                    "url": "#",
+                    "_id": "b0jj111",
+                    "post": "0",
+                    "link": "http://thetheme.io/wp/thesaas/demo-gmail",
+                    "groups": ""
+                  },
+                  {
+                    "title": "Skype",
+                    "image": {
+                      "url": "http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/demo-skype-sm.jpg"
+                    },
+                    "url": "#",
+                    "_id": "7b0alkx",
+                    "post": "0",
+                    "link": "http://thetheme.io/wp/thesaas/demo-skype",
+                    "groups": ""
+                  },
+                  {
+                    "title": "GitHub",
+                    "image": {
+                      "url": "http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/demo-github-sm.jpg"
+                    },
+                    "url": "#",
+                    "_id": "uq0cpda",
+                    "post": "0",
+                    "link": "http://thetheme.io/wp/thesaas/demo-github",
+                    "groups": ""
+                  },
+                  {
+                    "title": "Mobile App",
+                    "image": {
+                      "url": "http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/demo-app-sm.jpg"
+                    },
+                    "url": "#",
+                    "_id": "yyv5b4z",
+                    "post": "0",
+                    "link": "http://thetheme.io/wp/thesaas/demo-app",
+                    "groups": ""
+                  },
+                  {
+                    "title": "Bootstrap",
+                    "image": {
+                      "url": "http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/demo-bootstrap-sm.jpg"
+                    },
+                    "url": "#",
+                    "_id": "5x8c3j7",
+                    "post": "0",
+                    "link": "http://thetheme.io/wp/thesaas/demo-bootstrap",
+                    "groups": ""
+                  },
+                  {
+                    "title": "Slack",
+                    "image": {
+                      "url": "http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/demo-slack-sm.jpg"
+                    },
+                    "url": "#",
+                    "_id": "q9rey4t",
+                    "post": "0",
+                    "link": "http://thetheme.io/wp/thesaas/demo-slack",
+                    "groups": ""
+                  }
+                ]
+              },
+              "elements": [],
+              "widgetType": "the-portfolio"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "bkxzssp",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "hxqsltg",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "vjwuido",
+              "elType": "widget",
+              "settings": {
+                "type": "type-5",
+                "t1_small_text": "Features",
+                "t1_header_text": "Great Combination",
+                "t1_lead_text": "Holisticly implement fully tested process improvements rather than dynamic internal.",
+                "t1_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#e4e7ea",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "on8s8i8"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#e4e7ea",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "lfzjfug"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#e4e7ea",
+                    "title": "UI Elements",
+                    "text": "There is a bunch of useful and necessary elements for developing your website.",
+                    "_id": "wyyw0zo"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#e4e7ea",
+                    "title": "Clean Code",
+                    "text": "You can find our code well organized, commented and readable.",
+                    "_id": "tectb5a"
+                  },
+                  {
+                    "icon": "fa fa-file-text-o",
+                    "color": "#e4e7ea",
+                    "title": "Documented",
+                    "text": "As you can see in the source code, we provided a comprehensive documentation.",
+                    "_id": "5mihuzh"
+                  },
+                  {
+                    "icon": "fa fa-download",
+                    "color": "#e4e7ea",
+                    "title": "Free Updates",
+                    "text": "When you purchase this template, you&#039;ll freely receive future updates.",
+                    "_id": "7943ne1"
+                  }
+                ],
+                "t1_btn_text": "See more features",
+                "t2_header_text": "Create Admin Area",
+                "t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+                "t2_btn_text": "Get start now",
+                "t3_small_text": "Features",
+                "t3_header_text": "Full, Faster, Functional",
+                "t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+                "t3_number_1": "100+",
+                "t3_text_1": "Screens",
+                "t3_number_2": "6.7x",
+                "t3_text_2": "Faster",
+                "t3_number_3": "12",
+                "t3_text_3": "Mockups",
+                "t4_header_text": "Endless Features",
+                "t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+                "t4_features": [
+                  {
+                    "icon": "fa fa-cab",
+                    "color": "#fff",
+                    "title": "Fast &amp; easy work",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "ul03itq"
+                  },
+                  {
+                    "icon": "fa fa-pie-chart",
+                    "color": "#fff",
+                    "title": "Create result",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "u05uqsb"
+                  }
+                ],
+                "t5_bg_gray": "bg-gray",
+                "t5_small_text": "Features",
+                "t5_header_text": "Header Varieties",
+                "t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t5_tabs": [
+                  {
+                    "title": "Color",
+                    "content": "<p><img class=\"size-full wp-image-626 aligncenter\" src=\"http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/header-color.jpg\" alt=\"\" width=\"600\" height=\"400\" /></p>",
+                    "_id": "vg764y4"
+                  },
+                  {
+                    "title": "Gradient",
+                    "content": "<p><img class=\"size-full wp-image-627 aligncenter\" src=\"http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/header-gradient.jpg\" alt=\"\" width=\"600\" height=\"400\" /></p>",
+                    "_id": "iktvyar"
+                  },
+                  {
+                    "title": "Typing",
+                    "content": "<p><img class=\"size-full wp-image-628 aligncenter\" src=\"http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/header-typing.jpg\" alt=\"\" width=\"600\" height=\"400\" /></p>",
+                    "_id": "v04l0lz"
+                  },
+                  {
+                    "title": "Image",
+                    "content": "<p><img class=\"size-full wp-image-629 aligncenter\" src=\"http://thetheme.io/wp/thesaas/wp-content/uploads/2017/07/header-image.jpg\" alt=\"\" width=\"600\" height=\"400\" /></p>",
+                    "_id": "tpqpz2e"
+                  }
+                ],
+                "t6_header_text": "Features",
+                "t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+                "t6_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#616771",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "td8y7e5"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#616771",
+                    "title": "Elements &amp; Components",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "8leh7qv"
+                  }
+                ],
+                "t7_small_text": "Marketing",
+                "t7_header_text": "Increase Your Sells",
+                "t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+                "t7_btn_text": "Read more",
+                "t8_header_text": "More Than You Think",
+                "t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+                "t8_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#ffbe00",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "4vd4a30"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#ff4954",
+                    "title": "Clean Code",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "mia2gkr"
+                  }
+                ],
+                "t9_header_text": "Perfect for Your Business",
+                "t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t9_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#0facf3",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "gsrilr5"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#0facf3",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "dt39ioj"
+                  }
+                ],
+                "t10_header_text": "Unlimited Layout Option",
+                "t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t10_list": [
+                  {
+                    "text": "MailChimp integration included",
+                    "_id": "gzkzi9c"
+                  },
+                  {
+                    "text": "Develop pages like lego",
+                    "_id": "rrojiw6"
+                  },
+                  {
+                    "text": "Dozen of colors for elements",
+                    "_id": "v9j1j1c"
+                  },
+                  {
+                    "text": "Drag and drop page design",
+                    "_id": "1900l5c"
+                  }
+                ],
+                "t11_small_text": "Features",
+                "t11_header_text": "More to Discover",
+                "t11_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t11_features": [
+                  {
+                    "image": {
+                      "url": "header-image.jpg"
+                    },
+                    "title": "5 Ready Samples",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "2biuoxz"
+                  },
+                  {
+                    "image": {
+                      "url": "header-video.jpg"
+                    },
+                    "title": "6 Header Types",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "b44mblc"
+                  }
+                ],
+                "t12_small_text": "See it in action",
+                "t12_header_text": "Screenshots",
+                "t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_small_text": "Features",
+                "t13_header_text": "Header Varieties",
+                "t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_tabs": [
+                  {
+                    "title": "Color",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "ch2i4i0"
+                  },
+                  {
+                    "title": "Gradient",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "8gcntrr"
+                  },
+                  {
+                    "title": "Typing",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "c8th9rq"
+                  },
+                  {
+                    "title": "Slider",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "9vnyils"
+                  }
+                ],
+                "t1_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t2_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_1": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_2": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_3": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t10_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t12_gallery": [
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  }
+                ],
+                "t14_image": {
+                  "id": 2073,
+                  "url": "bg-laptop.jpg"
+                },
+                "t14_fade_text": "01",
+                "t14_header_text": "Choose your product",
+                "t14_text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing."
+              },
+              "elements": [],
+              "widgetType": "the-feature"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "sanfdbh",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "ajyzdyc",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "fibudbt",
+              "elType": "widget",
+              "settings": {
+                "type": "type-3",
+                "t1_small_text": "Features",
+                "t1_header_text": "Great Combination",
+                "t1_lead_text": "Holisticly implement fully tested process improvements rather than dynamic internal.",
+                "t1_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#e4e7ea",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "on8s8i8"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#e4e7ea",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "lfzjfug"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#e4e7ea",
+                    "title": "UI Elements",
+                    "text": "There is a bunch of useful and necessary elements for developing your website.",
+                    "_id": "wyyw0zo"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#e4e7ea",
+                    "title": "Clean Code",
+                    "text": "You can find our code well organized, commented and readable.",
+                    "_id": "tectb5a"
+                  },
+                  {
+                    "icon": "fa fa-file-text-o",
+                    "color": "#e4e7ea",
+                    "title": "Documented",
+                    "text": "As you can see in the source code, we provided a comprehensive documentation.",
+                    "_id": "5mihuzh"
+                  },
+                  {
+                    "icon": "fa fa-download",
+                    "color": "#e4e7ea",
+                    "title": "Free Updates",
+                    "text": "When you purchase this template, you&#039;ll freely receive future updates.",
+                    "_id": "7943ne1"
+                  }
+                ],
+                "t1_btn_text": "See more features",
+                "t2_header_text": "Create Admin Area",
+                "t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+                "t2_btn_text": "Get start now",
+                "t3_small_text": "Features",
+                "t3_header_text": "Full, Faster, Functional",
+                "t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+                "t3_number_1": "100+",
+                "t3_text_1": "Screens",
+                "t3_number_2": "6.7x",
+                "t3_text_2": "Faster",
+                "t3_number_3": "12",
+                "t3_text_3": "Mockups",
+                "t4_header_text": "Endless Features",
+                "t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+                "t4_features": [
+                  {
+                    "icon": "fa fa-cab",
+                    "color": "#fff",
+                    "title": "Fast &amp; easy work",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "ul03itq"
+                  },
+                  {
+                    "icon": "fa fa-pie-chart",
+                    "color": "#fff",
+                    "title": "Create result",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "u05uqsb"
+                  }
+                ],
+                "t5_small_text": "Features",
+                "t5_header_text": "Header Varieties",
+                "t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t5_tabs": [
+                  {
+                    "title": "Color",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "vg764y4"
+                  },
+                  {
+                    "title": "Gradient",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "iktvyar"
+                  },
+                  {
+                    "title": "Typing",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "v04l0lz"
+                  },
+                  {
+                    "title": "Slider",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "tpqpz2e"
+                  }
+                ],
+                "t6_header_text": "Features",
+                "t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+                "t6_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#616771",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "td8y7e5"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#616771",
+                    "title": "Elements &amp; Components",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "8leh7qv"
+                  }
+                ],
+                "t7_small_text": "Marketing",
+                "t7_header_text": "Increase Your Sells",
+                "t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+                "t7_btn_text": "Read more",
+                "t8_header_text": "More Than You Think",
+                "t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+                "t8_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#ffbe00",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "4vd4a30"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#ff4954",
+                    "title": "Clean Code",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "mia2gkr"
+                  }
+                ],
+                "t9_header_text": "Perfect for Your Business",
+                "t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t9_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#0facf3",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "gsrilr5"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#0facf3",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "dt39ioj"
+                  }
+                ],
+                "t10_header_text": "Unlimited Layout Option",
+                "t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t10_list": [
+                  {
+                    "text": "MailChimp integration included",
+                    "_id": "gzkzi9c"
+                  },
+                  {
+                    "text": "Develop pages like lego",
+                    "_id": "rrojiw6"
+                  },
+                  {
+                    "text": "Dozen of colors for elements",
+                    "_id": "v9j1j1c"
+                  },
+                  {
+                    "text": "Drag and drop page design",
+                    "_id": "1900l5c"
+                  }
+                ],
+                "t11_small_text": "Features",
+                "t11_header_text": "More to Discover",
+                "t11_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t11_features": [
+                  {
+                    "image": {
+                      "url": "header-image.jpg"
+                    },
+                    "title": "5 Ready Samples",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "2biuoxz"
+                  },
+                  {
+                    "image": {
+                      "url": "header-video.jpg"
+                    },
+                    "title": "6 Header Types",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "b44mblc"
+                  }
+                ],
+                "t12_small_text": "See it in action",
+                "t12_header_text": "Screenshots",
+                "t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_small_text": "Features",
+                "t13_header_text": "Header Varieties",
+                "t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_tabs": [
+                  {
+                    "title": "Color",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "ch2i4i0"
+                  },
+                  {
+                    "title": "Gradient",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "8gcntrr"
+                  },
+                  {
+                    "title": "Typing",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "c8th9rq"
+                  },
+                  {
+                    "title": "Slider",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "9vnyils"
+                  }
+                ],
+                "t1_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t2_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_1": {
+                  "id": 2074,
+                  "url": "header-color.jpg"
+                },
+                "t3_image_2": {
+                  "id": 2075,
+                  "url": "header-gradient.jpg"
+                },
+                "t3_image_3": {
+                  "id": 2076,
+                  "url": "header-typing.jpg"
+                },
+                "t4_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t10_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t12_gallery": [
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  }
+                ],
+                "t14_image": {
+                  "id": 2073,
+                  "url": "bg-laptop.jpg"
+                },
+                "t14_fade_text": "01",
+                "t14_header_text": "Choose your product",
+                "t14_text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing."
+              },
+              "elements": [],
+              "widgetType": "the-feature"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "ilpxgos",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "ruvsgps",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "dbogoss",
+              "elType": "widget",
+              "settings": {
+                "type": "type-9",
+                "t1_header_text": "Join over 1,000 companies that trust us.",
+                "t1_text": "Try it yourself 30 days free. No credit card required!",
+                "t1_btn_text": "Design your site now",
+                "t2_text": "Want a bite? You&#039;re in the right place!",
+                "t2_btn_text": "Take a test drive",
+                "t3_header_text": "Become an Outstanding Startup",
+                "t3_text": "Try it yourself 30 days free. No credit card required! A good news is that you have 15 days money back!",
+                "t3_btn_text": "Start now",
+                "t4_text": "20,000+ companies are using our templates every day!",
+                "t4_btn_text": "Get Started",
+                "t5_header_text": "Download now",
+                "t5_text": "Continually e-enable vertical schemas with top-line infomediaries. Energistically restore real-time core competencies and compelling leadership skills.",
+                "t5_stars_text": "Based on 3,000+ reviews",
+                "t6_header_text": "Get it now",
+                "t6_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t7_text": "Start the supporting system that you always dreamed about",
+                "t7_btn_text": "Login with envato",
+                "t8_small_text": "Meet TheSaaS",
+                "t8_header_text": "30 Days Free Trial",
+                "t8_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t8_btn_text": "Try it now",
+                "t8_info_text": "You&#039;ll login using your Envato account.",
+                "t9_small_text": "Own it",
+                "t9_header_text": "Get it now",
+                "t9_lead_text": "If you have visited the other pages and you have made your decision to purchase this template, go on and press the following button and get a license in less than a minute.",
+                "t9_btn_text": "Purchase for $49",
+                "t9_btn_link": {
+                  "url": "https://themeforest.net/item/thesaas-responsive-saas-software-webapp-wordpress-theme/20136366?license=regular&open_purchase_for_item_id=20136366&purchasable=source&ref=thethemeio",
+                  "is_external": false,
+                  "nofollow": ""
+                },
+                "t9_info_text": "or purchase an Extended License",
+                "t9_info_link": {
+                  "url": "https://themeforest.net/item/thesaas-responsive-saas-software-webapp-wordpress-theme/20136366?license=extended&open_purchase_for_item_id=20136366&purchasable=source&ref=thethemeio",
+                  "is_external": false,
+                  "nofollow": ""
+                },
+                "t3_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t5_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t5_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                }
+              },
+              "elements": [],
+              "widgetType": "the-cta"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "eatxwjr",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "utvycog",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "ocdsajw",
+              "elType": "widget",
+              "settings": {
+                "t1_small_text": "Features",
+                "t1_header_text": "Great Combination",
+                "t1_lead_text": "Holisticly implement fully tested process improvements rather than dynamic internal.",
+                "t1_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#e4e7ea",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "on8s8i8"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#e4e7ea",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "lfzjfug"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#e4e7ea",
+                    "title": "UI Elements",
+                    "text": "There is a bunch of useful and necessary elements for developing your website.",
+                    "_id": "wyyw0zo"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#e4e7ea",
+                    "title": "Clean Code",
+                    "text": "You can find our code well organized, commented and readable.",
+                    "_id": "tectb5a"
+                  },
+                  {
+                    "icon": "fa fa-file-text-o",
+                    "color": "#e4e7ea",
+                    "title": "Documented",
+                    "text": "As you can see in the source code, we provided a comprehensive documentation.",
+                    "_id": "5mihuzh"
+                  },
+                  {
+                    "icon": "fa fa-download",
+                    "color": "#e4e7ea",
+                    "title": "Free Updates",
+                    "text": "When you purchase this template, you&#039;ll freely receive future updates.",
+                    "_id": "7943ne1"
+                  }
+                ],
+                "t1_btn_text": "See more features",
+                "t2_header_text": "Create Admin Area",
+                "t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+                "t2_btn_text": "Get start now",
+                "t3_small_text": "Features",
+                "t3_header_text": "Full, Faster, Functional",
+                "t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+                "t3_number_1": "100+",
+                "t3_text_1": "Screens",
+                "t3_number_2": "6.7x",
+                "t3_text_2": "Faster",
+                "t3_number_3": "12",
+                "t3_text_3": "Mockups",
+                "t4_header_text": "Endless Features",
+                "t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+                "t4_features": [
+                  {
+                    "icon": "fa fa-cab",
+                    "color": "#fff",
+                    "title": "Fast &amp; easy work",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "ul03itq"
+                  },
+                  {
+                    "icon": "fa fa-pie-chart",
+                    "color": "#fff",
+                    "title": "Create result",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "u05uqsb"
+                  }
+                ],
+                "t5_small_text": "Features",
+                "t5_header_text": "Header Varieties",
+                "t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t5_tabs": [
+                  {
+                    "title": "Color",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "vg764y4"
+                  },
+                  {
+                    "title": "Gradient",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "iktvyar"
+                  },
+                  {
+                    "title": "Typing",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "v04l0lz"
+                  },
+                  {
+                    "title": "Slider",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "tpqpz2e"
+                  }
+                ],
+                "t6_header_text": "Features",
+                "t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+                "t6_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#616771",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "td8y7e5"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#616771",
+                    "title": "Elements &amp; Components",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "8leh7qv"
+                  }
+                ],
+                "t7_small_text": "Marketing",
+                "t7_header_text": "Increase Your Sells",
+                "t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+                "t7_btn_text": "Read more",
+                "t8_header_text": "More Than You Think",
+                "t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+                "t8_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#ffbe00",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "4vd4a30"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#ff4954",
+                    "title": "Clean Code",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "mia2gkr"
+                  }
+                ],
+                "t9_header_text": "Perfect for Your Business",
+                "t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t9_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#0facf3",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "gsrilr5"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#0facf3",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "dt39ioj"
+                  }
+                ],
+                "t10_header_text": "Unlimited Layout Option",
+                "t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t10_list": [
+                  {
+                    "text": "MailChimp integration included",
+                    "_id": "gzkzi9c"
+                  },
+                  {
+                    "text": "Develop pages like lego",
+                    "_id": "rrojiw6"
+                  },
+                  {
+                    "text": "Dozen of colors for elements",
+                    "_id": "v9j1j1c"
+                  },
+                  {
+                    "text": "Drag and drop page design",
+                    "_id": "1900l5c"
+                  }
+                ],
+                "t11_small_text": "Features",
+                "t11_header_text": "More to Discover",
+                "t11_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t11_features": [
+                  {
+                    "image": {
+                      "url": "header-image.jpg"
+                    },
+                    "title": "5 Ready Samples",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "2biuoxz"
+                  },
+                  {
+                    "image": {
+                      "url": "header-video.jpg"
+                    },
+                    "title": "6 Header Types",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "b44mblc"
+                  }
+                ],
+                "t12_small_text": "See it in action",
+                "t12_header_text": "Screenshots",
+                "t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_small_text": "Features",
+                "t13_header_text": "Header Varieties",
+                "t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_tabs": [
+                  {
+                    "title": "Color",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "ch2i4i0"
+                  },
+                  {
+                    "title": "Gradient",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "8gcntrr"
+                  },
+                  {
+                    "title": "Typing",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "c8th9rq"
+                  },
+                  {
+                    "title": "Slider",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "9vnyils"
+                  }
+                ],
+                "t1_image": {
+                  "id": 2077,
+                  "url": "feature-tablet.png"
+                },
+                "t2_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_1": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_2": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_3": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t10_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t12_gallery": [
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  }
+                ],
+                "t14_image": {
+                  "id": 2073,
+                  "url": "bg-laptop.jpg"
+                },
+                "t14_fade_text": "01",
+                "t14_header_text": "Choose your product",
+                "t14_text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing."
+              },
+              "elements": [],
+              "widgetType": "the-feature"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "ljezsug",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "wukelib",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "qqkfvue",
+              "elType": "widget",
+              "settings": {
+                "type": "type-2",
+                "t1_header_text": "Join over 1,000 companies that trust us.",
+                "t1_text": "Try it yourself 30 days free. No credit card required!",
+                "t1_btn_text": "Design your site now",
+                "t2_text": "Do you need a customization for your template?",
+                "t2_btn_text": "Request customization",
+                "t2_btn_link": {
+                  "url": "https://themeforest.net/user/thethemeio#contact",
+                  "is_external": false,
+                  "nofollow": ""
+                },
+                "t3_header_text": "Become an Outstanding Startup",
+                "t3_text": "Try it yourself 30 days free. No credit card required! A good news is that you have 15 days money back!",
+                "t3_btn_text": "Start now",
+                "t4_text": "20,000+ companies are using our templates every day!",
+                "t4_btn_text": "Get Started",
+                "t5_header_text": "Download now",
+                "t5_text": "Continually e-enable vertical schemas with top-line infomediaries. Energistically restore real-time core competencies and compelling leadership skills.",
+                "t5_stars_text": "Based on 3,000+ reviews",
+                "t6_header_text": "Get it now",
+                "t6_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t7_text": "Start the supporting system that you always dreamed about",
+                "t7_btn_text": "Login with envato",
+                "t8_small_text": "Meet TheSaaS",
+                "t8_header_text": "30 Days Free Trial",
+                "t8_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t8_btn_text": "Try it now",
+                "t8_info_text": "You&#039;ll login using your Envato account.",
+                "t9_small_text": "Own it",
+                "t9_header_text": "Get it now",
+                "t9_lead_text": "If you have visited the other pages and you have made your decision to purchase this template, go on and press the following button and get a license in less than a minute.",
+                "t9_btn_text": "Purchase for $19",
+                "t9_info_text": "or purchase an Extended License",
+                "t3_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t5_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t5_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_bg_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                }
+              },
+              "elements": [],
+              "widgetType": "the-cta"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "lykmplq",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "bqftdxa",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "uztrltn",
+              "elType": "widget",
+              "settings": {
+                "type": "type-9",
+                "t1_small_text": "Features",
+                "t1_header_text": "Great Combination",
+                "t1_lead_text": "Holisticly implement fully tested process improvements rather than dynamic internal.",
+                "t1_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#e4e7ea",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "on8s8i8"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#e4e7ea",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "lfzjfug"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#e4e7ea",
+                    "title": "UI Elements",
+                    "text": "There is a bunch of useful and necessary elements for developing your website.",
+                    "_id": "wyyw0zo"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#e4e7ea",
+                    "title": "Clean Code",
+                    "text": "You can find our code well organized, commented and readable.",
+                    "_id": "tectb5a"
+                  },
+                  {
+                    "icon": "fa fa-file-text-o",
+                    "color": "#e4e7ea",
+                    "title": "Documented",
+                    "text": "As you can see in the source code, we provided a comprehensive documentation.",
+                    "_id": "5mihuzh"
+                  },
+                  {
+                    "icon": "fa fa-download",
+                    "color": "#e4e7ea",
+                    "title": "Free Updates",
+                    "text": "When you purchase this template, you&#039;ll freely receive future updates.",
+                    "_id": "7943ne1"
+                  }
+                ],
+                "t1_btn_text": "See more features",
+                "t2_header_text": "Create Admin Area",
+                "t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+                "t2_btn_text": "Get start now",
+                "t3_small_text": "Features",
+                "t3_header_text": "Full, Faster, Functional",
+                "t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+                "t3_number_1": "100+",
+                "t3_text_1": "Screens",
+                "t3_number_2": "6.7x",
+                "t3_text_2": "Faster",
+                "t3_number_3": "12",
+                "t3_text_3": "Mockups",
+                "t4_header_text": "Endless Features",
+                "t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+                "t4_features": [
+                  {
+                    "icon": "fa fa-cab",
+                    "color": "#fff",
+                    "title": "Fast &amp; easy work",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "ul03itq"
+                  },
+                  {
+                    "icon": "fa fa-pie-chart",
+                    "color": "#fff",
+                    "title": "Create result",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "u05uqsb"
+                  }
+                ],
+                "t5_small_text": "Features",
+                "t5_header_text": "Header Varieties",
+                "t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t5_tabs": [
+                  {
+                    "title": "Color",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "vg764y4"
+                  },
+                  {
+                    "title": "Gradient",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "iktvyar"
+                  },
+                  {
+                    "title": "Typing",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "v04l0lz"
+                  },
+                  {
+                    "title": "Slider",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "tpqpz2e"
+                  }
+                ],
+                "t6_header_text": "Features",
+                "t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+                "t6_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#616771",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "td8y7e5"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#616771",
+                    "title": "Elements &amp; Components",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "8leh7qv"
+                  }
+                ],
+                "t7_small_text": "Marketing",
+                "t7_header_text": "Increase Your Sells",
+                "t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+                "t7_btn_text": "Read more",
+                "t8_header_text": "More Than You Think",
+                "t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+                "t8_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#ffbe00",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "4vd4a30"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#ff4954",
+                    "title": "Clean Code",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "mia2gkr"
+                  }
+                ],
+                "t9_wide_container": "",
+                "t9_bg_gray": "bg-gray",
+                "t9_header_text": "Perfect for Your Business",
+                "t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t9_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#0facf3",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "gsrilr5"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#0facf3",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "dt39ioj"
+                  }
+                ],
+                "t10_header_text": "Unlimited Layout Option",
+                "t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t10_list": [
+                  {
+                    "text": "MailChimp integration included",
+                    "_id": "gzkzi9c"
+                  },
+                  {
+                    "text": "Develop pages like lego",
+                    "_id": "rrojiw6"
+                  },
+                  {
+                    "text": "Dozen of colors for elements",
+                    "_id": "v9j1j1c"
+                  },
+                  {
+                    "text": "Drag and drop page design",
+                    "_id": "1900l5c"
+                  }
+                ],
+                "t11_small_text": "Features",
+                "t11_header_text": "More to Discover",
+                "t11_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t11_features": [
+                  {
+                    "image": {
+                      "url": "header-image.jpg"
+                    },
+                    "title": "5 Ready Samples",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "2biuoxz"
+                  },
+                  {
+                    "image": {
+                      "url": "header-video.jpg"
+                    },
+                    "title": "6 Header Types",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "b44mblc"
+                  }
+                ],
+                "t12_small_text": "See it in action",
+                "t12_header_text": "Screenshots",
+                "t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_small_text": "Features",
+                "t13_header_text": "Header Varieties",
+                "t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_tabs": [
+                  {
+                    "title": "Color",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "ch2i4i0"
+                  },
+                  {
+                    "title": "Gradient",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "8gcntrr"
+                  },
+                  {
+                    "title": "Typing",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "c8th9rq"
+                  },
+                  {
+                    "title": "Slider",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "9vnyils"
+                  }
+                ],
+                "t1_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t2_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_1": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_2": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_3": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_image": {
+                  "id": 2078,
+                  "url": "pricing-window.jpg"
+                },
+                "t10_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t12_gallery": [
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  }
+                ],
+                "t14_image": {
+                  "id": 2073,
+                  "url": "bg-laptop.jpg"
+                },
+                "t14_fade_text": "01",
+                "t14_header_text": "Choose your product",
+                "t14_text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing."
+              },
+              "elements": [],
+              "widgetType": "the-feature"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "gkuqnzo",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "mjwkqwu",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "stsvfdp",
+              "elType": "widget",
+              "settings": {
+                "type": "type-10",
+                "t1_small_text": "Features",
+                "t1_header_text": "Great Combination",
+                "t1_lead_text": "Holisticly implement fully tested process improvements rather than dynamic internal.",
+                "t1_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#e4e7ea",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "on8s8i8"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#e4e7ea",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "lfzjfug"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#e4e7ea",
+                    "title": "UI Elements",
+                    "text": "There is a bunch of useful and necessary elements for developing your website.",
+                    "_id": "wyyw0zo"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#e4e7ea",
+                    "title": "Clean Code",
+                    "text": "You can find our code well organized, commented and readable.",
+                    "_id": "tectb5a"
+                  },
+                  {
+                    "icon": "fa fa-file-text-o",
+                    "color": "#e4e7ea",
+                    "title": "Documented",
+                    "text": "As you can see in the source code, we provided a comprehensive documentation.",
+                    "_id": "5mihuzh"
+                  },
+                  {
+                    "icon": "fa fa-download",
+                    "color": "#e4e7ea",
+                    "title": "Free Updates",
+                    "text": "When you purchase this template, you&#039;ll freely receive future updates.",
+                    "_id": "7943ne1"
+                  }
+                ],
+                "t1_btn_text": "See more features",
+                "t2_header_text": "Create Admin Area",
+                "t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+                "t2_btn_text": "Get start now",
+                "t3_small_text": "Features",
+                "t3_header_text": "Full, Faster, Functional",
+                "t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+                "t3_number_1": "100+",
+                "t3_text_1": "Screens",
+                "t3_number_2": "6.7x",
+                "t3_text_2": "Faster",
+                "t3_number_3": "12",
+                "t3_text_3": "Mockups",
+                "t4_header_text": "Endless Features",
+                "t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+                "t4_features": [
+                  {
+                    "icon": "fa fa-cab",
+                    "color": "#fff",
+                    "title": "Fast &amp; easy work",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "ul03itq"
+                  },
+                  {
+                    "icon": "fa fa-pie-chart",
+                    "color": "#fff",
+                    "title": "Create result",
+                    "text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+                    "_id": "u05uqsb"
+                  }
+                ],
+                "t5_small_text": "Features",
+                "t5_header_text": "Header Varieties",
+                "t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t5_tabs": [
+                  {
+                    "title": "Color",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "vg764y4"
+                  },
+                  {
+                    "title": "Gradient",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "iktvyar"
+                  },
+                  {
+                    "title": "Typing",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "v04l0lz"
+                  },
+                  {
+                    "title": "Slider",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "tpqpz2e"
+                  }
+                ],
+                "t6_header_text": "Features",
+                "t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+                "t6_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#616771",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "td8y7e5"
+                  },
+                  {
+                    "icon": "fa fa-cubes",
+                    "color": "#616771",
+                    "title": "Elements &amp; Components",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "8leh7qv"
+                  }
+                ],
+                "t7_small_text": "Marketing",
+                "t7_header_text": "Increase Your Sells",
+                "t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+                "t7_btn_text": "Read more",
+                "t8_header_text": "More Than You Think",
+                "t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+                "t8_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#ffbe00",
+                    "title": "Responsive Design",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "4vd4a30"
+                  },
+                  {
+                    "icon": "fa fa-code",
+                    "color": "#ff4954",
+                    "title": "Clean Code",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "mia2gkr"
+                  }
+                ],
+                "t9_header_text": "Perfect for Your Business",
+                "t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t9_features": [
+                  {
+                    "icon": "fa fa-tv",
+                    "color": "#0facf3",
+                    "title": "Responsive",
+                    "text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+                    "_id": "gsrilr5"
+                  },
+                  {
+                    "icon": "fa fa-wrench",
+                    "color": "#0facf3",
+                    "title": "Customizable",
+                    "text": "You can easily read, edit, and write your own code, or change everything.",
+                    "_id": "dt39ioj"
+                  }
+                ],
+                "t10_header_text": "Unlimited Layout Option",
+                "t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+                "t10_list": [
+                  {
+                    "text": "MailChimp integration included",
+                    "_id": "gzkzi9c"
+                  },
+                  {
+                    "text": "Develop pages like lego",
+                    "_id": "rrojiw6"
+                  },
+                  {
+                    "text": "Dozen of colors for elements",
+                    "_id": "v9j1j1c"
+                  },
+                  {
+                    "text": "Drag and drop page design",
+                    "_id": "1900l5c"
+                  }
+                ],
+                "t11_small_text": "Features",
+                "t11_header_text": "More to Discover",
+                "t11_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t11_features": [
+                  {
+                    "image": {
+                      "url": "header-image.jpg"
+                    },
+                    "title": "5 Ready Samples",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "2biuoxz"
+                  },
+                  {
+                    "image": {
+                      "url": "header-video.jpg"
+                    },
+                    "title": "6 Header Types",
+                    "text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+                    "_id": "b44mblc"
+                  }
+                ],
+                "t12_small_text": "See it in action",
+                "t12_header_text": "Screenshots",
+                "t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_small_text": "Features",
+                "t13_header_text": "Header Varieties",
+                "t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+                "t13_tabs": [
+                  {
+                    "title": "Color",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-color.jpg\" alt=\"...\">",
+                    "_id": "ch2i4i0"
+                  },
+                  {
+                    "title": "Gradient",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+                    "_id": "8gcntrr"
+                  },
+                  {
+                    "title": "Typing",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+                    "_id": "c8th9rq"
+                  },
+                  {
+                    "title": "Slider",
+                    "subtitle": "Some description about the current tab.",
+                    "content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+                    "_id": "9vnyils"
+                  }
+                ],
+                "t1_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t2_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_1": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_2": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t3_image_3": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t4_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t6_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t7_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t8_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t9_image": {
+                  "id": "1798",
+                  "url": "bg-gift.jpg"
+                },
+                "t10_image": {
+                  "id": 2075,
+                  "url": "header-gradient.jpg"
+                },
+                "t12_gallery": [
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  },
+                  {
+                    "id": "1798",
+                    "url": "bg-gift.jpg"
+                  }
+                ],
+                "t14_image": {
+                  "id": 2073,
+                  "url": "bg-laptop.jpg"
+                },
+                "t14_fade_text": "01",
+                "t14_header_text": "Choose your product",
+                "t14_text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing."
+              },
+              "elements": [],
+              "widgetType": "the-feature"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}

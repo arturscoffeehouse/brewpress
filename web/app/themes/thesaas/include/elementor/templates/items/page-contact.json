@@ -1,0 +1,126 @@
+{
+  "content": [
+    {
+      "id": "nhefoqz",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "5kydbwn",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "r61y7aq",
+              "elType": "widget",
+              "settings": {
+                "t1_fullscreen": "",
+                "t1_header_text": "Let's Get In Touch",
+                "t1_text": "Here are the ways you can contact us with any questions you have",
+                "t2_header_text": "TheSaaS",
+                "t2_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t2_btn_text": "See demos",
+                "t3_header_text": "Create Professional Websites",
+                "t3_text": "TheSaaS is a responsive, professional, and multipurpose SaaS template powered with Bootstrap 4.",
+                "t3_btn_text": "Demos",
+                "t3_btn2_text": "Features",
+                "t4_header_text": "TheSaaS",
+                "t4_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t4_info_text": "Or Purchase Now",
+                "t5_header_text": "TheSaaS",
+                "t5_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_header_text": "TheSaaS",
+                "t6_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_btn_text": "Buy now $19",
+                "t7_typing_text": "Software, Startup, WebApp",
+                "t7_prefix": "Built for",
+                "t7_text": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t7_btn_text": "Purchase Now - $19",
+                "t7_info_text": "or purchase an Extended License",
+                "t8_header_text": "TheSaaS",
+                "t8_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t8_btn_text": "Get started",
+                "t8_info_text": "Already a member? Sign in",
+                "t9_header_text": "App Landing Page",
+                "t9_text": "The best template for your mobile app to showcase and acquire new customers all around the world. The best template that you can find anywhere!",
+                "t9_btn_text": "Download now",
+                "t9_btn2_text": "Features",
+                "t10_header_text": "TheSaaS",
+                "t10_text": "An elegant, modern and fully customizable SaaS and WebApp template",
+                "t10_btn_text": "Purchase now - $19",
+                "t10_info_text": "or purchase an Extended License"
+              },
+              "elements": [],
+              "widgetType": "the-cover"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "1fcoob5",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "mum1r40",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "phpmyus",
+              "elType": "widget",
+              "settings": {
+                "t1_address": "652 Main Road, Apt 12\nNew York, USA 10033",
+                "t1_email": "info@domain.com",
+                "t1_phone": "+1 (123) 456-7890",
+                "t1_fax": "",
+                "t1_success_msg": "We received your message and will contact you back soon.",
+                "t1_btn_text": "Send enquiry"
+              },
+              "elements": [],
+              "widgetType": "the-contact"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "aq7qwlc",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "s9btafm",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "fy7s4xz",
+              "elType": "widget",
+              "settings": {
+                "t1_lat": "44.540",
+                "t1_lng": "-78.556"
+              },
+              "elements": [],
+              "widgetType": "the-map"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}

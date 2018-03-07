@@ -1,0 +1,283 @@
+{
+  "content": [
+    {
+      "id": "n7c6i1w",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "i2unezy",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "sg2cx18",
+              "elType": "widget",
+              "settings": {
+                "t1_fullscreen": "",
+                "t1_header_text": "Frequently Asked Questions",
+                "t1_text": "Drop us an email if you couldn't find an answer to your question here.",
+                "t2_header_text": "TheSaaS",
+                "t2_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t2_btn_text": "See demos",
+                "t3_header_text": "Create Professional Websites",
+                "t3_text": "TheSaaS is a responsive, professional, and multipurpose SaaS template powered with Bootstrap 4.",
+                "t3_btn_text": "Demos",
+                "t3_btn2_text": "Features",
+                "t4_header_text": "TheSaaS",
+                "t4_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t4_info_text": "Or Purchase Now",
+                "t5_header_text": "TheSaaS",
+                "t5_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_header_text": "TheSaaS",
+                "t6_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_btn_text": "Buy now $19",
+                "t7_typing_text": "Software, Startup, WebApp",
+                "t7_prefix": "Built for",
+                "t7_text": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t7_btn_text": "Purchase Now - $19",
+                "t7_info_text": "or purchase an Extended License",
+                "t8_header_text": "TheSaaS",
+                "t8_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t8_btn_text": "Get started",
+                "t8_info_text": "Already a member? Sign in",
+                "t9_header_text": "App Landing Page",
+                "t9_text": "The best template for your mobile app to showcase and acquire new customers all around the world. The best template that you can find anywhere!",
+                "t9_btn_text": "Download now",
+                "t9_btn2_text": "Features",
+                "t10_header_text": "TheSaaS",
+                "t10_text": "An elegant, modern and fully customizable SaaS and WebApp template",
+                "t10_btn_text": "Purchase now - $19",
+                "t10_info_text": "or purchase an Extended License"
+              },
+              "elements": [],
+              "widgetType": "the-cover"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "1aq7uv7",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "6cosx0z",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "818txvx",
+              "elType": "widget",
+              "settings": {
+                "type": "type-2",
+                "t1_small_text": "FAQ",
+                "t1_header_text": "General",
+                "t1_lead_text": "Send an email if you couldn't find an answer to your question here.",
+                "t1_faqs": [
+                  {
+                    "question": "What is TheSaaS?",
+                    "answer": "It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.",
+                    "_id": "i47o6z2"
+                  },
+                  {
+                    "question": "How long are your contracts?",
+                    "answer": "You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation.",
+                    "_id": "xot89se"
+                  }
+                ],
+                "t2_small_text": "FAQ",
+                "t2_header_text": "General",
+                "t2_lead_text": "Send an email if you couldn't find an answer to your question here.",
+                "t2_faqs": [
+                  {
+                    "question": "What is TheSaaS?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "t9jo2pz"
+                  },
+                  {
+                    "question": "Where can I learn more about how to use TheSaaS?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "2g9hsx1"
+                  },
+                  {
+                    "question": "Where can I get more details about your security practices?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "7s6vvzu"
+                  },
+                  {
+                    "question": "Where can I get more details about your security practices?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "o03lmez"
+                  },
+                  {
+                    "question": "What is TheSaaS\\u2019s approach to data privacy?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "8hzbtxi"
+                  }
+                ]
+              },
+              "elements": [],
+              "widgetType": "the-faq"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "6g6vfo4",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "wblnqks",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "0e943gn",
+              "elType": "widget",
+              "settings": {
+                "type": "type-2",
+                "t1_small_text": "FAQ",
+                "t1_header_text": "General",
+                "t1_lead_text": "Send an email if you couldn't find an answer to your question here.",
+                "t1_faqs": [
+                  {
+                    "question": "What is TheSaaS?",
+                    "answer": "It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.",
+                    "_id": "i47o6z2"
+                  },
+                  {
+                    "question": "How long are your contracts?",
+                    "answer": "You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation.",
+                    "_id": "xot89se"
+                  }
+                ],
+                "t2_bg_gray": "bg-gray",
+                "t2_small_text": "FAQ",
+                "t2_header_text": "License",
+                "t2_lead_text": "Send an email if you couldn't find an answer to your question here.",
+                "t2_faqs": [
+                  {
+                    "question": "What is reqular license?",
+                    "answer": "<p>Regular license can be used for end products (web service or SAAS) that charges users for access or service (e.g: monthly subscription fee). Single extended license can be used for single end product and end product can be used by you or your client. If you want to sell end product to multiple clients then you will need to purchase separate extended license for each client. The same rule applies if you want to use the same end product on multiple domains (unique setup).</p>",
+                    "_id": "t9jo2pz"
+                  },
+                  {
+                    "question": "What is extended license?",
+                    "answer": "<p>Extended license can be used for end products (web service or SAAS) that charges users for access or service (e.g: monthly subscription fee). Single extended license can be used for single end product and end product can be used by you or your client. If you want to sell end product to multiple clients then you will need to purchase separate extended license for each client. The same rule applies if you want to use the same end product on multiple domains (unique setup).</p>",
+                    "_id": "2g9hsx1"
+                  },
+                  {
+                    "question": "Where can I find your Terms of Service (TOS)?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "ywz9p7e"
+                  }
+                ]
+              },
+              "elements": [],
+              "widgetType": "the-faq"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "jbzjvps",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "9znnywf",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "vzb05jw",
+              "elType": "widget",
+              "settings": {
+                "type": "type-2",
+                "t1_small_text": "FAQ",
+                "t1_header_text": "General",
+                "t1_lead_text": "Send an email if you couldn't find an answer to your question here.",
+                "t1_faqs": [
+                  {
+                    "question": "What is TheSaaS?",
+                    "answer": "It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.",
+                    "_id": "i47o6z2"
+                  },
+                  {
+                    "question": "How long are your contracts?",
+                    "answer": "You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation.",
+                    "_id": "xot89se"
+                  }
+                ],
+                "t2_small_text": "FAQ",
+                "t2_header_text": "Payment",
+                "t2_lead_text": "Send an email if you couldn't find an answer to your question here.",
+                "t2_faqs": [
+                  {
+                    "question": "Can I use TheSaaS for free?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "t9jo2pz"
+                  },
+                  {
+                    "question": "What payment services do you support?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "2g9hsx1"
+                  },
+                  {
+                    "question": "Can I cancel my subscription?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "4g871hp"
+                  },
+                  {
+                    "question": "Is this a secure site for purchases?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "18w7nvp"
+                  },
+                  {
+                    "question": "Can I update my card details?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "5scip66"
+                  },
+                  {
+                    "question": "What if I want to change plans?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "liu238x"
+                  },
+                  {
+                    "question": "How long are your contracts?",
+                    "answer": "<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.</p>",
+                    "_id": "bi1veil"
+                  }
+                ]
+              },
+              "elements": [],
+              "widgetType": "the-faq"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}
