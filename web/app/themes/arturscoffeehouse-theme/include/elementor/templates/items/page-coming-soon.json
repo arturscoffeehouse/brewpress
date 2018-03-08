@@ -1,0 +1,223 @@
+{
+  "content": [
+    {
+      "id": "rufgtsm",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "fycqijk",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "koyppjv",
+              "elType": "widget",
+              "settings": {
+                "type": "type-11",
+                "t1_fullscreen": "",
+                "t1_header_text": "Header Title",
+                "t1_text": "Some description to put inside the header.",
+                "t2_header_text": "TheSaaS",
+                "t2_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t2_btn_text": "See demos",
+                "t3_header_text": "Create Professional Websites",
+                "t3_text": "TheSaaS is a responsive, professional, and multipurpose SaaS template powered with Bootstrap 4.",
+                "t3_btn_text": "Demos",
+                "t3_btn2_text": "Features",
+                "t4_header_text": "TheSaaS",
+                "t4_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t4_info_text": "Or Purchase Now",
+                "t5_header_text": "TheSaaS",
+                "t5_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_header_text": "TheSaaS",
+                "t6_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_btn_text": "Buy now $19",
+                "t7_typing_text": "Software, Startup, WebApp",
+                "t7_prefix": "Built for",
+                "t7_text": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t7_btn_text": "Purchase Now - $19",
+                "t7_info_text": "or purchase an Extended License",
+                "t8_header_text": "TheSaaS",
+                "t8_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t8_btn_text": "Get started",
+                "t8_info_text": "Already a member? Sign in",
+                "t9_header_text": "App Landing Page",
+                "t9_text": "The best template for your mobile app to showcase and acquire new customers all around the world. The best template that you can find anywhere!",
+                "t9_btn_text": "Download now",
+                "t9_btn2_text": "Features",
+                "t10_header_text": "TheSaaS",
+                "t10_text": "An elegant, modern and fully customizable SaaS and WebApp template",
+                "t10_btn_text": "Purchase now - $19",
+                "t10_info_text": "or purchase an Extended License",
+                "t11_header_text": "COMING SOON",
+                "t11_text": "TheSaaS is a responsive, professional, and multipurpose SaaS, Software, Startup and WebApp landing template powered by Bootstrap 4. TheSaaS is a powerful and super flexible tool, which suits best for any kind of landing pages.",
+                "t11_counter_header": "We will be ready in",
+                "t11_counter_deadline": "2017/12/25",
+                "t1_bg_image": {
+                  "id": "",
+                  "url": "bg-laptop.jpg"
+                },
+                "t1_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t1_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t2_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t2_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t2_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t3_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t3_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t3_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t4_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t4_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t4_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t5_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t5_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t5_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t5_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t6_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t6_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t6_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t6_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t7_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t7_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t7_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t8_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t8_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t8_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t8_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t9_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t9_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t9_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t9_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t10_bg_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t10_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t10_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t10_image": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t11_bg_image": {
+                  "id": 1750,
+                  "url": "bg-laptop.jpg"
+                },
+                "t11_bg_video_poster": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                },
+                "t11_bg_video_mp4": {
+                  "id": "1793",
+                  "url": "bg-laptop.jpg"
+                }
+              },
+              "elements": [],
+              "widgetType": "the-cover"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}

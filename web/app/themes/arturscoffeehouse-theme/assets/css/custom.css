@@ -1,0 +1,144 @@
+body, button, input, optgroup, select, textarea,
+h6, .h6,
+.heading-alt,
+.typed-cursor,
+.accordion .card-title,
+.font-body,
+.font-opensans {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.font-title,
+.font-raleway {
+  font-family: "Dosis", sans-serif;
+}
+
+a, a:hover, a:focus,
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
+.h1 a:hover, .h2 a:hover, .h3 a:hover, .h4 a:hover, .h5 a:hover, .h6 a:hover,
+[data-typed].text-primary + .typed-cursor,
+.btn-link:hover, .btn-link:focus,
+.nav-link:hover, .menu-item a:hover, .nav-link:focus, .menu-item a:focus, .nav-link.active, .menu-item a.active,
+.nav-primary .nav-link:not(.disabled):hover, .nav-primary .menu-item a:not(.disabled):hover, .menu-item .nav-primary a:not(.disabled):hover, .nav-primary .nav-link:not(.disabled):focus, .nav-primary .menu-item a:not(.disabled):focus, .menu-item .nav-primary a:not(.disabled):focus,
+.custom-checkbox .custom-control-indicator::after,
+.nav-submenu .nav-link.active, .nav-submenu .menu-item a.active, .menu-item .nav-submenu a.active {
+  color: #b77d5c;
+}
+
+.social-hover-primary a:hover,
+.text-primary,
+a.text-primary:hover, a.text-primary:focus,
+.hover-primary:hover, .hover-primary:focus {
+  color: #b77d5c !important;
+}
+
+.badge-primary,
+.scroll-top,
+.custom-radio .custom-control-indicator::after,
+.portfolio-1::before,
+.bg-primary,
+[data-overlay-primary]::before {
+  background-color: #b77d5c;
+}
+
+.border-primary {
+  border-color: #b77d5c;
+}
+
+pre {
+  border-left-color: #b77d5c;
+}
+
+.btn-primary, .comment-form .submit, .post-password-form input[type="submit"], .btn-primary:hover, .comment-form .submit:hover, .post-password-form input[type="submit"]:hover,
+.btn-primary.disabled, .comment-form .disabled.submit, .post-password-form input.disabled[type="submit"], .btn-primary:disabled, .comment-form .submit:disabled, .post-password-form input[type="submit"]:disabled,
+.btn-primary-outline:hover,
+.btn-outline.btn-primary:hover, .comment-form .btn-outline.submit:hover, .post-password-form input.btn-outline[type="submit"]:hover,
+.wpcf7-submit, .wpcf7-submit:hover,
+.wpcf7-submit.disabled, .wpcf7-submit:disabled {
+  background-color: #b77d5c;
+  border-color: #b77d5c;
+}
+
+.btn-primary-outline,
+.btn-outline.btn-primary, .comment-form .btn-outline.submit, .post-password-form input.btn-outline[type="submit"] {
+  color: #b77d5c;
+  border-color: #b77d5c;
+}
+
+
+@media (max-width: 1199px) {
+  .topbar-expand-lg .topbar-nav .nav-link.active, .topbar-expand-lg .topbar-nav .menu-item a.active, .menu-item .topbar-expand-lg .topbar-nav a.active,
+  .topbar-expand-lg .nav-link.active, .topbar-expand-lg .menu-item a.active, .menu-item .topbar-expand-lg a.active {
+    color: #b77d5c;
+  }
+}
+
+
+@media (max-width: 991px) {
+  .topbar-expand-md .topbar-nav .nav-link.active, .topbar-expand-md .topbar-nav .menu-item a.active, .menu-item .topbar-expand-md .topbar-nav a.active,
+  .topbar-expand-md .nav-link.active, .topbar-expand-md .menu-item a.active, .menu-item .topbar-expand-md a.active {
+    color: #b77d5c;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .topbar-expand-sm .topbar-nav .nav-link.active, .topbar-expand-sm .topbar-nav .menu-item a.active, .menu-item .topbar-expand-sm .topbar-nav a.active,
+  .topbar-expand-sm .nav-link.active, .topbar-expand-sm .menu-item a.active, .menu-item .topbar-expand-sm a.active {
+    color: #b77d5c;
+  }
+}
+
+@media (max-width: 575px) {
+  .topbar-expand-xs .topbar-nav .nav-link.active, .topbar-expand-xs .topbar-nav .menu-item a.active, .menu-item .topbar-expand-xs .topbar-nav a.active,
+  .topbar-expand-xs .nav-link.active, .topbar-expand-xs .menu-item a.active, .menu-item .topbar-expand-xs a.active {
+    color: #b77d5c;
+  }
+}
+
+::selection {
+  background: #d59b7a;
+}
+::-moz-selection {
+  background: #d59b7a;
+}
+
+.form-control:focus,
+.post-password-form input[type="password"]:focus,
+.wpcf7-text:focus,
+.wpcf7-date:focus,
+.wpcf7-quiz:focus,
+.wpcf7-number:focus,
+.wpcf7-select:focus,
+.wpcf7-textarea:focus {
+  border-color: #e9af8e;
+}
+
+.scroll-top {
+  box-shadow: 0 3px 15px rgba(183,125,92,0.4);
+}
+
+.body-scrolled .scroll-top:hover,
+.body-scrolled .scroll-top:focus {
+  box-shadow: 0 3px 20px rgba(183,125,92,0.6);
+}
+
+.btn-primary:hover,
+.wpcf7-submit:hover {
+  box-shadow: 0 2px 10px rgba(183,125,92,0.4);
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.show > .btn-primary.dropdown-toggle,
+.btn-outline.btn-primary:active,
+.btn-outline.btn-primary.active,
+.show > .btn-outline.btn-primary.dropdown-toggle,
+.wpcf7-submit:active,
+.wpcf7-submit.active,
+.show > .wpcf7-submit.dropdown-toggle, {
+  background-color: #995f3e;
+  border-color: #995f3e;
+}

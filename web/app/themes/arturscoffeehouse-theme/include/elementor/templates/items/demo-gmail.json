@@ -1,0 +1,1029 @@
+{
+	"content": [
+		{
+			"id": "i1yqrzp",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "670q1mw",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "68e9i9r",
+							"elType": "widget",
+							"settings": {
+								"type": "type-5",
+								"t1_fullscreen": "",
+								"t1_header_text": "Header Title",
+								"t1_text": "Some description to put inside the header.",
+								"t2_header_text": "TheSaaS",
+								"t2_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t2_btn_text": "See demos",
+								"t3_header_text": "Create Professional Websites",
+								"t3_text": "TheSaaS is a responsive, professional, and multipurpose SaaS template powered with Bootstrap 4.",
+								"t3_btn_text": "Demos",
+								"t3_btn2_text": "Features",
+								"t4_header_text": "TheSaaS",
+								"t4_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t4_info_text": "Or Purchase Now",
+								"t5_background": "image",
+								"t5_bg_image": {
+									"url": "bg-girl.jpg",
+									"id": 534
+								},
+								"t5_header_inverse": "",
+								"t5_overlay": {
+									"unit": "%",
+									"size": 8
+								},
+								"t5_overlay_color": "#ffffff",
+								"t5_header_text": "Gmail",
+								"t5_text": "The ease & simplicity of Gmail, available across devices",
+								"t5_image": {
+									"url": "demo/gmail/intro.jpg",
+									"id": 533
+								},
+								"t6_header_text": "TheSaaS",
+								"t6_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t6_btn_text": "Buy now $19",
+								"t7_typing_text": "Software, Startup, WebApp",
+								"t7_prefix": "Built for",
+								"t7_text": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t7_btn_text": "Purchase Now - $19",
+								"t7_info_text": "or purchase an Extended License",
+								"t8_header_text": "TheSaaS",
+								"t8_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t8_btn_text": "Get started",
+								"t8_info_text": "Already a member? Sign in",
+								"t9_header_text": "App Landing Page",
+								"t9_text": "The best template for your mobile app to showcase and acquire new customers all around the world. The best template that you can find anywhere!",
+								"t9_btn_text": "Download now",
+								"t9_btn2_text": "Features",
+								"t10_header_text": "TheSaaS",
+								"t10_text": "An elegant, modern and fully customizable SaaS and WebApp template",
+								"t10_btn_text": "Purchase now - $19",
+								"t10_info_text": "or purchase an Extended License"
+							},
+							"elements": [],
+							"widgetType": "the-cover"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "2bhygsl",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "yt3dgw4",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "m1ll3lg",
+							"elType": "widget",
+							"settings": {
+								"t1_small_text": "Features",
+								"t1_header_text": "All In One",
+								"t1_lead_text": "New customizable tabs put you back in control so that you can see what’s new at a glance and decide which emails you want to read and when.",
+								"t1_image": {
+									"url": "demo/gmail/feature.jpg",
+									"id": 532
+								},
+								"t1_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#e4e7ea",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "osmjdez"
+									},
+									{
+										"icon": "fa fa-wrench",
+										"color": "#e4e7ea",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "1lvazvt"
+									},
+									{
+										"icon": "fa fa-cubes",
+										"color": "#e4e7ea",
+										"title": "UI Elements",
+										"text": "There is a bunch of useful and necessary elements for developing your website.",
+										"_id": "h02vo3x"
+									},
+									{
+										"icon": "fa fa-code",
+										"color": "#e4e7ea",
+										"title": "Clean Code",
+										"text": "You can find our code well organized, commented and readable.",
+										"_id": "uwc1u21"
+									},
+									{
+										"icon": "fa fa-file-text-o",
+										"color": "#e4e7ea",
+										"title": "Documented",
+										"text": "As you can see in the source code, we provided a comprehensive documentation.",
+										"_id": "zkxt3lk"
+									},
+									{
+										"icon": "fa fa-download",
+										"color": "#e4e7ea",
+										"title": "Free Updates",
+										"text": "When you purchase this template, you&#039;ll freely receive future updates.",
+										"_id": "6ezk88p"
+									}
+								],
+								"t1_btn_text": "See more features",
+								"t2_header_text": "Create Admin Area",
+								"t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+								"t2_btn_text": "Get start now",
+								"t3_small_text": "Features",
+								"t3_header_text": "Full, Faster, Functional",
+								"t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+								"t3_number_1": "100+",
+								"t3_text_1": "Screens",
+								"t3_number_2": "6.7x",
+								"t3_text_2": "Faster",
+								"t3_number_3": "12",
+								"t3_text_3": "Mockups",
+								"t4_header_text": "Endless Features",
+								"t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+								"t4_features": [
+									{
+										"icon": "fa fa-cab",
+										"color": "#fff",
+										"title": "Fast &amp; easy work",
+										"text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+										"_id": "6tmvg8p"
+									},
+									{
+										"icon": "fa fa-pie-chart",
+										"color": "#fff",
+										"title": "Create result",
+										"text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+										"_id": "c7k4fce"
+									}
+								],
+								"t5_small_text": "Features",
+								"t5_header_text": "Header Varieties",
+								"t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t5_tabs": [
+									{
+										"title": "Color",
+										"content": "<img src=\"header-color.jpg\" alt=\"...\">",
+										"_id": "ezdszho"
+									},
+									{
+										"title": "Gradient",
+										"content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+										"_id": "efqe75c"
+									},
+									{
+										"title": "Typing",
+										"content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+										"_id": "zwiw46r"
+									},
+									{
+										"title": "Slider",
+										"content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+										"_id": "kas309o"
+									}
+								],
+								"t6_header_text": "Features",
+								"t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+								"t6_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#616771",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "uv4m31e"
+									},
+									{
+										"icon": "fa fa-cubes",
+										"color": "#616771",
+										"title": "Elements &amp; Components",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "hrbw51g"
+									}
+								],
+								"t7_small_text": "Marketing",
+								"t7_header_text": "Increase Your Sells",
+								"t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+								"t7_btn_text": "Read more",
+								"t8_header_text": "More Than You Think",
+								"t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+								"t8_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#ffbe00",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "gmgdm61"
+									},
+									{
+										"icon": "fa fa-code",
+										"color": "#ff4954",
+										"title": "Clean Code",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "z38v564"
+									}
+								],
+								"t9_header_text": "Perfect for Your Business",
+								"t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+								"t9_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#0facf3",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "wof84te"
+									},
+									{
+										"icon": "fa fa-wrench",
+										"color": "#0facf3",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "v9yi2qg"
+									}
+								],
+								"t10_header_text": "Unlimited Layout Option",
+								"t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+								"t10_list": [
+									{
+										"text": "MailChimp integration included",
+										"_id": "lbi0lp3"
+									},
+									{
+										"text": "Develop pages like lego",
+										"_id": "p9queoe"
+									},
+									{
+										"text": "Dozen of colors for elements",
+										"_id": "u8p04t8"
+									},
+									{
+										"text": "Drag and drop page design",
+										"_id": "w4d150t"
+									}
+								],
+								"t11_small_text": "Features",
+								"t11_header_text": "More to Discover",
+								"t11_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t11_features": [
+									{
+										"image": {
+											"url": "header-image.jpg"
+										},
+										"title": "5 Ready Samples",
+										"text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+										"_id": "jrwxj3r"
+									},
+									{
+										"image": {
+											"url": "header-video.jpg"
+										},
+										"title": "6 Header Types",
+										"text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+										"_id": "shkimri"
+									}
+								],
+								"t12_small_text": "See it in action",
+								"t12_header_text": "Screenshots",
+								"t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t13_small_text": "Features",
+								"t13_header_text": "Header Varieties",
+								"t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t13_tabs": [
+									{
+										"title": "Color",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-color.jpg\" alt=\"...\">",
+										"_id": "my7xm4m"
+									},
+									{
+										"title": "Gradient",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+										"_id": "072k5fy"
+									},
+									{
+										"title": "Typing",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+										"_id": "qf2tjqp"
+									},
+									{
+										"title": "Slider",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+										"_id": "95eipg1"
+									}
+								]
+							},
+							"elements": [],
+							"widgetType": "the-feature"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "lrd1ucv",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "ct193wd",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "4yfpy3h",
+							"elType": "widget",
+							"settings": {
+								"type": "type-7",
+								"t1_small_text": "Features",
+								"t1_header_text": "Great Combination",
+								"t1_lead_text": "Holisticly implement fully tested process improvements rather than dynamic internal.",
+								"t1_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#e4e7ea",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "osmjdez"
+									},
+									{
+										"icon": "fa fa-wrench",
+										"color": "#e4e7ea",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "1lvazvt"
+									},
+									{
+										"icon": "fa fa-cubes",
+										"color": "#e4e7ea",
+										"title": "UI Elements",
+										"text": "There is a bunch of useful and necessary elements for developing your website.",
+										"_id": "h02vo3x"
+									},
+									{
+										"icon": "fa fa-code",
+										"color": "#e4e7ea",
+										"title": "Clean Code",
+										"text": "You can find our code well organized, commented and readable.",
+										"_id": "uwc1u21"
+									},
+									{
+										"icon": "fa fa-file-text-o",
+										"color": "#e4e7ea",
+										"title": "Documented",
+										"text": "As you can see in the source code, we provided a comprehensive documentation.",
+										"_id": "zkxt3lk"
+									},
+									{
+										"icon": "fa fa-download",
+										"color": "#e4e7ea",
+										"title": "Free Updates",
+										"text": "When you purchase this template, you&#039;ll freely receive future updates.",
+										"_id": "6ezk88p"
+									}
+								],
+								"t1_btn_text": "See more features",
+								"t2_header_text": "Create Admin Area",
+								"t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+								"t2_btn_text": "Get start now",
+								"t3_small_text": "Features",
+								"t3_header_text": "Full, Faster, Functional",
+								"t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+								"t3_number_1": "100+",
+								"t3_text_1": "Screens",
+								"t3_number_2": "6.7x",
+								"t3_text_2": "Faster",
+								"t3_number_3": "12",
+								"t3_text_3": "Mockups",
+								"t4_header_text": "Endless Features",
+								"t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+								"t4_features": [
+									{
+										"icon": "fa fa-cab",
+										"color": "#fff",
+										"title": "Fast &amp; easy work",
+										"text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+										"_id": "6tmvg8p"
+									},
+									{
+										"icon": "fa fa-pie-chart",
+										"color": "#fff",
+										"title": "Create result",
+										"text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+										"_id": "c7k4fce"
+									}
+								],
+								"t5_small_text": "Features",
+								"t5_header_text": "Header Varieties",
+								"t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t5_tabs": [
+									{
+										"title": "Color",
+										"content": "<img src=\"header-color.jpg\" alt=\"...\">",
+										"_id": "ezdszho"
+									},
+									{
+										"title": "Gradient",
+										"content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+										"_id": "efqe75c"
+									},
+									{
+										"title": "Typing",
+										"content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+										"_id": "zwiw46r"
+									},
+									{
+										"title": "Slider",
+										"content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+										"_id": "kas309o"
+									}
+								],
+								"t6_header_text": "Features",
+								"t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+								"t6_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#616771",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "uv4m31e"
+									},
+									{
+										"icon": "fa fa-cubes",
+										"color": "#616771",
+										"title": "Elements &amp; Components",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "hrbw51g"
+									}
+								],
+								"t7_small_text": "Tips",
+								"t7_header_text": "A better compose",
+								"t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+								"t7_image": {
+									"url": "demo/gmail/compose.jpg",
+									"id": 529
+								},
+								"t7_btn_text": "Read more",
+								"t8_header_text": "More Than You Think",
+								"t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+								"t8_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#ffbe00",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "gmgdm61"
+									},
+									{
+										"icon": "fa fa-code",
+										"color": "#ff4954",
+										"title": "Clean Code",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "z38v564"
+									}
+								],
+								"t9_header_text": "Perfect for Your Business",
+								"t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+								"t9_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#0facf3",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "wof84te"
+									},
+									{
+										"icon": "fa fa-wrench",
+										"color": "#0facf3",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "v9yi2qg"
+									}
+								],
+								"t10_header_text": "Unlimited Layout Option",
+								"t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+								"t10_list": [
+									{
+										"text": "MailChimp integration included",
+										"_id": "lbi0lp3"
+									},
+									{
+										"text": "Develop pages like lego",
+										"_id": "p9queoe"
+									},
+									{
+										"text": "Dozen of colors for elements",
+										"_id": "u8p04t8"
+									},
+									{
+										"text": "Drag and drop page design",
+										"_id": "w4d150t"
+									}
+								],
+								"t11_small_text": "Features",
+								"t11_header_text": "More to Discover",
+								"t11_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t11_features": [
+									{
+										"image": {
+											"url": "header-image.jpg"
+										},
+										"title": "5 Ready Samples",
+										"text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+										"_id": "jrwxj3r"
+									},
+									{
+										"image": {
+											"url": "header-video.jpg"
+										},
+										"title": "6 Header Types",
+										"text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+										"_id": "shkimri"
+									}
+								],
+								"t12_small_text": "See it in action",
+								"t12_header_text": "Screenshots",
+								"t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t13_small_text": "Features",
+								"t13_header_text": "Header Varieties",
+								"t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t13_tabs": [
+									{
+										"title": "Color",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-color.jpg\" alt=\"...\">",
+										"_id": "my7xm4m"
+									},
+									{
+										"title": "Gradient",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+										"_id": "072k5fy"
+									},
+									{
+										"title": "Typing",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+										"_id": "qf2tjqp"
+									},
+									{
+										"title": "Slider",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+										"_id": "95eipg1"
+									}
+								]
+							},
+							"elements": [],
+							"widgetType": "the-feature"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "d2crg5v",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "zjecbu5",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "0xq4f6a",
+							"elType": "widget",
+							"settings": {
+								"type": "type-7",
+								"t1_small_text": "Features",
+								"t1_header_text": "Great Combination",
+								"t1_lead_text": "Holisticly implement fully tested process improvements rather than dynamic internal.",
+								"t1_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#e4e7ea",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "osmjdez"
+									},
+									{
+										"icon": "fa fa-wrench",
+										"color": "#e4e7ea",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "1lvazvt"
+									},
+									{
+										"icon": "fa fa-cubes",
+										"color": "#e4e7ea",
+										"title": "UI Elements",
+										"text": "There is a bunch of useful and necessary elements for developing your website.",
+										"_id": "h02vo3x"
+									},
+									{
+										"icon": "fa fa-code",
+										"color": "#e4e7ea",
+										"title": "Clean Code",
+										"text": "You can find our code well organized, commented and readable.",
+										"_id": "uwc1u21"
+									},
+									{
+										"icon": "fa fa-file-text-o",
+										"color": "#e4e7ea",
+										"title": "Documented",
+										"text": "As you can see in the source code, we provided a comprehensive documentation.",
+										"_id": "zkxt3lk"
+									},
+									{
+										"icon": "fa fa-download",
+										"color": "#e4e7ea",
+										"title": "Free Updates",
+										"text": "When you purchase this template, you&#039;ll freely receive future updates.",
+										"_id": "6ezk88p"
+									}
+								],
+								"t1_btn_text": "See more features",
+								"t2_header_text": "Create Admin Area",
+								"t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+								"t2_btn_text": "Get start now",
+								"t3_small_text": "Features",
+								"t3_header_text": "Full, Faster, Functional",
+								"t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+								"t3_number_1": "100+",
+								"t3_text_1": "Screens",
+								"t3_number_2": "6.7x",
+								"t3_text_2": "Faster",
+								"t3_number_3": "12",
+								"t3_text_3": "Mockups",
+								"t4_header_text": "Endless Features",
+								"t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+								"t4_features": [
+									{
+										"icon": "fa fa-cab",
+										"color": "#fff",
+										"title": "Fast &amp; easy work",
+										"text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+										"_id": "6tmvg8p"
+									},
+									{
+										"icon": "fa fa-pie-chart",
+										"color": "#fff",
+										"title": "Create result",
+										"text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+										"_id": "c7k4fce"
+									}
+								],
+								"t5_small_text": "Features",
+								"t5_header_text": "Header Varieties",
+								"t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t5_tabs": [
+									{
+										"title": "Color",
+										"content": "<img src=\"header-color.jpg\" alt=\"...\">",
+										"_id": "ezdszho"
+									},
+									{
+										"title": "Gradient",
+										"content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+										"_id": "efqe75c"
+									},
+									{
+										"title": "Typing",
+										"content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+										"_id": "zwiw46r"
+									},
+									{
+										"title": "Slider",
+										"content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+										"_id": "kas309o"
+									}
+								],
+								"t6_header_text": "Features",
+								"t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+								"t6_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#616771",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "uv4m31e"
+									},
+									{
+										"icon": "fa fa-cubes",
+										"color": "#616771",
+										"title": "Elements &amp; Components",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "hrbw51g"
+									}
+								],
+								"t7_switch_sides": "yes",
+								"t7_small_text": "Collaborative",
+								"t7_header_text": "View attachments instantly",
+								"t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+								"t7_image": {
+									"url": "demo/gmail/attachment.jpg",
+									"id": 530
+								},
+								"t7_btn_text": "Read more",
+								"t8_header_text": "More Than You Think",
+								"t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+								"t8_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#ffbe00",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "gmgdm61"
+									},
+									{
+										"icon": "fa fa-code",
+										"color": "#ff4954",
+										"title": "Clean Code",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "z38v564"
+									}
+								],
+								"t9_header_text": "Perfect for Your Business",
+								"t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+								"t9_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#0facf3",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "wof84te"
+									},
+									{
+										"icon": "fa fa-wrench",
+										"color": "#0facf3",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "v9yi2qg"
+									}
+								],
+								"t10_header_text": "Unlimited Layout Option",
+								"t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+								"t10_list": [
+									{
+										"text": "MailChimp integration included",
+										"_id": "lbi0lp3"
+									},
+									{
+										"text": "Develop pages like lego",
+										"_id": "p9queoe"
+									},
+									{
+										"text": "Dozen of colors for elements",
+										"_id": "u8p04t8"
+									},
+									{
+										"text": "Drag and drop page design",
+										"_id": "w4d150t"
+									}
+								],
+								"t11_small_text": "Features",
+								"t11_header_text": "More to Discover",
+								"t11_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t11_features": [
+									{
+										"image": {
+											"url": "header-image.jpg"
+										},
+										"title": "5 Ready Samples",
+										"text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+										"_id": "jrwxj3r"
+									},
+									{
+										"image": {
+											"url": "header-video.jpg"
+										},
+										"title": "6 Header Types",
+										"text": "Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.",
+										"_id": "shkimri"
+									}
+								],
+								"t12_small_text": "See it in action",
+								"t12_header_text": "Screenshots",
+								"t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t13_small_text": "Features",
+								"t13_header_text": "Header Varieties",
+								"t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t13_tabs": [
+									{
+										"title": "Color",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-color.jpg\" alt=\"...\">",
+										"_id": "my7xm4m"
+									},
+									{
+										"title": "Gradient",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+										"_id": "072k5fy"
+									},
+									{
+										"title": "Typing",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+										"_id": "qf2tjqp"
+									},
+									{
+										"title": "Slider",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+										"_id": "95eipg1"
+									}
+								]
+							},
+							"elements": [],
+							"widgetType": "the-feature"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "0s32up1",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "iq2w0p2",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "wxdnf7v",
+							"elType": "widget",
+							"settings": {
+								"type": "type-8",
+								"t1_header_text": "Join over 1,000 companies that trust us.",
+								"t1_text": "Try it yourself 30 days free. No credit card required!",
+								"t1_btn_text": "Design your site now",
+								"t2_text": "Want a bite? You&#039;re in the right place!",
+								"t2_btn_text": "Take a test drive",
+								"t3_header_text": "Become an Outstanding Startup",
+								"t3_text": "Try it yourself 30 days free. No credit card required! A good news is that you have 15 days money back!",
+								"t3_btn_text": "Start now",
+								"t4_text": "20,000+ companies are using our templates every day!",
+								"t4_btn_text": "Get Started",
+								"t5_header_text": "Download now",
+								"t5_text": "Continually e-enable vertical schemas with top-line infomediaries. Energistically restore real-time core competencies and compelling leadership skills.",
+								"t5_stars_text": "Based on 3,000+ reviews",
+								"t6_header_text": "Get it now",
+								"t6_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t7_text": "Start the supporting system that you always dreamed about",
+								"t7_btn_text": "Login with envato",
+								"t8_bg_gray": "bg-gray",
+								"t8_small_text": "Gmail",
+								"t8_header_text": "Get Custom Email",
+								"t8_lead_text": "Use the Gmail you love – for business. Get custom email @yourcompany.com including calendar, docs, video meetings, and more with access from your phone or tablet.",
+								"t8_btn_text": "Get Started",
+								"t8_btn_color": "btn-danger",
+								"t8_info_text": "",
+								"t9_small_text": "Own it",
+								"t9_header_text": "Get it now",
+								"t9_lead_text": "If you have visited the other pages and you have made your decision to purchase this template, go on and press the following button and get a license in less than a minute.",
+								"t9_btn_text": "Purchase for $19",
+								"t9_info_text": "or purchase an Extended License"
+							},
+							"elements": [],
+							"widgetType": "the-cta"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "grmatvh",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "ibaunvd",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "knhokgi",
+							"elType": "widget",
+							"settings": {
+								"t1_small_text": "Questions",
+								"t1_header_text": "Frequently Asked Questions",
+								"t1_lead_text": "Got a question? We've got answers. If you have some other questions, see our support center.",
+								"t1_faqs": [
+									{
+										"question": "What payment services do you support?",
+										"answer": "",
+										"_id": "u5u1828"
+									},
+									{
+										"question": "Can I cancel my subscription?",
+										"answer": "<p>You can cancel your subscription at any time. Cancelling your plan comes into effect the following month.</p>",
+										"_id": "d937xgc"
+									},
+									{
+										"question": "Is this a secure site for purchases?",
+										"answer": "<p>Absolutely! We work with Stripe which guarantees your safety and security. All site communication and data transfer are secured and encrypted.</p>",
+										"_id": "5nsymkf"
+									},
+									{
+										"question": "Can I update my card details?",
+										"answer": "<p>Yes. Go to the billing section of your dashboard and update your payment information.</p>",
+										"_id": "y0ti7ms"
+									},
+									{
+										"question": "Can I try Helpato for free?",
+										"answer": "<p>Of course! We’re happy to offer a free plan to anyone who wants to try our support system. There is no credit card required; you get access to all our great features; and if you choose to upgrade to a paid plan, you can keep all of your data too!</p>",
+										"_id": "wil9t8h"
+									},
+									{
+										"question": "What if I want to change plans?",
+										"answer": "<p>It's quick and easy to switch between our different pricing plans from your dashboard. Changes to your account will happen in real-time and any fees will be changed accordingly.</p>",
+										"_id": "5u5w59h"
+									},
+									{
+										"question": "How long are your contracts?",
+										"answer": "<p>Currently, we only offer monthly subscription. You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation. Yearly subscription with generous discount will become available soon.</p>",
+										"_id": "xz3udz7"
+									},
+									{
+										"question": "Why do you ask for several permissions in login?",
+										"answer": "<p>Envato API requires us to ask for these permissions to have the ability to get your details, items, purchased items, etc. on your behalf. We take privacy extremely seriously, and will never send messages, or access your data for anything other than our stated purposes.</p>",
+										"_id": "i4k5pky"
+									},
+									{
+										"question": "Are you affiliated with Envato?",
+										"answer": "<p>No, we are not affliated or supported by Envato.</p>",
+										"_id": "hwjaclt"
+									},
+									{
+										"question": "Can I get refund?",
+										"answer": "<p>Unfortunately, not at this time! Please try our free plan for a while to make sure Helpato is what you want.</p>",
+										"_id": "je98y9a"
+									}
+								],
+								"t2_small_text": "FAQ",
+								"t2_header_text": "General",
+								"t2_lead_text": "Send an email if you couldn&#039;t find an answer to your question here.",
+								"t2_faqs": [
+									{
+										"question": "What is TheSaaS?",
+										"answer": "It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.",
+										"_id": "3z4a87z"
+									},
+									{
+										"question": "How long are your contracts?",
+										"answer": "You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation.",
+										"_id": "mhrnfjs"
+									}
+								]
+							},
+							"elements": [],
+							"widgetType": "the-faq"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		}
+	],
+	"page_settings": []
+}

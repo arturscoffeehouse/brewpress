@@ -1,0 +1,95 @@
+
+/*
+ * Disable wordpress widgets for both experts and no experts
+ */
+.panel-elements-category-title-wordpress,
+.panel-elements-category-title-wordpress + .panel-elements-category-items,
+.elementor-control-url-more-options .elementor-control-url-option:last-child {
+  display: none;
+}
+
+
+
+
+
+
+.elementor-panel .elementor-panel-box {
+	background-color: transparent;
+}
+
+
+.elementor-panel .elementor-control-title {
+  line-height: 16px;
+}
+
+
+
+
+/*
+ * Placeholder of inputs
+ */
+.elementor-control-input-wrapper input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #b7bbbd;
+}
+.elementor-control-input-wrapper input::-moz-placeholder { /* Firefox 19+ */
+  color: #b7bbbd;
+}
+.elementor-control-input-wrapper input:-ms-input-placeholder { /* IE 10+ */
+  color: #b7bbbd;
+}
+.elementor-control-input-wrapper input:-moz-placeholder { /* Firefox 18- */
+  color: #b7bbbd;
+}
+
+
+/*
+ * Choose imagery
+ */
+.elementor-panel .elementor-choices.elementor-choices-imagery {
+	display: block;
+	height: auto;
+	background-color: transparent;
+}
+
+.elementor-panel .elementor-choices.elementor-choices-imagery .elementor-choices-label {
+	display: inline-block;
+	float: left;
+	width: 48%;
+	margin: 4px 0;
+	border-radius: 3px;
+	border: 1px solid #39b54a;
+	padding: 3px;
+  box-shadow: 0 0 10px rgba(0,255,0,.3);
+	transition: all .2s ease;
+}
+
+.elementor-panel .elementor-choices.elementor-choices-imagery .elementor-choices-label:nth-of-type(odd) {
+	margin-right: 4%;
+}
+
+.elementor-panel .elementor-choices.elementor-choices-imagery input:not(:checked)+.elementor-choices-label {
+	border-color: #f1f2f3;
+  box-shadow: none;
+}
+
+
+.elementor-loader-wrapper .elementor-loader-box {
+  -webkit-animation: load 1.8s linear infinite;
+          animation: load 1.8s linear infinite;
+}
+
+@-webkit-keyframes load {
+  0% {
+    opacity: .3; }
+  50% {
+    opacity: 1; }
+  100% {
+    opacity: .3; } }
+
+@keyframes load {
+  0% {
+    opacity: .3; }
+  50% {
+    opacity: 1; }
+  100% {
+    opacity: .3; } }

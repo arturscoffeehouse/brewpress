@@ -1,0 +1,223 @@
+{
+  "content": [
+    {
+      "id": "sbq9qav",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "n4cmfqk",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "nxqpgur",
+              "elType": "widget",
+              "settings": {
+                "t1_fullscreen": "",
+                "t1_header_text": "Choose Your Pricing Plan",
+                "t1_text": "We waited until we could do it right",
+                "t2_header_text": "TheSaaS",
+                "t2_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t2_btn_text": "See demos",
+                "t3_header_text": "Create Professional Websites",
+                "t3_text": "TheSaaS is a responsive, professional, and multipurpose SaaS template powered with Bootstrap 4.",
+                "t3_btn_text": "Demos",
+                "t3_btn2_text": "Features",
+                "t4_header_text": "TheSaaS",
+                "t4_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t4_info_text": "Or Purchase Now",
+                "t5_header_text": "TheSaaS",
+                "t5_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_header_text": "TheSaaS",
+                "t6_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t6_btn_text": "Buy now $19",
+                "t7_typing_text": "Software, Startup, WebApp",
+                "t7_prefix": "Built for",
+                "t7_text": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t7_btn_text": "Purchase Now - $19",
+                "t7_info_text": "or purchase an Extended License",
+                "t8_header_text": "TheSaaS",
+                "t8_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+                "t8_btn_text": "Get started",
+                "t8_info_text": "Already a member? Sign in",
+                "t9_header_text": "App Landing Page",
+                "t9_text": "The best template for your mobile app to showcase and acquire new customers all around the world. The best template that you can find anywhere!",
+                "t9_btn_text": "Download now",
+                "t9_btn2_text": "Features",
+                "t10_header_text": "TheSaaS",
+                "t10_text": "An elegant, modern and fully customizable SaaS and WebApp template",
+                "t10_btn_text": "Purchase now - $19",
+                "t10_info_text": "or purchase an Extended License"
+              },
+              "elements": [],
+              "widgetType": "the-cover"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "j2gjilf",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "gbwwu9s",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "5kjeh9s",
+              "elType": "widget",
+              "settings": {
+                "t1_bg_gray": "bg-gray",
+                "t1_small_text": "",
+                "t1_header_text": "",
+                "t1_lead_text": "",
+                "t1_pricing_plan": [
+                  {
+                    "name": "Single",
+                    "features": "30 days free trial\nBasic support\nSync to cloud database",
+                    "price": "free",
+                    "price_unit": "",
+                    "_id": "qjlmtyb",
+                    "btn_text": "Get started",
+                    "btn_link": "#",
+                    "popular": ""
+                  },
+                  {
+                    "name": "Studio",
+                    "features": "30 days free trial\nBasic support\nSync to cloud database",
+                    "price": "39",
+                    "popular": "yes",
+                    "_id": "y1r1qi3",
+                    "price_unit": "$",
+                    "btn_text": "Get started",
+                    "btn_link": "#"
+                  },
+                  {
+                    "name": "Business",
+                    "features": "30 days free trial\nBasic support\nSync to cloud database",
+                    "price": "69",
+                    "_id": "pc5qfcu",
+                    "price_unit": "$",
+                    "btn_text": "Get started",
+                    "btn_link": "#",
+                    "popular": ""
+                  }
+                ]
+              },
+              "elements": [],
+              "widgetType": "the-pricing"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "jsdvkg3",
+      "elType": "section",
+      "settings": [],
+      "elements": [
+        {
+          "id": "b7ukuk0",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "8mkoh5j",
+              "elType": "widget",
+              "settings": {
+                "t1_small_text": "FAQ",
+                "t1_header_text": "Frequently Asked Questions",
+                "t1_lead_text": "Drop us an email if you couldn't find an answer to your question in the following list.",
+                "t1_columns": {
+                  "unit": "%",
+                  "size": 3
+                },
+                "t1_faqs": [
+                  {
+                    "question": "What is TheSaaS?",
+                    "answer": "<p>It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.</p>",
+                    "_id": "kn1c34r"
+                  },
+                  {
+                    "question": "How long does it take?",
+                    "answer": "<p>It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.</p>",
+                    "_id": "ww2vhvv"
+                  },
+                  {
+                    "question": "What payment services do you support?",
+                    "answer": "<p>We accept all major credit cards.</p>",
+                    "_id": "wwchq7v"
+                  },
+                  {
+                    "question": "Can I update my card details?",
+                    "answer": "<p>Yes. Go to the billing section of your dashboard and update your payment information.</p>",
+                    "_id": "139bsp3"
+                  },
+                  {
+                    "question": "Can I cancel my subscription?",
+                    "answer": "<p>You can cancel your subscription at any time. Cancelling your plan comes into effect the following month.</p>",
+                    "_id": "25hmux7"
+                  },
+                  {
+                    "question": "Can I get refund?",
+                    "answer": "<p>Unfortunately, not at this time! Please try our free plan for a while to make sure Helpato is what you want.</p>",
+                    "_id": "ph1m3t7"
+                  },
+                  {
+                    "question": "What if I want to change plans?",
+                    "answer": "<p>It's quick and easy to switch between our different pricing plans from your dashboard.</p>",
+                    "_id": "66yllsr"
+                  },
+                  {
+                    "question": "How long are your contracts?",
+                    "answer": "<p>You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation.</p>",
+                    "_id": "8wpncov"
+                  },
+                  {
+                    "question": "Other questions?",
+                    "answer": "<p>We're always available at support@domain.com</p>",
+                    "_id": "azmukcx"
+                  }
+                ],
+                "t2_small_text": "FAQ",
+                "t2_header_text": "General",
+                "t2_lead_text": "Send an email if you couldn&#039;t find an answer to your question here.",
+                "t2_faqs": [
+                  {
+                    "question": "What is TheSaaS?",
+                    "answer": "It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.",
+                    "_id": "u9dih0m"
+                  },
+                  {
+                    "question": "How long are your contracts?",
+                    "answer": "You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation.",
+                    "_id": "u9z839f"
+                  }
+                ]
+              },
+              "elements": [],
+              "widgetType": "the-faq"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}

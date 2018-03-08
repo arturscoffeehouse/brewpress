@@ -1,0 +1,4433 @@
+# <!=Copyright (C) 2018 TheThemeio
+# This file is distributed under the Licensed under the Themeforest Standard Licenses.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: TheSaaS 1.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-02-04 12:50:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:124
+#: include/elementor/widgets/blocks/pricing/block-5.php:138
+#: include/elementor/widgets/the-controls.php:1634
+#: include/elementor/widgets/the-controls.php:1723
+msgid "9"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:103
+msgid "12"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1643
+msgid "19"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:131
+#: include/elementor/widgets/blocks/pricing/block-5.php:145
+#: include/elementor/widgets/the-controls.php:1635
+#: include/elementor/widgets/the-controls.php:1730
+msgid "99"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1644
+msgid "199"
+msgstr ""
+
+#: 404.php:9 include/view/post/none.php:9
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:32
+msgid "Reply"
+msgstr ""
+
+#: comments.php:38
+msgid "Previous"
+msgstr ""
+
+#: comments.php:39
+msgid "Next"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:54
+msgid "Send"
+msgstr ""
+
+#: comments.php:59 include/elementor/widgets/blocks/pricing/block-2.php:115
+#: include/elementor/widgets/blocks/pricing/block-5.php:129
+#: include/elementor/widgets/the-controls.php:987
+#: include/elementor/widgets/the-controls.php:1088
+#: include/elementor/widgets/the-controls.php:1162
+#: include/elementor/widgets/the-controls.php:1714
+msgid "Name"
+msgstr ""
+
+#: comments.php:62 include/elementor/widgets/blocks/contact/block-3.php:152
+#: include/elementor/widgets/blocks/contact/block-3.php:274
+#: include/elementor/widgets/blocks/contact/block-4.php:76
+#: include/elementor/widgets/blocks/contact/block-4.php:111
+#: include/elementor/widgets/blocks/contact/block-5.php:82
+#: include/elementor/widgets/blocks/contact/block-5.php:117
+#: include/elementor/widgets/blocks/contact/block-6.php:75
+#: include/elementor/widgets/blocks/contact/block-6.php:106
+#: include/elementor/widgets/the-controls.php:1951
+#: include/elementor/widgets/the-controls.php:2019
+#: include/elementor/widgets/the-controls.php:2120
+msgid "Email"
+msgstr ""
+
+#: comments.php:65
+msgid "Website"
+msgstr ""
+
+#: comments.php:69
+msgid "Comment"
+msgstr ""
+
+#: footer.php:276
+msgid "Type a keyword and press enter..."
+msgstr ""
+
+#: include/class/thesaas-customizer.php:47
+msgid "Logo"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:57
+msgid "Logo light"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:67
+msgid "Footer Logo"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:214
+msgid "Site Configuration"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:224
+msgid "Google Map API key"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:225
+msgid "Get API Key"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:236
+msgid "Google Analytics Tracking ID"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:237
+msgid "Your tracking ID would be a value in this format: UA-12345678-9"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:248
+msgid "Blog list style"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:253
+msgid "Grid"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:254
+msgid "List"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:255
+msgid "Classic"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:265
+#: include/elementor/elements/the-button.php:75
+msgid "Style"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:274
+msgid "Body font (e.g. Open Sans)"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:277
+#: include/class/thesaas-customizer.php:288
+msgid "Available fonts?"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:285
+msgid "Title font (e.g. Dosis)"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:298
+msgid "Primary color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:310
+msgid "Topbar"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:315
+#: include/elementor/widgets/blocks/faq/block-1.php:22
+#: include/elementor/widgets/blocks/faq/block-2.php:22
+msgid "General"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:326
+msgid "Toggle menu on"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:330
+msgid "Hover"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:331
+msgid "Click"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:340
+msgid "Hamburger icon ( &#9776; ) position"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:344
+#: include/elementor/widgets/the-controls.php:2275
+msgid "Left"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:345
+#: include/elementor/widgets/the-controls.php:2273
+msgid "Right"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:356
+msgid "Container type"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:361
+#: include/elementor/elements/the-button.php:142
+#: include/elementor/page-settings.php:74
+#: include/elementor/page-settings.php:151
+#: include/elementor/widgets/the-controls.php:1914
+msgid "Default"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:362
+#: include/elementor/page-settings.php:152
+msgid "Fluid"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:363
+#: include/elementor/page-settings.php:153
+msgid "Wide"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:374
+msgid "Sceen size to display hamburger icon"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:379
+msgid "Extra small (< 575px)"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:380
+msgid "Small (< 767px)"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:381
+msgid "Medium (< 991px)"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:382
+msgid "Large (< 1199px)"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:383
+msgid "Extra large (> 1200px)"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:393
+msgid "Disable sticky behavior"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:404
+msgid "Disable light text color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:437
+msgid "Put topbar buttons inside collapse menu"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:445
+msgid "Button 1"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:454
+#: include/class/thesaas-customizer.php:529
+#: include/class/thesaas-customizer.php:774
+#: include/elementor/elements/the-button.php:50
+#: include/elementor/widgets/blocks/feature/block-10.php:54
+#: include/elementor/widgets/blocks/feature/block-11.php:63
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:67
+#: include/elementor/widgets/the-controls.php:133
+#: include/elementor/widgets/the-controls.php:145
+#: include/elementor/widgets/the-controls.php:157
+#: include/elementor/widgets/the-controls.php:169
+#: include/elementor/widgets/the-controls.php:182
+#: include/elementor/widgets/the-controls.php:1264
+#: include/elementor/widgets/the-controls.php:1338
+#: include/elementor/widgets/the-controls.php:1400
+#: include/elementor/widgets/the-controls.php:1467
+#: include/elementor/widgets/the-controls.php:1540
+msgid "Text"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:465
+#: include/class/thesaas-customizer.php:540
+#: include/elementor/elements/the-button.php:60
+#: include/elementor/widgets/blocks/portfolio/block-1.php:139
+#: include/elementor/widgets/blocks/portfolio/block-2.php:131
+#: include/elementor/widgets/blocks/pricing/block-5.php:186
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:84
+#: include/elementor/widgets/the-controls.php:211
+#: include/elementor/widgets/the-controls.php:223
+#: include/elementor/widgets/the-controls.php:235
+msgid "Link"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:477
+msgid "Button 1 - Color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:482
+#: include/class/thesaas-customizer.php:557
+#: include/class/thesaas-customizer.php:881
+#: include/class/thesaas-customizer.php:924
+#: include/class/thesaas-customizer.php:1023
+#: include/elementor/page-settings.php:191
+#: include/elementor/page-settings.php:248
+#: include/elementor/widgets/blocks/pricing/block-2.php:66
+#: include/elementor/widgets/blocks/pricing/block-2.php:182
+#: include/elementor/widgets/blocks/pricing/block-5.php:65
+#: include/elementor/widgets/the-controls.php:643
+#: include/elementor/widgets/the-controls.php:666
+#: include/elementor/widgets/the-controls.php:1687
+#: include/elementor/widgets/the-controls.php:1781
+msgid "Primary"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:483
+#: include/class/thesaas-customizer.php:558
+#: include/class/thesaas-customizer.php:882
+#: include/class/thesaas-customizer.php:925
+#: include/class/thesaas-customizer.php:1024
+#: include/elementor/elements/the-button.php:143
+#: include/elementor/page-settings.php:192
+#: include/elementor/page-settings.php:249
+#: include/elementor/widgets/blocks/pricing/block-2.php:67
+#: include/elementor/widgets/blocks/pricing/block-2.php:183
+#: include/elementor/widgets/blocks/pricing/block-5.php:66
+#: include/elementor/widgets/the-controls.php:644
+#: include/elementor/widgets/the-controls.php:667
+#: include/elementor/widgets/the-controls.php:1688
+#: include/elementor/widgets/the-controls.php:1782
+msgid "Secondary"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:484
+#: include/class/thesaas-customizer.php:559
+#: include/class/thesaas-customizer.php:883
+#: include/class/thesaas-customizer.php:926
+#: include/class/thesaas-customizer.php:1025
+#: include/elementor/elements/the-button.php:144
+#: include/elementor/page-settings.php:193
+#: include/elementor/page-settings.php:250
+#: include/elementor/widgets/blocks/pricing/block-2.php:68
+#: include/elementor/widgets/blocks/pricing/block-2.php:184
+#: include/elementor/widgets/blocks/pricing/block-5.php:67
+#: include/elementor/widgets/the-controls.php:645
+#: include/elementor/widgets/the-controls.php:668
+#: include/elementor/widgets/the-controls.php:1689
+#: include/elementor/widgets/the-controls.php:1783
+msgid "Info"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:485
+#: include/class/thesaas-customizer.php:560
+#: include/class/thesaas-customizer.php:884
+#: include/class/thesaas-customizer.php:927
+#: include/class/thesaas-customizer.php:1026
+#: include/elementor/elements/the-button.php:145
+#: include/elementor/page-settings.php:194
+#: include/elementor/page-settings.php:251
+#: include/elementor/widgets/blocks/pricing/block-2.php:69
+#: include/elementor/widgets/blocks/pricing/block-2.php:185
+#: include/elementor/widgets/blocks/pricing/block-5.php:68
+#: include/elementor/widgets/the-controls.php:646
+#: include/elementor/widgets/the-controls.php:669
+#: include/elementor/widgets/the-controls.php:1690
+#: include/elementor/widgets/the-controls.php:1784
+msgid "Success"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:486
+#: include/class/thesaas-customizer.php:561
+#: include/class/thesaas-customizer.php:885
+#: include/class/thesaas-customizer.php:928
+#: include/class/thesaas-customizer.php:1027
+#: include/elementor/elements/the-button.php:146
+#: include/elementor/page-settings.php:195
+#: include/elementor/page-settings.php:252
+#: include/elementor/widgets/blocks/pricing/block-2.php:70
+#: include/elementor/widgets/blocks/pricing/block-2.php:186
+#: include/elementor/widgets/blocks/pricing/block-5.php:69
+#: include/elementor/widgets/the-controls.php:647
+#: include/elementor/widgets/the-controls.php:670
+#: include/elementor/widgets/the-controls.php:1691
+#: include/elementor/widgets/the-controls.php:1785
+msgid "Warning"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:487
+#: include/class/thesaas-customizer.php:562
+#: include/class/thesaas-customizer.php:886
+#: include/class/thesaas-customizer.php:929
+#: include/class/thesaas-customizer.php:1028
+#: include/elementor/elements/the-button.php:147
+#: include/elementor/page-settings.php:196
+#: include/elementor/page-settings.php:253
+#: include/elementor/widgets/blocks/pricing/block-2.php:71
+#: include/elementor/widgets/blocks/pricing/block-2.php:187
+#: include/elementor/widgets/blocks/pricing/block-5.php:70
+#: include/elementor/widgets/the-controls.php:648
+#: include/elementor/widgets/the-controls.php:671
+#: include/elementor/widgets/the-controls.php:1692
+#: include/elementor/widgets/the-controls.php:1786
+msgid "Danger"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:488
+#: include/class/thesaas-customizer.php:563
+#: include/class/thesaas-customizer.php:887
+#: include/class/thesaas-customizer.php:930
+#: include/class/thesaas-customizer.php:1029
+#: include/elementor/elements/the-button.php:148
+#: include/elementor/page-settings.php:197
+#: include/elementor/page-settings.php:254
+#: include/elementor/widgets/blocks/pricing/block-2.php:72
+#: include/elementor/widgets/blocks/pricing/block-2.php:188
+#: include/elementor/widgets/blocks/pricing/block-5.php:71
+#: include/elementor/widgets/the-controls.php:649
+#: include/elementor/widgets/the-controls.php:672
+#: include/elementor/widgets/the-controls.php:1693
+#: include/elementor/widgets/the-controls.php:1787
+msgid "White"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:489
+#: include/class/thesaas-customizer.php:564
+#: include/class/thesaas-customizer.php:888
+#: include/class/thesaas-customizer.php:931
+#: include/class/thesaas-customizer.php:1030
+#: include/elementor/elements/the-button.php:149
+#: include/elementor/page-settings.php:198
+#: include/elementor/page-settings.php:255
+#: include/elementor/widgets/blocks/pricing/block-2.php:73
+#: include/elementor/widgets/blocks/pricing/block-2.php:189
+#: include/elementor/widgets/blocks/pricing/block-5.php:72
+#: include/elementor/widgets/the-controls.php:650
+#: include/elementor/widgets/the-controls.php:673
+#: include/elementor/widgets/the-controls.php:1694
+#: include/elementor/widgets/the-controls.php:1788
+#: include/elementor/widgets/the-controls.php:1916
+msgid "Dark"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:499
+#: include/class/thesaas-customizer.php:574
+#: include/elementor/widgets/the-controls.php:564
+#: include/elementor/widgets/the-controls.php:583
+msgid "Outline style"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:510
+#: include/class/thesaas-customizer.php:585
+msgid "Extra classes"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:520
+msgid "Button 2"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:552
+msgid "Button 2 - Color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:594
+#: include/elementor/widgets/blocks/editor/block-1.php:21
+msgid "Header"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:603
+msgid "Default background color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:615
+msgid "Default background image"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:616
+msgid ""
+"If you set this value, an image displays in headers instead of background "
+"color."
+msgstr ""
+
+#: include/class/thesaas-customizer.php:627
+#: include/class/thesaas-customizer.php:639
+msgid "Background image overlay color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:644
+msgid "10%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:645
+msgid "20%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:646
+msgid "30%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:647
+msgid "40%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:648
+msgid "50%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:649
+msgid "60%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:650
+msgid "70%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:651
+msgid "80%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:652
+msgid "90%"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:662
+msgid "White text color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:672
+msgid "Footer"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:680
+msgid "General options"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:689
+msgid "Footer layout"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:690
+msgid ""
+"See available layouts in <a "
+"href=\"http://thetheme.io/thesaas/block-footer.html\">here</a>"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:695
+msgid "Layout 1"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:696
+msgid "Layout 2"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:697
+msgid "Layout 3"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:698
+msgid "Layout 4"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:699
+msgid "Layout 5"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:707
+#: include/elementor/widgets/the-controls.php:2130
+msgid "Social icons"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:719
+#: include/class/thesaas-customizer.php:1158
+msgid "URL:"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:728
+msgid "Footer 1"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:737
+#: include/class/thesaas-customizer.php:756
+msgid "Copyright text"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:738
+msgid "A text to display in the second row"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:747
+msgid "Footer 2"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:753
+#: include/class/thesaas-customizer.php:809
+#: include/class/thesaas-customizer.php:957
+msgid "Copyright © 2017 TheThemeio. All rights reserved."
+msgstr ""
+
+#: include/class/thesaas-customizer.php:765
+msgid "Footer 3"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:771
+#: include/class/thesaas-customizer.php:799
+msgid ""
+"TheSaaS is a responsive, professional, and multipurpose SaaS, Software, "
+"Startup and WebApp landing template; backed for entrepreneurs and powered "
+"by Bootstrap 4."
+msgstr ""
+
+#: include/class/thesaas-customizer.php:783
+msgid "Footer 4"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "TheSaaS"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:792
+msgid "Column 1 - Title"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:802
+#: include/class/thesaas-customizer.php:950
+msgid "Column 1 - Text"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:812
+#: include/class/thesaas-customizer.php:960
+msgid "Column 1 - Copyright"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:820
+#: include/class/thesaas-customizer.php:980
+msgid "Company"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:823
+#: include/class/thesaas-customizer.php:971
+msgid "Column 2 - Title"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:824
+#: include/class/thesaas-customizer.php:972 include/setup/theme.php:47
+msgid "Primary Footer Menu"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:832
+#: include/elementor/widgets/blocks/cta/block-4.php:31
+msgid "Get Started"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:835
+#: include/class/thesaas-customizer.php:983
+msgid "Column 3 - Title"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:842
+msgid ""
+"TheSaaS design is harmonious, clean and user friendly. Even though the "
+"template has a lot of content, it doesn’t looks messy and all files and "
+"code are well structured, commented and divided."
+msgstr ""
+
+#: include/class/thesaas-customizer.php:845
+msgid "Column 3 - Text"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:852
+#: include/elementor/widgets/blocks/cta/block-2.php:30
+msgid "Take a test drive"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:855
+msgid "Column 3 - Button 1 - Text"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:865
+msgid "Column 3 - Button 1 - Link"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:876
+msgid "Column 3 - Button 1 - Color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:895
+msgid "Contact us"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:898
+msgid "Column 3 - Button 2 - Text"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:908
+msgid "Column 3 - Button 2 - Link"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:919
+msgid "Column 3 - Button 2 - Color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:940
+msgid "Footer 5"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:947
+msgid ""
+"TheSaaS is a responsive, professional, and multipurpose SaaS, Software, "
+"Startup and WebApp landing template powered by Bootstrap 4. TheSaaS is a "
+"powerful and super flexible tool for any kind of landing pages."
+msgstr ""
+
+#: include/class/thesaas-customizer.php:968
+msgid "Samples"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:984 include/setup/theme.php:48
+msgid "Secondary Footer Menu"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:992
+#: include/elementor/widgets/blocks/subscribe/base.php:17
+#: include/elementor/widgets/blocks/subscribe/block-1.php:34
+#: include/elementor/widgets/blocks/subscribe/block-3.php:34
+#: include/elementor/widgets/blocks/subscribe/block-4.php:29
+#: include/elementor/widgets/blocks/subscribe/block-5.php:34
+msgid "Subscribe"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:995
+msgid "Column 4 - Title"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1003
+msgid "Email Address"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1006
+msgid "Column 4 - Input Placeholder"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1018
+msgid "Column 4 - Button Color"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1040
+msgid "Column 4 - MailChimp Form URL"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1041
+#: include/elementor/widgets/the-controls.php:301
+msgid "What is this?"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1052
+#: include/elementor/page-settings.php:368
+#: include/elementor/widgets/blocks/feature/block-11.php:49
+#: include/elementor/widgets/blocks/feature/block-5.php:49
+#: include/elementor/widgets/blocks/portfolio/block-1.php:148
+#: include/elementor/widgets/blocks/portfolio/block-2.php:140
+#: include/elementor/widgets/the-controls.php:763
+#: include/elementor/widgets/the-controls.php:979
+#: include/elementor/widgets/the-controls.php:1386
+#: include/elementor/widgets/the-controls.php:2213
+msgid "Image"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1053
+msgid "If you set an image, it will replace the subscribe form"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1064
+msgid "Column 4 - Image Link Address"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1065
+msgid "A URL for image to be forward on click"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1076
+msgid "Show/Hide Feature"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1085
+msgid "Hide topbar search icon"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1095
+msgid "Hide cart icon from topbar"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1103
+msgid "Hide footer logo"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1113
+msgid "Hide share buttons from blog posts"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1121
+msgid "Show scroll-top button"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1129
+msgid "Disable link to tag page in single blog post"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1137
+msgid "Disable link to author page in single blog post"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1146
+msgid "Social Icons"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1168
+msgid "Additional JavaScript"
+msgstr ""
+
+#: include/class/thesaas-customizer.php:1179
+msgid "This code will add to bottom of each page inside a <script> tag."
+msgstr ""
+
+#: include/elementor/elements/the-button.php:26
+msgid "Button"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:42
+msgid "Basic"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:52
+#: include/elementor/elements/the-button.php:53
+msgid "Button Text"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:83
+msgid "Outline"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:85
+#: include/elementor/elements/the-button.php:96
+#: include/elementor/elements/the-button.php:107
+#: include/elementor/elements/the-button.php:118
+#: include/elementor/elements/the-button.php:129
+#: include/elementor/page-settings.php:97
+#: include/elementor/page-settings.php:109
+#: include/elementor/page-settings.php:208
+#: include/elementor/page-settings.php:265
+#: include/elementor/widgets/blocks/pricing/block-2.php:197
+#: include/elementor/widgets/blocks/pricing/block-2.php:206
+#: include/elementor/widgets/blocks/pricing/block-2.php:223
+#: include/elementor/widgets/blocks/pricing/block-5.php:195
+#: include/elementor/widgets/the-controls.php:1489
+#: include/elementor/widgets/the-controls.php:1796
+#: include/elementor/widgets/the-controls.php:1805
+#: include/elementor/widgets/the-controls.php:1822
+#: include/elementor/widgets/the-controls.php:1830
+#: include/elementor/widgets/the-controls.php:2132
+#: include/elementor/widgets/the-controls.php:2352
+#: include/elementor/widgets/the-controls.php:2368
+#: include/elementor/widgets/the-controls.php:2382
+#: include/elementor/widgets/the-controls.php:2395
+#: include/elementor/widgets/the-controls.php:2444
+#: include/elementor/widgets/the-controls.php:2599
+msgid "No"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:86
+#: include/elementor/elements/the-button.php:97
+#: include/elementor/elements/the-button.php:108
+#: include/elementor/elements/the-button.php:119
+#: include/elementor/elements/the-button.php:130
+#: include/elementor/page-settings.php:98
+#: include/elementor/page-settings.php:110
+#: include/elementor/page-settings.php:209
+#: include/elementor/page-settings.php:266
+#: include/elementor/widgets/blocks/pricing/block-2.php:198
+#: include/elementor/widgets/blocks/pricing/block-2.php:207
+#: include/elementor/widgets/blocks/pricing/block-2.php:224
+#: include/elementor/widgets/blocks/pricing/block-5.php:196
+#: include/elementor/widgets/the-controls.php:1490
+#: include/elementor/widgets/the-controls.php:1797
+#: include/elementor/widgets/the-controls.php:1806
+#: include/elementor/widgets/the-controls.php:1823
+#: include/elementor/widgets/the-controls.php:1831
+#: include/elementor/widgets/the-controls.php:2133
+#: include/elementor/widgets/the-controls.php:2353
+#: include/elementor/widgets/the-controls.php:2369
+#: include/elementor/widgets/the-controls.php:2383
+#: include/elementor/widgets/the-controls.php:2396
+#: include/elementor/widgets/the-controls.php:2445
+#: include/elementor/widgets/the-controls.php:2600
+msgid "Yes"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:94
+msgid "Rounded"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:105
+msgid "Circle"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:116
+msgid "Google Play badge"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:127
+msgid "Apple Store badge"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:138
+#: include/elementor/widgets/blocks/feature/block-13.php:37
+#: include/elementor/widgets/blocks/feature/block-5.php:37
+#: include/elementor/widgets/the-controls.php:633
+#: include/elementor/widgets/the-controls.php:664
+#: include/elementor/widgets/the-controls.php:2205
+msgid "Color"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:157
+#: include/elementor/widgets/the-controls.php:687
+#: include/elementor/widgets/the-controls.php:707
+msgid "Size"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:161
+#: include/elementor/widgets/the-controls.php:689
+#: include/elementor/widgets/the-controls.php:709
+msgid "Extra Small"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:162
+#: include/elementor/page-settings.php:127
+#: include/elementor/widgets/the-controls.php:690
+#: include/elementor/widgets/the-controls.php:710
+msgid "Small"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:163
+#: include/elementor/page-settings.php:131
+#: include/elementor/widgets/the-controls.php:691
+#: include/elementor/widgets/the-controls.php:711
+msgid "Medium"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:164
+#: include/elementor/page-settings.php:135
+#: include/elementor/widgets/the-controls.php:692
+#: include/elementor/widgets/the-controls.php:712
+msgid "Large"
+msgstr ""
+
+#: include/elementor/elements/the-button.php:165
+#: include/elementor/widgets/the-controls.php:693
+#: include/elementor/widgets/the-controls.php:713
+msgid "Extra Large"
+msgstr ""
+
+#: include/elementor/page-settings.php:36
+msgid "Extra body classes"
+msgstr ""
+
+#: include/elementor/page-settings.php:38
+#: include/elementor/widgets/blocks/pricing/block-2.php:214
+#: include/elementor/widgets/the-controls.php:1813
+msgid "Space separated class names"
+msgstr ""
+
+#: include/elementor/page-settings.php:60
+msgid "Topbar settings"
+msgstr ""
+
+#: include/elementor/page-settings.php:68
+msgid "Refresh is required to see the changes."
+msgstr ""
+
+#: include/elementor/page-settings.php:75
+#: include/elementor/widgets/blocks/portfolio/block-1.php:48
+#: include/elementor/widgets/blocks/portfolio/block-2.php:48
+msgid "None"
+msgstr ""
+
+#: include/elementor/page-settings.php:85
+msgid "Menu"
+msgstr ""
+
+#: include/elementor/page-settings.php:95
+msgid "Sticky topbar"
+msgstr ""
+
+#: include/elementor/page-settings.php:107
+#: include/elementor/widgets/the-controls.php:2366
+msgid "Light text color"
+msgstr ""
+
+#: include/elementor/page-settings.php:119
+msgid "Breakpoint"
+msgstr ""
+
+#: include/elementor/page-settings.php:123
+msgid "Extra small"
+msgstr ""
+
+#: include/elementor/page-settings.php:147
+msgid "Container"
+msgstr ""
+
+#: include/elementor/page-settings.php:165
+msgid "Button 1 text"
+msgstr ""
+
+#: include/elementor/page-settings.php:177
+msgid "Button 1 link"
+msgstr ""
+
+#: include/elementor/page-settings.php:187
+msgid "Button 1 color"
+msgstr ""
+
+#: include/elementor/page-settings.php:206
+msgid "Outline 1 style"
+msgstr ""
+
+#: include/elementor/page-settings.php:222
+msgid "Button 2 text"
+msgstr ""
+
+#: include/elementor/page-settings.php:234
+msgid "Button 2 link"
+msgstr ""
+
+#: include/elementor/page-settings.php:244
+msgid "Button 2 color"
+msgstr ""
+
+#: include/elementor/page-settings.php:263
+msgid "Outline 2 style"
+msgstr ""
+
+#: include/elementor/page-settings.php:288
+msgid "Custom CSS"
+msgstr ""
+
+#: include/elementor/page-settings.php:302
+msgid "Requires page reload"
+msgstr ""
+
+#: include/elementor/page-settings.php:322
+msgid "Custom Javascript"
+msgstr ""
+
+#: include/elementor/page-settings.php:336
+msgid ""
+"Requires page reload.<br>Please note that JS error can break your page's "
+"functionality."
+msgstr ""
+
+#: include/elementor/page-settings.php:357
+msgid "Open Graph meta tags"
+msgstr ""
+
+#: include/elementor/page-settings.php:380
+#: include/elementor/widgets/blocks/feature/block-11.php:57
+#: include/elementor/widgets/blocks/feature/block-13.php:60
+#: include/elementor/widgets/blocks/feature/block-5.php:56
+#: include/elementor/widgets/blocks/portfolio/block-1.php:130
+#: include/elementor/widgets/blocks/portfolio/block-2.php:122
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:61
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:78
+#: include/elementor/widgets/the-controls.php:1168
+#: include/elementor/widgets/the-controls.php:1258
+#: include/elementor/widgets/the-controls.php:1394
+#: include/elementor/widgets/the-controls.php:1461
+#: include/elementor/widgets/the-controls.php:1534
+msgid "Title"
+msgstr ""
+
+#: include/elementor/page-settings.php:393
+#: include/elementor/widgets/blocks/pricing/block-5.php:171
+msgid "Description"
+msgstr ""
+
+#: include/elementor/plugin.php:77
+msgid "TheSaaS Blocks"
+msgstr ""
+
+#: include/elementor/thethemeio.php:45
+msgid ""
+"You need to install and activate TheElementor page builder plugin to use "
+"this theme."
+msgstr ""
+
+#: include/elementor/thethemeio.php:52
+msgid ""
+"TheSaaS requires PHP version 5.6+. Please contact your host provide to "
+"update PHP."
+msgstr ""
+
+#: include/elementor/thethemeio.php:61
+msgid ""
+"Your TheElementor plugin is old. Please update it to the most recent "
+"version."
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/base.php:17
+msgid "Contact"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:36
+#: include/elementor/widgets/blocks/contact/block-2.php:38
+#: include/elementor/widgets/blocks/contact/block-3.php:40
+msgid "Use Contact Form 7"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:55
+#: include/elementor/widgets/blocks/contact/block-2.php:57
+#: include/elementor/widgets/blocks/contact/block-3.php:59
+msgid "Select a form"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:66
+#: include/elementor/widgets/blocks/contact/block-1.php:179
+#: include/elementor/widgets/blocks/contact/block-2.php:68
+#: include/elementor/widgets/blocks/contact/block-2.php:180
+#: include/elementor/widgets/blocks/contact/block-3.php:70
+#: include/elementor/widgets/blocks/contact/block-3.php:204
+msgid "To"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:69
+#: include/elementor/widgets/blocks/contact/block-1.php:182
+#: include/elementor/widgets/blocks/contact/block-2.php:71
+#: include/elementor/widgets/blocks/contact/block-2.php:183
+#: include/elementor/widgets/blocks/contact/block-3.php:73
+#: include/elementor/widgets/blocks/contact/block-3.php:207
+msgid "An email address to receive the form data."
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:80
+#: include/elementor/widgets/blocks/contact/block-1.php:190
+#: include/elementor/widgets/blocks/contact/block-2.php:82
+#: include/elementor/widgets/blocks/contact/block-2.php:191
+#: include/elementor/widgets/blocks/contact/block-3.php:84
+#: include/elementor/widgets/blocks/contact/block-3.php:215
+msgid "Subject"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:82
+#: include/elementor/widgets/blocks/contact/block-1.php:192
+#: include/elementor/widgets/blocks/contact/block-2.php:84
+#: include/elementor/widgets/blocks/contact/block-2.php:193
+#: include/elementor/widgets/blocks/contact/block-3.php:86
+#: include/elementor/widgets/blocks/contact/block-3.php:217
+#: include/utility/contact.php:49
+msgid "contact"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:93
+#: include/elementor/widgets/blocks/contact/block-1.php:200
+#: include/elementor/widgets/blocks/contact/block-2.php:95
+#: include/elementor/widgets/blocks/contact/block-2.php:201
+#: include/elementor/widgets/blocks/contact/block-3.php:97
+#: include/elementor/widgets/blocks/contact/block-3.php:225
+#: include/elementor/widgets/the-controls.php:1981
+#: include/elementor/widgets/the-controls.php:2152
+msgid "Success message"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:95
+#: include/elementor/widgets/blocks/contact/block-1.php:202
+#: include/elementor/widgets/blocks/contact/block-2.php:97
+#: include/elementor/widgets/blocks/contact/block-2.php:203
+#: include/elementor/widgets/blocks/contact/block-3.php:99
+#: include/elementor/widgets/blocks/contact/block-3.php:227
+#: include/elementor/widgets/the-controls.php:1983
+#: include/elementor/widgets/the-controls.php:2154
+msgid "We received your message and will contact you back soon."
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:96
+#: include/elementor/widgets/blocks/contact/block-1.php:203
+#: include/elementor/widgets/blocks/contact/block-2.php:98
+#: include/elementor/widgets/blocks/contact/block-2.php:204
+#: include/elementor/widgets/blocks/contact/block-3.php:100
+#: include/elementor/widgets/blocks/contact/block-3.php:228
+#: include/elementor/widgets/the-controls.php:1984
+#: include/elementor/widgets/the-controls.php:2155
+msgid "A text to be display after submiting form."
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:108
+#: include/elementor/widgets/blocks/contact/block-1.php:212
+#: include/elementor/widgets/blocks/contact/block-2.php:110
+#: include/elementor/widgets/blocks/contact/block-2.php:213
+#: include/elementor/widgets/blocks/contact/block-3.php:112
+#: include/elementor/widgets/blocks/contact/block-3.php:237
+#: include/elementor/widgets/the-controls.php:2164
+msgid "Error message"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:110
+#: include/elementor/widgets/blocks/contact/block-1.php:214
+#: include/elementor/widgets/blocks/contact/block-2.php:112
+#: include/elementor/widgets/blocks/contact/block-2.php:215
+#: include/elementor/widgets/blocks/contact/block-3.php:114
+#: include/elementor/widgets/blocks/contact/block-3.php:239
+#: include/elementor/widgets/the-controls.php:2166
+#: include/utility/contact.php:85
+msgid "There is a problem in our email service. Please try again later."
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:111
+#: include/elementor/widgets/blocks/contact/block-1.php:215
+#: include/elementor/widgets/blocks/contact/block-2.php:113
+#: include/elementor/widgets/blocks/contact/block-2.php:216
+#: include/elementor/widgets/blocks/contact/block-3.php:115
+#: include/elementor/widgets/blocks/contact/block-3.php:240
+#: include/elementor/widgets/the-controls.php:2167
+msgid "A text to be display if an error occurred."
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:123
+#: include/elementor/widgets/blocks/contact/block-1.php:224
+#: include/elementor/widgets/blocks/contact/block-2.php:125
+#: include/elementor/widgets/blocks/contact/block-2.php:225
+msgid "Placeholder of name input"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:125
+#: include/elementor/widgets/blocks/contact/block-1.php:226
+#: include/elementor/widgets/blocks/contact/block-2.php:127
+#: include/elementor/widgets/blocks/contact/block-2.php:227
+msgid "Your Name"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:135
+#: include/elementor/widgets/blocks/contact/block-1.php:236
+#: include/elementor/widgets/blocks/contact/block-2.php:137
+#: include/elementor/widgets/blocks/contact/block-2.php:237
+#: include/elementor/widgets/blocks/contact/block-3.php:150
+#: include/elementor/widgets/blocks/contact/block-3.php:272
+msgid "Placeholder of email input"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:137
+#: include/elementor/widgets/blocks/contact/block-1.php:238
+#: include/elementor/widgets/blocks/contact/block-2.php:139
+#: include/elementor/widgets/blocks/contact/block-2.php:239
+msgid "Your Email Address"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:146
+#: include/elementor/widgets/blocks/contact/block-1.php:247
+#: include/elementor/widgets/blocks/contact/block-2.php:148
+#: include/elementor/widgets/blocks/contact/block-2.php:248
+#: include/elementor/widgets/blocks/contact/block-3.php:172
+#: include/elementor/widgets/blocks/contact/block-3.php:294
+msgid "Placeholder of message input"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:148
+#: include/elementor/widgets/blocks/contact/block-1.php:249
+#: include/elementor/widgets/blocks/contact/block-2.php:150
+#: include/elementor/widgets/blocks/contact/block-2.php:250
+msgid "Your Message"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-1.php:157
+#: include/elementor/widgets/blocks/contact/block-1.php:259
+msgid "Send enquiry"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-2.php:22
+msgid "Lets Get In Touch"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-2.php:159
+#: include/elementor/widgets/blocks/contact/block-2.php:260
+msgid "Submit Enquiry"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:22
+msgid "Contact Us"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:127
+#: include/elementor/widgets/blocks/contact/block-3.php:249
+msgid "Placeholder of first name input"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:129
+#: include/elementor/widgets/blocks/contact/block-3.php:251
+msgid "First Name"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:139
+#: include/elementor/widgets/blocks/contact/block-3.php:261
+msgid "Placeholder of last name input"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:141
+#: include/elementor/widgets/blocks/contact/block-3.php:263
+msgid "Last Name"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:161
+#: include/elementor/widgets/blocks/contact/block-3.php:283
+msgid "Placeholder of phone input"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:163
+#: include/elementor/widgets/blocks/contact/block-3.php:285
+#: include/elementor/widgets/blocks/contact/block-4.php:72
+#: include/elementor/widgets/blocks/contact/block-4.php:107
+#: include/elementor/widgets/blocks/contact/block-5.php:78
+#: include/elementor/widgets/blocks/contact/block-5.php:113
+#: include/elementor/widgets/blocks/contact/block-6.php:71
+#: include/elementor/widgets/blocks/contact/block-6.php:102
+#: include/elementor/widgets/the-controls.php:1961
+#: include/elementor/widgets/the-controls.php:2029
+#: include/elementor/widgets/the-controls.php:2100
+msgid "Phone"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:174
+#: include/elementor/widgets/blocks/contact/block-3.php:296
+msgid "What do you have in mind?"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:183
+#: include/elementor/widgets/blocks/contact/block-3.php:306
+msgid "Send Message"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-3.php:408
+#: include/elementor/widgets/blocks/contact/block-3.php:508
+#: include/elementor/widgets/blocks/contact/block-4.php:80
+#: include/elementor/widgets/blocks/contact/block-4.php:115
+#: include/elementor/widgets/blocks/contact/block-4.php:185
+#: include/elementor/widgets/blocks/contact/block-4.php:220
+#: include/elementor/widgets/blocks/contact/block-5.php:86
+#: include/elementor/widgets/blocks/contact/block-5.php:121
+#: include/elementor/widgets/blocks/contact/block-5.php:191
+#: include/elementor/widgets/blocks/contact/block-5.php:226
+#: include/elementor/widgets/blocks/contact/block-6.php:79
+#: include/elementor/widgets/blocks/contact/block-6.php:110
+#: include/elementor/widgets/blocks/contact/block-6.php:176
+#: include/elementor/widgets/blocks/contact/block-6.php:207
+msgid "Follow Us"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-4.php:24
+#: include/elementor/widgets/blocks/contact/block-5.php:25
+#: include/elementor/widgets/blocks/contact/block-6.php:25
+msgid "Head Office"
+msgstr ""
+
+#: include/elementor/widgets/blocks/contact/block-4.php:72
+#: include/elementor/widgets/blocks/contact/block-4.php:107
+#: include/elementor/widgets/blocks/contact/block-5.php:78
+#: include/elementor/widgets/blocks/contact/block-5.php:113
+#: include/elementor/widgets/blocks/contact/block-6.php:71
+#: include/elementor/widgets/blocks/contact/block-6.php:102
+#: include/elementor/widgets/the-controls.php:1971
+#: include/elementor/widgets/the-controls.php:2039
+#: include/elementor/widgets/the-controls.php:2110
+msgid "Fax"
+msgstr ""
+
+#: include/elementor/widgets/blocks/content/base.php:17
+#: include/elementor/widgets/blocks/feature/block-13.php:75
+#: include/elementor/widgets/blocks/feature/block-5.php:64
+#: include/elementor/widgets/the-controls.php:1094
+#: include/elementor/widgets/the-controls.php:1174
+msgid "Content"
+msgstr ""
+
+#: include/elementor/widgets/blocks/content/block-1.php:23
+#: include/elementor/widgets/blocks/content/block-2.php:23
+#: include/elementor/widgets/blocks/content/block-3.php:23
+msgid "News"
+msgstr ""
+
+#: include/elementor/widgets/blocks/content/block-1.php:24
+#: include/elementor/widgets/blocks/content/block-2.php:24
+#: include/elementor/widgets/blocks/content/block-3.php:24
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: include/elementor/widgets/blocks/content/block-1.php:25
+#: include/elementor/widgets/blocks/content/block-2.php:25
+#: include/elementor/widgets/blocks/content/block-3.php:25
+msgid ""
+"We are so excited and proud of our theme. It is really easy to create a "
+"landing page for your awesome product."
+msgstr ""
+
+#: include/elementor/widgets/blocks/content/block-1.php:30
+#: include/elementor/widgets/blocks/content/block-3.php:30
+msgid "View all"
+msgstr ""
+
+#: include/elementor/widgets/blocks/content/block-2.php:30
+msgid "All articles"
+msgstr ""
+
+#: include/elementor/widgets/blocks/content/block-2.php:74
+#: include/elementor/widgets/blocks/content/block-2.php:126
+#: include/elementor/widgets/blocks/content/block-3.php:77
+#: include/elementor/widgets/blocks/content/block-3.php:132
+#: include/elementor/widgets/blocks/feature/block-7.php:32
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:75
+#: include/elementor/widgets/the-controls.php:1475
+#: include/elementor/widgets/the-controls.php:1548
+#: include/view/archive/portfolio.php:40 include/view/archive/portfolio.php:44
+#: include/view/blog/blog-classic.php:39 include/view/blog/blog-grid.php:39
+#: include/view/blog/blog-grid.php:43 include/view/blog/blog-list.php:37
+#: include/view/blog/blog-list.php:41 include/view/blog/blog.php:39
+#: include/view/blog/blog.php:43 include/view/search/result.php:40
+#: include/view/search/result.php:44
+msgid "Read more"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/base.php:17
+#: include/elementor/widgets/the-controls.php:2306
+msgid "Cover"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-1.php:27
+msgid "Header Title"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-1.php:28
+msgid "Some description to put inside the header."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-10.php:29
+msgid "An elegant, modern and fully customizable SaaS and WebApp template"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-10.php:33
+msgid "Purchase now - $19"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-10.php:41
+#: include/elementor/widgets/blocks/cover/block-7.php:100
+#: include/elementor/widgets/blocks/cta/block-9.php:37
+msgid "or purchase an Extended License"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-11.php:28
+msgid "COMING SOON"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-11.php:30
+msgid ""
+"TheSaaS is a responsive, professional, and multipurpose SaaS, Software, "
+"Startup and WebApp landing template powered by Bootstrap 4. TheSaaS is a "
+"powerful and super flexible tool, which suits best for any kind of landing "
+"pages."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-11.php:34
+msgid "Counter header"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-11.php:35
+msgid "We will be ready in"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-11.php:41
+msgid "Counter deadline"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:32
+#: include/elementor/widgets/blocks/cover/block-7.php:29
+msgid "Typing Text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:34
+#: include/elementor/widgets/blocks/cover/block-7.php:31
+msgid "Enter your words"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:35
+#: include/elementor/widgets/blocks/cover/block-7.php:32
+msgid "Software, Startup, WebApp"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:36
+#: include/elementor/widgets/blocks/cover/block-7.php:33
+msgid "Comma separated words"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:43
+#: include/elementor/widgets/blocks/cover/block-7.php:40
+msgid "Backspace delay"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:63
+#: include/elementor/widgets/blocks/cover/block-7.php:60
+msgid "Typing color"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:72
+#: include/elementor/widgets/blocks/cover/block-7.php:69
+msgid "Prefix Text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:74
+msgid "A Template for"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:75
+#: include/elementor/widgets/blocks/cover/block-7.php:72
+msgid "Text to display before typing texts."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:84
+#: include/elementor/widgets/blocks/cover/block-7.php:81
+msgid "Postfix Text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:87
+#: include/elementor/widgets/blocks/cover/block-7.php:84
+msgid "Text to display after typing texts."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:92
+msgid ""
+"TheSaaS Is an elegant, modern and fully customizable template developed for "
+"software, SaaS product and Web Applications."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:96
+msgid "Start Now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-12.php:104
+msgid "Explore Demos"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-2.php:28
+#: include/elementor/widgets/blocks/cover/block-4.php:26
+#: include/elementor/widgets/blocks/cover/block-5.php:27
+#: include/elementor/widgets/blocks/cover/block-6.php:26
+#: include/elementor/widgets/blocks/cover/block-8.php:29
+msgid "Is an elegant, modern and fully customizable SaaS and WebApp template"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-2.php:32
+msgid "See demos"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-3.php:25
+msgid "Create Professional Websites"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-3.php:27
+msgid ""
+"TheSaaS is a responsive, professional, and multipurpose SaaS template "
+"powered with Bootstrap 4."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-3.php:31
+msgid "Demos"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-3.php:39
+#: include/elementor/widgets/blocks/cover/block-9.php:42
+#: include/elementor/widgets/blocks/feature/block-1.php:22
+#: include/elementor/widgets/blocks/feature/block-11.php:22
+#: include/elementor/widgets/blocks/feature/block-13.php:22
+#: include/elementor/widgets/blocks/feature/block-3.php:22
+#: include/elementor/widgets/blocks/feature/block-5.php:22
+#: include/elementor/widgets/blocks/feature/block-6.php:23
+#: include/elementor/widgets/blocks/pricing/block-2.php:157
+#: include/elementor/widgets/blocks/textual_feature/block-1.php:22
+#: include/elementor/widgets/blocks/textual_feature/block-3.php:22
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:27
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:27
+#: include/elementor/widgets/the-controls.php:1239
+#: include/elementor/widgets/the-controls.php:1319
+#: include/elementor/widgets/the-controls.php:1380
+#: include/elementor/widgets/the-controls.php:1442
+#: include/elementor/widgets/the-controls.php:1528
+#: include/elementor/widgets/the-controls.php:1756
+msgid "Features"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-4.php:30
+msgid "Video button link"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-4.php:43
+msgid "Or Purchase Now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-6.php:31
+msgid "Buy now $19"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-7.php:71
+msgid "Built for"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-7.php:89
+msgid ""
+"TheSaaS is an elegant, modern and fully customizable SaaS and WebApp "
+"template"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-7.php:93
+msgid "Purchase Now - $49"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-8.php:34
+#: include/elementor/widgets/blocks/signup/block-1.php:34
+#: include/elementor/widgets/blocks/signup/block-3.php:31
+#: include/elementor/widgets/blocks/signup/block-4.php:30
+#: include/elementor/widgets/the-controls.php:1766
+msgid "Get started"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-8.php:40
+msgid "Already a member? Sign in"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-9.php:29
+msgid "App Landing Page"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-9.php:30
+msgid ""
+"The best template for your mobile app to showcase and acquire new customers "
+"all around the world. The best template that you can find anywhere!"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cover/block-9.php:35
+#: include/elementor/widgets/blocks/cta/block-5.php:29
+msgid "Download now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/base.php:17
+msgid "Call to action"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-1.php:23
+msgid "Join over 1,000 companies that trust us."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-1.php:26
+msgid "Try it yourself 30 days free. No credit card required!"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-1.php:31
+msgid "Design your site now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-2.php:25
+msgid "Want a bite? You're in the right place!"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-3.php:26
+msgid "Become an Outstanding Startup"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-3.php:29
+msgid ""
+"Try it yourself 30 days free. No credit card required! A good news is that "
+"you have 15 days money back!"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-3.php:34
+msgid "Start now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-4.php:26
+msgid "20,000+ companies are using our templates every day!"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-5.php:32
+msgid ""
+"Continually e-enable vertical schemas with top-line infomediaries. "
+"Energistically restore real-time core competencies and compelling "
+"leadership skills."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-5.php:37
+msgid "Based on 3,000+ reviews"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-6.php:23
+#: include/elementor/widgets/blocks/cta/block-9.php:26
+msgid "Get it now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-6.php:26
+#: include/elementor/widgets/blocks/cta/block-8.php:24
+#: include/elementor/widgets/blocks/feature/block-11.php:24
+#: include/elementor/widgets/blocks/feature/block-12.php:24
+#: include/elementor/widgets/blocks/feature/block-13.php:24
+#: include/elementor/widgets/blocks/feature/block-5.php:24
+#: include/elementor/widgets/blocks/signup/block-2.php:24
+msgid ""
+"We waited until we could do it right. Then we did! Instead of creating a "
+"carbon copy."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-7.php:26
+msgid "Start the supporting system that you always dreamed about"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-7.php:31
+msgid "Login with envato"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-8.php:22
+#: include/elementor/widgets/blocks/signup/block-2.php:22
+msgid "Meet TheSaaS"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-8.php:23
+#: include/elementor/widgets/blocks/signup/block-2.php:23
+msgid "30 Days Free Trial"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-8.php:28
+msgid "Try it now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-8.php:35
+msgid "You'll login using your Envato account."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-9.php:25
+msgid "Own it"
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-9.php:27
+msgid ""
+"If you have visited the other pages and you have made your decision to "
+"purchase this template, go on and press the following button and get a "
+"license in less than a minute."
+msgstr ""
+
+#: include/elementor/widgets/blocks/cta/block-9.php:31
+msgid "Purchase for $49"
+msgstr ""
+
+#: include/elementor/widgets/blocks/editor/base.php:17
+#: include/elementor/widgets/the-controls.php:911
+msgid "Editor"
+msgstr ""
+
+#: include/elementor/widgets/blocks/editor/block-1.php:22
+msgid "Sample Header Text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/editor/block-1.php:23
+msgid "A short default text to display inside a lead paragraph."
+msgstr ""
+
+#: include/elementor/widgets/blocks/editor/block-1.php:27
+msgid "I am text block. You can change this text using the left-side panel."
+msgstr ""
+
+#: include/elementor/widgets/blocks/faq/base.php:17
+#: include/elementor/widgets/blocks/faq/block-1.php:21
+#: include/elementor/widgets/blocks/faq/block-2.php:21
+msgid "FAQ"
+msgstr ""
+
+#: include/elementor/widgets/blocks/faq/block-1.php:23
+#: include/elementor/widgets/blocks/faq/block-2.php:23
+msgid "Send an email if you couldn't find an answer to your question here."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/base.php:17
+msgid "Feature"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:23
+msgid "Great Combination"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:24
+msgid ""
+"Holisticly implement fully tested process improvements rather than dynamic "
+"internal."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:45
+#: include/elementor/widgets/blocks/feature/block-9.php:37
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:32
+#: include/elementor/widgets/the-controls.php:1196
+msgid "Responsive"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:46
+#: include/elementor/widgets/blocks/feature/block-6.php:37
+#: include/elementor/widgets/blocks/feature/block-8.php:37
+#: include/elementor/widgets/blocks/feature/block-9.php:38
+#: include/elementor/widgets/blocks/textual_feature/block-10.php:29
+#: include/elementor/widgets/blocks/textual_feature/block-10.php:34
+#: include/elementor/widgets/blocks/textual_feature/block-10.php:39
+#: include/elementor/widgets/blocks/textual_feature/block-10.php:44
+#: include/elementor/widgets/blocks/textual_feature/block-4.php:29
+#: include/elementor/widgets/blocks/textual_feature/block-4.php:34
+#: include/elementor/widgets/blocks/textual_feature/block-4.php:39
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:33
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:38
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:43
+#: include/elementor/widgets/the-controls.php:1197
+#: include/elementor/widgets/the-controls.php:1511
+#: include/elementor/widgets/the-controls.php:1515
+#: include/elementor/widgets/the-controls.php:1519
+msgid ""
+"Your landing page displays smoothly on any device: desktop, tablet or "
+"mobile."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:51
+#: include/elementor/widgets/blocks/feature/block-9.php:43
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:36
+#: include/elementor/widgets/the-controls.php:1202
+msgid "Customizable"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:52
+#: include/elementor/widgets/blocks/feature/block-6.php:43
+#: include/elementor/widgets/blocks/feature/block-8.php:43
+#: include/elementor/widgets/blocks/feature/block-9.php:44
+#: include/elementor/widgets/the-controls.php:1203
+msgid "You can easily read, edit, and write your own code, or change everything."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:57
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:40
+msgid "UI Elements"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:58
+#: include/elementor/widgets/the-controls.php:1209
+msgid ""
+"There is a bunch of useful and necessary elements for developing your "
+"website."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:63
+#: include/elementor/widgets/blocks/feature/block-8.php:42
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:44
+#: include/elementor/widgets/the-controls.php:1220
+msgid "Clean Code"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:64
+#: include/elementor/widgets/the-controls.php:1215
+msgid "You can find our code well organized, commented and readable."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:69
+msgid "Documented"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:70
+#: include/elementor/widgets/the-controls.php:1221
+msgid ""
+"As you can see in the source code, we provided a comprehensive "
+"documentation."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:75
+msgid "Free Updates"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:76
+#: include/elementor/widgets/the-controls.php:1227
+msgid "When you purchase this template, you'll freely receive future updates."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-1.php:83
+msgid "See more features"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-10.php:24
+msgid "Unlimited Layout Option"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-10.php:25
+#: include/elementor/widgets/blocks/feature/block-9.php:25
+msgid ""
+"Energistically transform pandemic manufactured products whereas premier "
+"solutions. Compellingly streamline an expanded array of web-readiness "
+"rather."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-10.php:35
+#: include/elementor/widgets/blocks/feature/block-11.php:32
+msgid "Feature list"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-10.php:39
+#: include/elementor/widgets/blocks/textual_feature/block-11.php:29
+msgid "MailChimp integration included"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-10.php:42
+#: include/elementor/widgets/blocks/textual_feature/block-11.php:34
+msgid "Develop pages like lego"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-10.php:45
+#: include/elementor/widgets/blocks/textual_feature/block-11.php:39
+msgid "Dozen of colors for elements"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-10.php:48
+#: include/elementor/widgets/blocks/textual_feature/block-11.php:44
+msgid "Drag and drop page design"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-11.php:23
+msgid "More to Discover"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-11.php:37
+msgid "5 Ready Samples"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-11.php:38
+#: include/elementor/widgets/blocks/feature/block-11.php:43
+#: include/elementor/widgets/blocks/feature/block-14.php:26
+msgid ""
+"Monotonectally leverage existing standards compliant ideas with distributed "
+"data. Efficiently simplify cross-unit systems whereas adaptive testing. "
+"Monotonectally leverage existing standards compliant ideas with distributed "
+"data. Efficiently simplify cross-unit systems whereas adaptive testing."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-11.php:42
+msgid "6 Header Types"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-11.php:65
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:69
+#: include/elementor/widgets/the-controls.php:1266
+#: include/elementor/widgets/the-controls.php:1402
+#: include/elementor/widgets/the-controls.php:1469
+#: include/elementor/widgets/the-controls.php:1542
+msgid "Write a content"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-12.php:22
+msgid "See it in action"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-12.php:23
+msgid "Screenshots"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:23
+#: include/elementor/widgets/blocks/feature/block-5.php:23
+msgid "Header Varieties"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:33
+#: include/elementor/widgets/blocks/feature/block-5.php:33
+msgid "Tabs Items"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:38
+#: include/elementor/widgets/blocks/feature/block-13.php:43
+#: include/elementor/widgets/blocks/feature/block-13.php:48
+#: include/elementor/widgets/blocks/feature/block-13.php:53
+msgid "Some description about the current tab."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:42
+#: include/elementor/widgets/blocks/feature/block-5.php:41
+#: include/elementor/widgets/the-controls.php:2209
+msgid "Gradient"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:47
+#: include/elementor/widgets/blocks/feature/block-5.php:45
+msgid "Typing"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:52
+msgid "Slider"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:62
+#: include/elementor/widgets/blocks/feature/block-13.php:63
+#: include/elementor/widgets/blocks/feature/block-5.php:58
+#: include/elementor/widgets/blocks/feature/block-5.php:59
+msgid "Tab Title"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:68
+msgid "Subtitle"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:70
+msgid "Some description about the tab"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-13.php:76
+#: include/elementor/widgets/blocks/feature/block-13.php:77
+#: include/elementor/widgets/blocks/feature/block-5.php:65
+#: include/elementor/widgets/blocks/feature/block-5.php:66
+msgid "Tab Content"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-14.php:24
+msgid "01"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-14.php:25
+msgid "Choose your product"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-15.php:25
+msgid "Give a Fresh Design to Your SaaS"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-15.php:26
+#: include/elementor/widgets/blocks/feature/block-7.php:26
+#: include/elementor/widgets/blocks/textual_feature/block-6.php:29
+#: include/elementor/widgets/blocks/textual_feature/block-6.php:36
+#: include/elementor/widgets/the-controls.php:1423
+#: include/elementor/widgets/the-controls.php:1429
+msgid ""
+"Interactively productize worldwide potentialities before long-term "
+"high-impact initiatives. Completely disintermediate excellent leadership "
+"skills with client-centric content."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-16.php:22
+#: include/elementor/widgets/the-controls.php:2217
+msgid "Video"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-16.php:23
+msgid "Explore"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-16.php:24
+#: include/elementor/widgets/blocks/feature/block-17.php:27
+msgid "Explore the best SaaS template in the market in a short 1-minute video."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-17.php:26
+msgid "Watch Video"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-2.php:23
+msgid "Create Admin Area"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-2.php:24
+msgid ""
+"Uniquely evolve equity invested value vis-a-vis proactive testing "
+"procedures. Collaboratively create worldwide results without resource "
+"maximizing. Uniquely evolve equity invested value vis-a-vis proactive "
+"testing procedures. Collaboratively create worldwide results without "
+"resource maximizing."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-2.php:31
+msgid "Get start now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:23
+msgid "Full, Faster, Functional"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:24
+msgid ""
+"Completely leverage other's covalent products whereas covalent manufactured "
+"products."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:33
+msgid "Number 1"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:35
+msgid "100+"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:44
+msgid "Text 1"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:46
+msgid "Screens"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:54
+msgid "Image 1"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:67
+msgid "Number 2"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:69
+msgid "6.7x"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:78
+msgid "Text 2"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:80
+msgid "Faster"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:88
+msgid "Image 2"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:101
+msgid "Number 3"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:112
+msgid "Text 3"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:114
+msgid "Mockups"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-3.php:122
+msgid "Image 3"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-4.php:25
+msgid "Endless Features"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-4.php:26
+msgid ""
+"Interactively maintain vertical portals through competitive strategic theme "
+"areas. Collaboratively reintermediate cross-platform data rather than state "
+"of the art value."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-4.php:38
+msgid "Fast & easy work"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-4.php:39
+#: include/elementor/widgets/blocks/feature/block-4.php:45
+msgid ""
+"Rapidiously evisculate business markets and cooperative results. Globally "
+"leverage other high."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-4.php:44
+msgid "Create result"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-6.php:24
+#: include/elementor/widgets/blocks/textual_feature/block-1.php:24
+#: include/elementor/widgets/blocks/textual_feature/block-2.php:24
+#: include/elementor/widgets/blocks/textual_feature/block-3.php:24
+msgid ""
+"We are so excited and proud of our product. It's really easy to create a "
+"landing page for your awesome product."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-6.php:36
+#: include/elementor/widgets/blocks/feature/block-8.php:36
+#: include/elementor/widgets/blocks/textual_feature/block-10.php:28
+#: include/elementor/widgets/blocks/textual_feature/block-6.php:28
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:42
+#: include/elementor/widgets/the-controls.php:1518
+msgid "Responsive Design"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-6.php:42
+msgid "Elements & Components"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-7.php:24
+msgid "Marketing"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-7.php:25
+msgid "Increase Your Sells"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-8.php:23
+#: include/elementor/widgets/blocks/textual_feature/block-3.php:23
+msgid "More Than You Think"
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-8.php:24
+msgid ""
+"Dramatically reintermediate effective applications after high-payoff core "
+"competencies. Authoritatively optimize collaborative benefits for "
+"error-free communities. Dramatically reintermediate effective applications "
+"after high-payoff core competencies. Authoritatively optimize collaborative "
+"benefits for error-free communities."
+msgstr ""
+
+#: include/elementor/widgets/blocks/feature/block-9.php:24
+msgid "Perfect for Your Business"
+msgstr ""
+
+#: include/elementor/widgets/blocks/html/base.php:17
+msgid "HTML"
+msgstr ""
+
+#: include/elementor/widgets/blocks/html/base.php:28
+msgid "HTML Code"
+msgstr ""
+
+#: include/elementor/widgets/blocks/html/base.php:51
+msgid "Enter your html code here"
+msgstr ""
+
+#: include/elementor/widgets/blocks/map/base.php:17
+msgid "Map"
+msgstr ""
+
+#: include/elementor/widgets/blocks/misc/base.php:17
+msgid "Misc"
+msgstr ""
+
+#: include/elementor/widgets/blocks/misc/block-1.php:21
+#: include/post_types/job.php:10
+msgid "Jobs"
+msgstr ""
+
+#: include/elementor/widgets/blocks/misc/block-1.php:22
+msgid "Open Positions"
+msgstr ""
+
+#: include/elementor/widgets/blocks/misc/block-1.php:23
+msgid ""
+"Following list displays our current required positions. This list will "
+"update regularly."
+msgstr ""
+
+#: include/elementor/widgets/blocks/misc/block-1.php:68
+#: include/elementor/widgets/blocks/misc/block-1.php:119
+msgid "Apply Now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/partner/base.php:17
+msgid "Partner"
+msgstr ""
+
+#: include/elementor/widgets/blocks/partner/block-1.php:22
+msgid "You're in good company"
+msgstr ""
+
+#: include/elementor/widgets/blocks/partner/block-1.php:23
+#: include/elementor/widgets/blocks/partner/block-3.php:23
+#: include/elementor/widgets/blocks/partner/block-4.php:23
+#: include/elementor/widgets/blocks/testimonial/block-1.php:24
+#: include/elementor/widgets/blocks/testimonial/block-3.php:24
+#: include/elementor/widgets/blocks/testimonial/block-4.php:24
+msgid "Join thousands of satisfied customers using our template globally."
+msgstr ""
+
+#: include/elementor/widgets/blocks/partner/block-3.php:22
+msgid "Partners"
+msgstr ""
+
+#: include/elementor/widgets/blocks/partner/block-4.php:22
+msgid "Our Happy Clients"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/base.php:17
+#: include/elementor/widgets/blocks/portfolio/block-1.php:22
+#: include/post_types/portfolio.php:11 include/post_types/portfolio.php:37
+msgid "Portfolio"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:23
+msgid "Product Designs"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:24
+msgid ""
+"You can find several product design by our professional team in this "
+"section."
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:32
+#: include/elementor/widgets/blocks/portfolio/block-2.php:32
+msgid "Filterable items"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:40
+#: include/elementor/widgets/blocks/portfolio/block-2.php:40
+#: include/elementor/widgets/the-controls.php:876
+msgid "Columns"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:62
+msgid "Phone Bag"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:68
+msgid "Mockup Book"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:74
+msgid "T-shirt"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:80
+msgid "Coffee"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:86
+msgid "Shampoo"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:92
+msgid "Paper bag"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:98
+msgid "Elixir"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:104
+msgid "Magazine"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:114
+#: include/elementor/widgets/blocks/portfolio/block-2.php:106
+msgid "Items"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:120
+#: include/elementor/widgets/blocks/portfolio/block-2.php:112
+msgid "Select a portfolio post"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:124
+#: include/elementor/widgets/blocks/portfolio/block-2.php:116
+msgid "Select None to insert manually"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:125
+#: include/elementor/widgets/blocks/portfolio/block-2.php:117
+msgid "Add new portfolio"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:159
+#: include/elementor/widgets/blocks/portfolio/block-2.php:151
+msgid "Group"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:160
+#: include/elementor/widgets/blocks/portfolio/block-2.php:152
+msgid "Comma separated group names. It's required if you need filterable items."
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:218
+#: include/elementor/widgets/blocks/portfolio/block-2.php:210
+msgid "All"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-1.php:326
+#: include/elementor/widgets/blocks/portfolio/block-2.php:312
+msgid "You'll see portfolio items after saving and reloading the page."
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:22
+msgid "Demo"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:23
+msgid "Sample Landing Pages"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:24
+msgid ""
+"Apart from internal pages, we have designed several single sample pages to "
+"get start with."
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:62
+msgid "Helpato"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:67
+msgid "Trello"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:72
+msgid "Gmail"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:77
+msgid "Skype"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:82
+msgid "GitHub"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:87
+msgid "Mobile App"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:92
+msgid "Bootstrap"
+msgstr ""
+
+#: include/elementor/widgets/blocks/portfolio/block-2.php:97
+msgid "Slack"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/base.php:17
+#: include/elementor/widgets/blocks/pricing/block-1.php:22
+#: include/elementor/widgets/blocks/pricing/block-3.php:21
+#: include/elementor/widgets/blocks/pricing/block-4.php:22
+#: include/elementor/widgets/blocks/pricing/block-5.php:22
+msgid "Pricing"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-1.php:21
+#: include/elementor/widgets/blocks/pricing/block-2.php:87
+#: include/elementor/widgets/blocks/pricing/block-5.php:86
+#: include/elementor/widgets/the-controls.php:1708
+msgid "Plans"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-1.php:23
+#: include/elementor/widgets/blocks/pricing/block-3.php:23
+#: include/elementor/widgets/blocks/pricing/block-4.php:24
+#: include/elementor/widgets/blocks/pricing/block-5.php:24
+msgid ""
+"Choose any of the following plans to get start with. You can always change "
+"your plan from your account."
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:24
+msgid "Choose your pricing plan"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:34
+#: include/elementor/widgets/blocks/pricing/block-5.php:33
+#: include/elementor/widgets/the-controls.php:1655
+msgid "Monthly and yearly"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:42
+#: include/elementor/widgets/blocks/pricing/block-5.php:41
+#: include/elementor/widgets/the-controls.php:1663
+msgid "Monthly Text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:43
+#: include/elementor/widgets/blocks/pricing/block-5.php:42
+#: include/elementor/widgets/the-controls.php:1664
+msgid "Monthly"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:53
+#: include/elementor/widgets/blocks/pricing/block-5.php:52
+#: include/elementor/widgets/the-controls.php:1674
+msgid "Yearly Text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:54
+#: include/elementor/widgets/blocks/pricing/block-5.php:53
+#: include/elementor/widgets/the-controls.php:1675
+msgid "Yearly"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:91
+msgid "Single template"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:92
+msgid "Single template, lifetime license"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:95
+msgid "Select an album"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:98
+msgid "One year membership"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:99
+msgid "Get access to all templates"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:102
+#: include/elementor/widgets/blocks/pricing/block-2.php:109
+#: include/elementor/widgets/blocks/pricing/block-2.php:167
+#: include/elementor/widgets/blocks/pricing/block-5.php:181
+#: include/elementor/widgets/blocks/signup/block-2.php:32
+#: include/elementor/widgets/blocks/subscribe/block-2.php:36
+msgid "Sign up"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:105
+msgid "Lifetime access"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:106
+msgid "Pay once, have fun forever"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:117
+#: include/elementor/widgets/blocks/pricing/block-5.php:131
+#: include/elementor/widgets/the-controls.php:1716
+msgid "Plan name"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:122
+#: include/elementor/widgets/blocks/pricing/block-5.php:136
+msgid "Price"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:129
+#: include/elementor/widgets/blocks/pricing/block-5.php:143
+#: include/elementor/widgets/the-controls.php:1728
+msgid "Price - Yearly"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:136
+#: include/elementor/widgets/blocks/pricing/block-5.php:150
+#: include/elementor/widgets/the-controls.php:1735
+msgid "Price unit"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:138
+#: include/elementor/widgets/blocks/pricing/block-5.php:152
+#: include/elementor/widgets/the-controls.php:1737
+msgid "$"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:143
+#: include/elementor/widgets/blocks/pricing/block-5.php:157
+msgid "Period"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:150
+#: include/elementor/widgets/blocks/pricing/block-5.php:164
+#: include/elementor/widgets/the-controls.php:1749
+msgid "Period text - Yearly"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:159
+#: include/elementor/widgets/blocks/pricing/block-5.php:173
+msgid "Plan description"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:160
+#: include/elementor/widgets/blocks/pricing/block-5.php:174
+#: include/elementor/widgets/the-controls.php:1759
+msgid "One feature per line"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:165
+#: include/elementor/widgets/the-controls.php:1764
+msgid "Button text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:172
+#: include/elementor/widgets/the-controls.php:1771
+msgid "Button link"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:174
+#: include/elementor/widgets/blocks/pricing/block-5.php:188
+#: include/elementor/widgets/the-controls.php:1773
+msgid "#"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:179
+#: include/elementor/widgets/the-controls.php:1778
+msgid "Button color"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:195
+#: include/elementor/widgets/the-controls.php:1794
+msgid "Button outline style"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:204
+#: include/elementor/widgets/the-controls.php:1803
+msgid "Button round style"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:213
+#: include/elementor/widgets/the-controls.php:1812
+msgid "Button extra classes"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-2.php:221
+#: include/elementor/widgets/blocks/pricing/block-5.php:193
+#: include/elementor/widgets/the-controls.php:1828
+msgid "Hidden"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:22
+#: include/elementor/widgets/blocks/pricing/block-4.php:23
+msgid "Choose License Type"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:28
+#: include/elementor/widgets/blocks/pricing/block-4.php:42
+#: include/elementor/widgets/blocks/pricing/block-5.php:99
+#: include/elementor/widgets/the-controls.php:1623
+msgid "Personal"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:29
+#: include/elementor/widgets/blocks/pricing/block-4.php:43
+msgid ""
+"Single Website\n"
+"Manual Import\n"
+"No Support"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:30
+#: include/elementor/widgets/blocks/pricing/block-4.php:44
+msgid "$9"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:31
+#: include/elementor/widgets/blocks/pricing/block-4.php:45
+msgid "$99"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:40
+#: include/elementor/widgets/blocks/pricing/block-4.php:53
+#: include/elementor/widgets/blocks/pricing/block-5.php:108
+#: include/elementor/widgets/blocks/team/base.php:17
+#: include/elementor/widgets/blocks/team/block-1.php:22
+#: include/elementor/widgets/the-controls.php:1632
+msgid "Team"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:41
+#: include/elementor/widgets/blocks/pricing/block-4.php:54
+msgid ""
+"7 Websites\n"
+"Auto Import\n"
+"10 Hour Support"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:42
+#: include/elementor/widgets/blocks/pricing/block-4.php:55
+msgid "$59"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:43
+#: include/elementor/widgets/blocks/pricing/block-4.php:56
+msgid "$599"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:52
+#: include/elementor/widgets/blocks/pricing/block-4.php:65
+#: include/elementor/widgets/blocks/pricing/block-5.php:117
+#: include/elementor/widgets/the-controls.php:1641
+msgid "Business"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:53
+#: include/elementor/widgets/blocks/pricing/block-4.php:66
+msgid ""
+"Unlimited Websites\n"
+"Auto Import\n"
+"24/7 Support"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:54
+#: include/elementor/widgets/blocks/pricing/block-4.php:67
+msgid "$149"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-3.php:55
+#: include/elementor/widgets/blocks/pricing/block-4.php:68
+msgid "$1499"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-4.php:32
+msgid "Popular tag text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-4.php:32
+msgid "Best Choice"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-4.php:37
+msgid "Popular tag background color"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:23
+msgid "Our Plans"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:90
+msgid "Free"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:91
+#: include/elementor/widgets/blocks/pricing/block-5.php:100
+#: include/elementor/widgets/blocks/pricing/block-5.php:109
+#: include/elementor/widgets/blocks/pricing/block-5.php:118
+msgid ""
+"First image behold. Behold abundantly fly god together place us fly one "
+"subdue fly a, moved Appear morning."
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:95
+msgid "for 100 MB space"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:104
+msgid "for 100 GB space"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:105
+#: include/elementor/widgets/blocks/pricing/block-5.php:114
+#: include/elementor/widgets/blocks/pricing/block-5.php:123
+msgid "/mo"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:113
+msgid "for 10 TB space"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:122
+msgid "for unlimited space"
+msgstr ""
+
+#: include/elementor/widgets/blocks/pricing/block-5.php:179
+msgid "Price description"
+msgstr ""
+
+#: include/elementor/widgets/blocks/signup/base.php:17
+msgid "Signup"
+msgstr ""
+
+#: include/elementor/widgets/blocks/signup/block-1.php:25
+msgid "Get started free"
+msgstr ""
+
+#: include/elementor/widgets/blocks/signup/block-1.php:28
+msgid "Start to explore our product absolutely free."
+msgstr ""
+
+#: include/elementor/widgets/blocks/signup/block-2.php:40
+msgid "Signup with Facebook"
+msgstr ""
+
+#: include/elementor/widgets/blocks/signup/block-3.php:25
+#: include/elementor/widgets/blocks/signup/block-4.php:24
+msgid "Start to Use TheSaaS Now!"
+msgstr ""
+
+#: include/elementor/widgets/blocks/subscribe/block-1.php:25
+msgid "News and Updates"
+msgstr ""
+
+#: include/elementor/widgets/blocks/subscribe/block-1.php:28
+#: include/elementor/widgets/blocks/subscribe/block-3.php:28
+msgid "Subscribe to our newsletter and receive the latest news from TheThemeio."
+msgstr ""
+
+#: include/elementor/widgets/blocks/subscribe/block-2.php:27
+msgid "Stay Updated"
+msgstr ""
+
+#: include/elementor/widgets/blocks/subscribe/block-2.php:30
+msgid ""
+"Subscribe to our newsletter to be always aware of our new updates. We build "
+"the most powerful and flexible templates for startups."
+msgstr ""
+
+#: include/elementor/widgets/blocks/subscribe/block-3.php:25
+msgid "Stay Tuned"
+msgstr ""
+
+#: include/elementor/widgets/blocks/subscribe/block-4.php:23
+msgid "Subscribe to our newsletter and receive the latest news."
+msgstr ""
+
+#: include/elementor/widgets/blocks/subscribe/block-5.php:25
+msgid "Latest news direct to your inbox"
+msgstr ""
+
+#: include/elementor/widgets/blocks/subscribe/block-5.php:28
+msgid "Subscribe Now"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:23
+msgid "Our Designers"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:24
+#: include/elementor/widgets/blocks/team/block-2.php:24
+msgid "Meet out small team that make those great products."
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:31
+#: include/elementor/widgets/blocks/team/block-2.php:31
+#: include/elementor/widgets/the-controls.php:960
+msgid "Morgan Guadis"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:32
+#: include/elementor/widgets/blocks/team/block-2.php:32
+#: include/elementor/widgets/the-controls.php:961
+#: include/elementor/widgets/the-controls.php:996
+msgid "Co-Founder & CEO"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:39
+#: include/elementor/widgets/blocks/team/block-2.php:41
+msgid "John Senating"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:40
+#: include/elementor/widgets/blocks/team/block-2.php:42
+msgid "Co-Founder & CTO"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:47
+#: include/elementor/widgets/blocks/team/block-2.php:51
+msgid "Sandi Hormez"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:48
+msgid "Developer"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:55
+msgid "Animor Tiruse"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-1.php:56
+msgid "Designer"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-2.php:22
+msgid "People"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-2.php:23
+msgid "The Team"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-2.php:33
+msgid ""
+"Signs you'll a, life itself to in signs seed under fruitful good open "
+"behold Our of stars whales forth."
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-2.php:43
+msgid ""
+"So firmament sea them sea. Set saying land signs had the us replenish seed "
+"moved rule, place let."
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-2.php:52
+msgid "Director"
+msgstr ""
+
+#: include/elementor/widgets/blocks/team/block-2.php:53
+msgid ""
+"Given of living created living fifth him Give heaven made open day, own "
+"land hath one him darkness."
+msgstr ""
+
+#: include/elementor/widgets/blocks/testimonial/base.php:17
+msgid "Testimonial"
+msgstr ""
+
+#: include/elementor/widgets/blocks/testimonial/block-1.php:22
+#: include/elementor/widgets/blocks/testimonial/block-3.php:22
+msgid "Reviews"
+msgstr ""
+
+#: include/elementor/widgets/blocks/testimonial/block-1.php:23
+#: include/elementor/widgets/blocks/testimonial/block-3.php:23
+msgid "Happy Customers"
+msgstr ""
+
+#: include/elementor/widgets/blocks/testimonial/block-4.php:23
+msgid "User Reviews"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/base.php:17
+msgid "Textual Feature"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-1.php:23
+msgid "So Intuitive, So Easy"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-10.php:33
+#: include/elementor/widgets/blocks/textual_feature/block-6.php:35
+msgid "Reusable Code"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-10.php:38
+msgid "Legi Base"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-10.php:43
+msgid "Easy Customization"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-11.php:28
+msgid "Subscription Ready"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-11.php:33
+msgid "Block Variety"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-11.php:38
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:52
+msgid "Color Pallet"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-11.php:43
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:37
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:56
+#: include/elementor/widgets/the-controls.php:1514
+msgid "Page Builder"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-2.php:23
+msgid "More Features"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-4.php:28
+msgid "Present"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-4.php:33
+msgid "Impression"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-4.php:38
+msgid "Conversion"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-4.php:46
+msgid "Discover more features"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:32
+#: include/elementor/widgets/the-controls.php:1214
+#: include/elementor/widgets/the-controls.php:1510
+msgid "Lego Base"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:49
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:66
+#: include/elementor/widgets/the-controls.php:1245
+#: include/elementor/widgets/the-controls.php:1325
+#: include/elementor/widgets/the-controls.php:1448
+msgid "Icon class"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:55
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:72
+#: include/elementor/widgets/the-controls.php:1252
+#: include/elementor/widgets/the-controls.php:1332
+#: include/elementor/widgets/the-controls.php:1455
+msgid "Icon color"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:73
+#: include/elementor/widgets/the-controls.php:1473
+#: include/elementor/widgets/the-controls.php:1546
+msgid "Read more text"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-8.php:80
+#: include/elementor/widgets/the-controls.php:1480
+#: include/elementor/widgets/the-controls.php:1553
+msgid "Read more link"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:48
+msgid "Browser Support"
+msgstr ""
+
+#: include/elementor/widgets/blocks/textual_feature/block-9.php:60
+msgid "Documentation"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:70
+#: include/elementor/widgets/the-controls.php:197
+msgid "Section ID"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:85
+msgid "Small text"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:97
+msgid "Header text"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:109
+msgid "Lead text"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:121
+msgid "Fade text"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:196
+msgid "Flash down target"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:247
+msgid "Apple store link"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:259
+msgid "Google Play Link"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:270
+msgid "Supports YouTube and Vimeo"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:275
+msgid "Video URL"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:288
+msgid "Form Action URL"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:300
+msgid "MailChimp Form URL"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:320
+msgid "Background gray"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:339
+msgid "Border bottom"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:358
+#: include/elementor/widgets/the-controls.php:377
+msgid "Light text colors"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:396
+msgid "Wide container"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:415
+msgid "Switch sides"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:434
+msgid "Display Flash Down"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:453
+msgid "Flash down inverse"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:473
+#: include/elementor/widgets/the-controls.php:2486
+msgid "Padding top"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:507
+msgid "Image shadow"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:526
+#: include/elementor/widgets/the-controls.php:545
+msgid "Round style"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:602
+#: include/elementor/widgets/the-controls.php:621
+msgid "Full width"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:727
+#: include/elementor/widgets/the-controls.php:2229
+msgid "Background color"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:739
+msgid "Gradient start"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:751
+msgid "Gradient end"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:775
+#: include/elementor/widgets/the-controls.php:2059
+#: include/elementor/widgets/the-controls.php:2287
+msgid "Background image"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:787
+msgid "Images"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:799
+#: include/elementor/widgets/the-controls.php:816
+msgid "Minimum width"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:833
+#: include/elementor/widgets/the-controls.php:2455
+msgid "Overlay"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:845
+#: include/elementor/widgets/the-controls.php:1138
+msgid "Filled stars"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:860
+msgid "Heading font size"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:894
+msgid "ID"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:925
+msgid "Autoplay slider"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:933
+msgid "Delay"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:973
+msgid "Team members"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:989
+#: include/elementor/widgets/the-controls.php:1121
+msgid "Hossein Shams"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:994
+msgid "Position"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1001
+msgid "Biography"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1008
+msgid "Social media links"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1010
+msgid "Facebook"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1016
+msgid "Twitter"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1022
+msgid "Instagram"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1028
+msgid "Linkedin"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1034
+msgid "Dribbble"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1040
+msgid "Github"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1060
+msgid "Steve Jobs"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1061
+#: include/elementor/widgets/the-controls.php:1117
+msgid ""
+"When you innovate, you make mistakes. It is best to admit them quickly, and "
+"get on with improving your other innovations."
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1065
+msgid "Bill Gates"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1066
+#: include/elementor/widgets/the-controls.php:1123
+msgid ""
+"Technology is just a tool. In terms of getting the kids working together "
+"and motivating them, the teacher is the most important."
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1074
+#: include/elementor/widgets/the-controls.php:1132
+msgid "Testimonials"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1080
+#: include/elementor/widgets/the-controls.php:1154
+msgid "Avatar"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1096
+#: include/elementor/widgets/the-controls.php:1176
+msgid "Write a review"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1115
+msgid "Maryam Amiri"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1116
+msgid "@maryami"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1122
+msgid "@shamsoft"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1208
+msgid "UI Kit"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1226
+msgid "Support"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1286
+msgid "Works great in all modern browsers"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1290
+msgid "Based on Bootstrap framework 4"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1294
+msgid "Elements with multiple colors"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1298
+msgid "Very well code documentation"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1302
+msgid "Variety of sample landing pages"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1306
+msgid "Free updates forever"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1360
+msgid "Be The First"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1361
+#: include/elementor/widgets/the-controls.php:1366
+#: include/elementor/widgets/the-controls.php:1371
+msgid ""
+"Fly beast fourth, you stars. Them seasons sea spirit, which second. Hath "
+"May whales, creepeth light."
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1365
+msgid "Skyrocket You Sells"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1370
+msgid "Acquire Potential Users"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1422
+msgid "Customer Acquisition"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1428
+msgid "Business Grows"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1487
+msgid "Gray background"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1576
+msgid "What is TheSaaS?"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1577
+msgid ""
+"It is a collection of layouts, design patterns, components, and guidelines "
+"for creating admin templates, SaaS startups, and complex dashboards."
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1580
+msgid "How long are your contracts?"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1581
+msgid ""
+"You can upgrade, downgrade, or cancel your monthly account at any time with "
+"no further obligation."
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1589
+msgid "Questions"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1595
+msgid "Question"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1601
+#: include/elementor/widgets/the-controls.php:1602
+msgid "Answer"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1624
+#: include/elementor/widgets/the-controls.php:1633
+#: include/elementor/widgets/the-controls.php:1642
+msgid ""
+"30 days free trial\n"
+"Basic support\n"
+"Sync to cloud database"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1625
+#: include/elementor/widgets/the-controls.php:1626
+msgid "free"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1721
+msgid "Price - Default & Monthly"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1742
+msgid "Period text - Default & Monthly"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1820
+msgid "Popular"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1850
+msgid "Latitude"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1861
+msgid "Longitude"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1872
+msgid "Zoom level"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1891
+msgid "Height"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1910
+msgid "Skin"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1915
+msgid "Light"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:1942
+#: include/elementor/widgets/the-controls.php:2010
+#: include/elementor/widgets/the-controls.php:2091
+#: include/view/post/portfolio.php:54
+msgid "Address"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2071
+msgid "Small Text"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2081
+msgid "Heading Text"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2083
+msgid "Seattle, WA"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2192
+msgid "Header ID"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2201
+msgid "Background type"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2242
+msgid "Color 1"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2255
+msgid "Color 2"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2268
+msgid "Direction"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2272
+msgid "Top"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2274
+msgid "Bottom"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2302
+#: include/elementor/widgets/the-widget.php:118
+#: include/elementor/widgets/the-widget.php:144
+#: include/lib/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2307
+msgid "Fixed"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2308
+msgid "Parallax"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2320
+msgid "Video poster"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2335
+msgid "MP4 video"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2350
+msgid "Video sound mute"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2380
+msgid "Fullscreen"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2393
+msgid "Particle"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2406
+msgid "Particles color"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2419
+msgid "Number of particles"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2442
+msgid "Fadeout effect"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2476 include/hook/post.php:155
+msgid "Overlay color"
+msgstr ""
+
+#: include/elementor/widgets/the-controls.php:2508
+msgid "Padding bottom"
+msgstr ""
+
+#: include/hook/extra.php:16
+#. translators: %s: Name of current post
+msgid "Continue reading"
+msgstr ""
+
+#: include/hook/ocdi.php:11
+msgid ""
+"Please notice that importing all pages are not a recommended way to start, "
+"while you can only import the only pages that you need. To import selected "
+"pages, please watch the following video to learn how to use our page "
+"builder to add predesigned templates to your page: "
+msgstr ""
+
+#: include/hook/ocdi.php:11
+msgid ""
+"If you still persist on importing all the data, press the following button "
+"and wait while data is importing. If you need to import WooCommerce "
+"products, you should install and activate WooCommerce plugin before "
+"pressing the following button."
+msgstr ""
+
+#: include/hook/post.php:29 include/hook/post.php:126
+msgid "More options"
+msgstr ""
+
+#: include/hook/post.php:44 include/post_types/portfolio.php:176
+msgid "Header subtitle"
+msgstr ""
+
+#: include/hook/post.php:46
+msgid "A text to display below title in the page header."
+msgstr ""
+
+#: include/hook/post.php:160
+msgid "Overlay visibility"
+msgstr ""
+
+#: include/hook/post.php:172
+msgid "Fullscreen header"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/lib/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/lib/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:393
+#: include/lib/class-tgm-plugin-activation.php:912
+#: include/lib/class-tgm-plugin-activation.php:2618
+#: include/lib/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:394
+#: include/lib/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:395
+#: include/lib/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:1019
+#: include/lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2067
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2477
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/lib/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/lib/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/lib/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2688
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2693
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2699
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3583
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3588
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3594
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3594
+#: include/lib/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3594
+#: include/lib/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3597
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3602
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:3605
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/post_types/job.php:11 include/post_types/job.php:37
+msgid "Job"
+msgstr ""
+
+#: include/post_types/job.php:12
+msgid "Job Archives"
+msgstr ""
+
+#: include/post_types/job.php:13
+msgid "Job Attributes"
+msgstr ""
+
+#: include/post_types/job.php:14
+msgid "Parent Job:"
+msgstr ""
+
+#: include/post_types/job.php:15
+msgid "All Jobs"
+msgstr ""
+
+#: include/post_types/job.php:16
+msgid "Add New Job"
+msgstr ""
+
+#: include/post_types/job.php:17 include/post_types/portfolio.php:17
+msgid "Add New"
+msgstr ""
+
+#: include/post_types/job.php:18
+msgid "New Job"
+msgstr ""
+
+#: include/post_types/job.php:19
+msgid "Edit Job"
+msgstr ""
+
+#: include/post_types/job.php:20
+msgid "Update Job"
+msgstr ""
+
+#: include/post_types/job.php:21
+msgid "View Job"
+msgstr ""
+
+#: include/post_types/job.php:22
+msgid "View Jobs"
+msgstr ""
+
+#: include/post_types/job.php:23
+msgid "Search Job"
+msgstr ""
+
+#: include/post_types/job.php:24 include/post_types/portfolio.php:24
+msgid "Not found"
+msgstr ""
+
+#: include/post_types/job.php:25 include/post_types/portfolio.php:25
+msgid "Not found in Trash"
+msgstr ""
+
+#: include/post_types/job.php:26 include/post_types/portfolio.php:26
+msgid "Featured Image"
+msgstr ""
+
+#: include/post_types/job.php:27 include/post_types/portfolio.php:27
+msgid "Set featured image"
+msgstr ""
+
+#: include/post_types/job.php:28 include/post_types/portfolio.php:28
+msgid "Remove featured image"
+msgstr ""
+
+#: include/post_types/job.php:29 include/post_types/portfolio.php:29
+msgid "Use as featured image"
+msgstr ""
+
+#: include/post_types/job.php:30
+msgid "Insert into job"
+msgstr ""
+
+#: include/post_types/job.php:31
+msgid "Uploaded to this job"
+msgstr ""
+
+#: include/post_types/job.php:32
+msgid "Jobs list"
+msgstr ""
+
+#: include/post_types/job.php:33
+msgid "Jobs list navigation"
+msgstr ""
+
+#: include/post_types/job.php:34
+msgid "Filter jobs list"
+msgstr ""
+
+#: include/post_types/job.php:38
+msgid "Job Description"
+msgstr ""
+
+#: include/post_types/job.php:71
+msgid "Job Details"
+msgstr ""
+
+#: include/post_types/job.php:89
+msgid "Location"
+msgstr ""
+
+#: include/post_types/portfolio.php:10
+msgid "Portfolios"
+msgstr ""
+
+#: include/post_types/portfolio.php:12
+msgid "Portfolio Archives"
+msgstr ""
+
+#: include/post_types/portfolio.php:13
+msgid "Portfolio Attributes"
+msgstr ""
+
+#: include/post_types/portfolio.php:14
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: include/post_types/portfolio.php:15
+msgid "All Portfolios"
+msgstr ""
+
+#: include/post_types/portfolio.php:16
+msgid "Add New Portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:18
+msgid "New Portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:19
+msgid "Edit Portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:20
+msgid "Update Portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:21
+msgid "View Portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:22
+msgid "View Portfolios"
+msgstr ""
+
+#: include/post_types/portfolio.php:23
+msgid "Search Portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:30
+msgid "Insert into portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:31
+msgid "Uploaded to this portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:32
+msgid "Portfolios list"
+msgstr ""
+
+#: include/post_types/portfolio.php:33
+msgid "Portfolios list navigation"
+msgstr ""
+
+#: include/post_types/portfolio.php:34
+msgid "Filter portfolios list"
+msgstr ""
+
+#: include/post_types/portfolio.php:38
+msgid "Portfolio Description"
+msgstr ""
+
+#: include/post_types/portfolio.php:72
+msgid "Category"
+msgstr ""
+
+#: include/post_types/portfolio.php:73
+msgid "All Categories"
+msgstr ""
+
+#: include/post_types/portfolio.php:74
+msgid "Parent Category"
+msgstr ""
+
+#: include/post_types/portfolio.php:75
+msgid "Parent Category:"
+msgstr ""
+
+#: include/post_types/portfolio.php:76
+msgid "New Category Name"
+msgstr ""
+
+#: include/post_types/portfolio.php:77
+msgid "Add New Category"
+msgstr ""
+
+#: include/post_types/portfolio.php:78
+msgid "Edit Category"
+msgstr ""
+
+#: include/post_types/portfolio.php:79
+msgid "Update Category"
+msgstr ""
+
+#: include/post_types/portfolio.php:80
+msgid "View Category"
+msgstr ""
+
+#: include/post_types/portfolio.php:81
+msgid "Separate category with commas"
+msgstr ""
+
+#: include/post_types/portfolio.php:82
+msgid "Add or remove category"
+msgstr ""
+
+#: include/post_types/portfolio.php:83 include/post_types/portfolio.php:124
+msgid "Choose from the most used"
+msgstr ""
+
+#: include/post_types/portfolio.php:84
+msgid "Popular Categories"
+msgstr ""
+
+#: include/post_types/portfolio.php:85
+msgid "Search Categories"
+msgstr ""
+
+#: include/post_types/portfolio.php:86 include/post_types/portfolio.php:127
+msgid "Not Found"
+msgstr ""
+
+#: include/post_types/portfolio.php:87
+msgid "No category"
+msgstr ""
+
+#: include/post_types/portfolio.php:88
+msgid "Categories list"
+msgstr ""
+
+#: include/post_types/portfolio.php:89
+msgid "Categories list navigation"
+msgstr ""
+
+#: include/post_types/portfolio.php:113
+msgid "Skill"
+msgstr ""
+
+#: include/post_types/portfolio.php:114
+msgid "All Skills"
+msgstr ""
+
+#: include/post_types/portfolio.php:115
+msgid "Parent Skill"
+msgstr ""
+
+#: include/post_types/portfolio.php:116
+msgid "Parent Skill:"
+msgstr ""
+
+#: include/post_types/portfolio.php:117
+msgid "New Skill Name"
+msgstr ""
+
+#: include/post_types/portfolio.php:118
+msgid "Add New Skill"
+msgstr ""
+
+#: include/post_types/portfolio.php:119
+msgid "Edit Skill"
+msgstr ""
+
+#: include/post_types/portfolio.php:120
+msgid "Update Skill"
+msgstr ""
+
+#: include/post_types/portfolio.php:121
+msgid "View Skill"
+msgstr ""
+
+#: include/post_types/portfolio.php:122
+msgid "Separate skills with commas"
+msgstr ""
+
+#: include/post_types/portfolio.php:123
+msgid "Add or remove skills"
+msgstr ""
+
+#: include/post_types/portfolio.php:125
+msgid "Popular Skills"
+msgstr ""
+
+#: include/post_types/portfolio.php:126
+msgid "Search Skills"
+msgstr ""
+
+#: include/post_types/portfolio.php:128
+msgid "No skills"
+msgstr ""
+
+#: include/post_types/portfolio.php:129
+msgid "Skills list"
+msgstr ""
+
+#: include/post_types/portfolio.php:130
+msgid "Skills list navigation"
+msgstr ""
+
+#: include/post_types/portfolio.php:154
+msgid "Project Details"
+msgstr ""
+
+#: include/post_types/portfolio.php:185 include/view/post/portfolio.php:33
+msgid "Client"
+msgstr ""
+
+#: include/post_types/portfolio.php:192 include/view/post/portfolio.php:40
+msgid "Date"
+msgstr ""
+
+#: include/post_types/portfolio.php:199
+msgid "Project URL"
+msgstr ""
+
+#: include/setup/back-compat.php:30 include/setup/back-compat.php:39
+#: include/setup/back-compat.php:51
+msgid ""
+"TheSaaS requires at least WordPress version 4.7. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: include/setup/theme.php:46
+msgid "Topbar Menu"
+msgstr ""
+
+#: include/utility/tags.php:18
+#. translators: %s: Name of current post
+msgid "Edit"
+msgstr ""
+
+#: include/view/archive/job.php:40 include/view/archive/job.php:44
+msgid "Apply now"
+msgstr ""
+
+#: include/view/archive/job.php:48 include/view/archive/portfolio.php:48
+#: include/view/blog/blog-grid.php:47 include/view/blog/blog-list.php:45
+#: include/view/blog/blog.php:47 include/view/post/content.php:19
+#: include/view/search/result.php:48
+msgid "Pages:"
+msgstr ""
+
+#: include/view/archive/job.php:66 include/view/archive/portfolio.php:66
+#: include/view/blog/blog-classic.php:58 include/view/blog/blog-grid.php:65
+#: include/view/blog/blog-list.php:65 include/view/blog/blog.php:65
+#: include/view/search/result.php:66
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: include/view/header/404.php:8
+msgid "Oops!"
+msgstr ""
+
+#: include/view/header/404.php:9
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: include/view/header/post.php:54 include/view/header/post.php:56
+msgid "By"
+msgstr ""
+
+#: include/view/header/post.php:60
+msgid "On"
+msgstr ""
+
+#: include/view/header/search.php:9
+msgid "Search Results for: %s"
+msgstr ""
+
+#: include/view/header/search.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: include/view/header/topbar.php:118
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/view/post/portfolio.php:26
+msgid "Project details"
+msgstr ""
+
+#: search.php:14
+msgid "Haven't found what you need? Try with another keyword."
+msgstr ""
+
+#: woocommerce/loop/result-count.php:45
+#. translators: %d: total results
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/sale-flash.php:33
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/single-product.php:99
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/single-product.php:100
+msgid "This item added to your cart successfully."
+msgstr ""
+
+#: woocommerce/single-product.php:101
+msgid "View your cart"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://thetheme.io/wp/thesaas"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Responsive SaaS, Software & WebApp WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TheThemeio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://thetheme.io"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Header"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:1206
+#: include/lib/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2427
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: include/lib/class-tgm-plugin-activation.php:2473
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/lib/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: include/post_types/job.php:8
+msgctxt "Job General Name"
+msgid "Jobs"
+msgstr ""
+
+#: include/post_types/job.php:9
+msgctxt "Job Singular Name"
+msgid "Job"
+msgstr ""
+
+#: include/post_types/portfolio.php:8
+msgctxt "Portfolio General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: include/post_types/portfolio.php:9
+msgctxt "Portfolio Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: include/post_types/portfolio.php:70
+msgctxt "Category General Name"
+msgid "Categories"
+msgstr ""
+
+#: include/post_types/portfolio.php:71
+msgctxt "Category Singular Name"
+msgid "Category"
+msgstr ""
+
+#: include/post_types/portfolio.php:111
+msgctxt "Skill General Name"
+msgid "Skills"
+msgstr ""
+
+#: include/post_types/portfolio.php:112
+msgctxt "Skill Singular Name"
+msgid "Skill"
+msgstr ""
+
+#: include/setup/enqueue.php:24
+#. Translators: If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:48
+#. translators: 1: first result 2: last result 3: total results
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""

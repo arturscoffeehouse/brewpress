@@ -1,0 +1,1076 @@
+{
+	"content": [
+		{
+			"id": "bzddvuo",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "qnwtlde",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "wromliv",
+							"elType": "widget",
+							"settings": {
+								"t1_fullscreen": "",
+								"t1_header_text": "Choose Your Pricing Plan",
+								"t1_text": "We waited until we could do it right",
+								"t2_header_text": "TheSaaS",
+								"t2_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t2_btn_text": "See demos",
+								"t3_header_text": "Create Professional Websites",
+								"t3_text": "TheSaaS is a responsive, professional, and multipurpose SaaS template powered with Bootstrap 4.",
+								"t3_btn_text": "Demos",
+								"t3_btn2_text": "Features",
+								"t4_header_text": "TheSaaS",
+								"t4_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t4_info_text": "Or Purchase Now",
+								"t5_header_text": "TheSaaS",
+								"t5_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t6_header_text": "TheSaaS",
+								"t6_text": "Is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t6_btn_text": "Buy now $19",
+								"t7_typing_text": "Software, Startup, WebApp",
+								"t7_prefix": "Built for",
+								"t7_text": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template",
+								"t7_btn_text": "Purchase Now - $19",
+								"t7_info_text": "or purchase an Extended License",
+								"t8_header_text": "Where Work happens",
+								"t8_text": "Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.",
+								"t8_btn_text": "Get started",
+								"t8_info_text": "Already a member? Sign in",
+								"t9_header_text": "App Landing Page",
+								"t9_text": "The best template for your mobile app to showcase and acquire new customers all around the world. The best template that you can find anywhere!",
+								"t9_btn_text": "Download now",
+								"t9_btn2_text": "Features",
+								"t10_header_text": "TheSaaS",
+								"t10_text": "An elegant, modern and fully customizable SaaS and WebApp template",
+								"t10_btn_text": "Purchase now - $19",
+								"t10_info_text": "or purchase an Extended License",
+								"t1_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t1_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t1_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t2_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t2_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t2_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t3_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t3_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t3_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t4_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t4_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t4_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t5_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t5_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t5_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t5_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t6_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t6_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t6_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t6_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t7_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t7_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t7_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t8_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t8_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t8_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t8_image": {
+									"id": 581,
+									"url": "demo/slack/dashboard.jpg"
+								},
+								"t9_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t9_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t9_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t9_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t10_bg_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t10_bg_video_poster": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t10_bg_video_mp4": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"t10_image": {
+									"id": "498",
+									"url": "bg-gift.jpg"
+								},
+								"type": "type-8"
+							},
+							"elements": [],
+							"widgetType": "the-cover"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "0z75vkz",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "ycq2hyp",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "58arl0q",
+							"elType": "widget",
+							"settings": {
+								"type": "type-11",
+								"t1_small_text": "Features",
+								"t1_header_text": "Great Combination",
+								"t1_lead_text": "Holisticly implement fully tested process improvements rather than dynamic internal.",
+								"t1_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#e4e7ea",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "wbtxq6i"
+									},
+									{
+										"icon": "fa fa-wrench",
+										"color": "#e4e7ea",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "sj77ud8"
+									},
+									{
+										"icon": "fa fa-cubes",
+										"color": "#e4e7ea",
+										"title": "UI Elements",
+										"text": "There is a bunch of useful and necessary elements for developing your website.",
+										"_id": "pxz5d1v"
+									},
+									{
+										"icon": "fa fa-code",
+										"color": "#e4e7ea",
+										"title": "Clean Code",
+										"text": "You can find our code well organized, commented and readable.",
+										"_id": "3g8ycks"
+									},
+									{
+										"icon": "fa fa-file-text-o",
+										"color": "#e4e7ea",
+										"title": "Documented",
+										"text": "As you can see in the source code, we provided a comprehensive documentation.",
+										"_id": "rkfcs48"
+									},
+									{
+										"icon": "fa fa-download",
+										"color": "#e4e7ea",
+										"title": "Free Updates",
+										"text": "When you purchase this template, you&#039;ll freely receive future updates.",
+										"_id": "62opr9c"
+									}
+								],
+								"t1_btn_text": "See more features",
+								"t2_header_text": "Create Admin Area",
+								"t2_text": "Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing. Uniquely evolve equity invested value vis-a-vis proactive testing procedures. Collaboratively create worldwide results without resource maximizing.",
+								"t2_btn_text": "Get start now",
+								"t3_small_text": "Features",
+								"t3_header_text": "Full, Faster, Functional",
+								"t3_lead_text": "Completely leverage other&#039;s covalent products whereas covalent manufactured products.",
+								"t3_number_1": "100+",
+								"t3_text_1": "Screens",
+								"t3_number_2": "6.7x",
+								"t3_text_2": "Faster",
+								"t3_number_3": "12",
+								"t3_text_3": "Mockups",
+								"t4_header_text": "Endless Features",
+								"t4_text": "Interactively maintain vertical portals through competitive strategic theme areas. Collaboratively reintermediate cross-platform data rather than state of the art value.",
+								"t4_features": [
+									{
+										"icon": "fa fa-cab",
+										"color": "#fff",
+										"title": "Fast &amp; easy work",
+										"text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+										"_id": "mfwkmou"
+									},
+									{
+										"icon": "fa fa-pie-chart",
+										"color": "#fff",
+										"title": "Create result",
+										"text": "Rapidiously evisculate business markets and cooperative results. Globally leverage other high.",
+										"_id": "yqx3ejb"
+									}
+								],
+								"t5_small_text": "Features",
+								"t5_header_text": "Header Varieties",
+								"t5_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t5_tabs": [
+									{
+										"title": "Color",
+										"content": "<img src=\"header-color.jpg\" alt=\"...\">",
+										"_id": "hptmuo4"
+									},
+									{
+										"title": "Gradient",
+										"content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+										"_id": "cb7pxbq"
+									},
+									{
+										"title": "Typing",
+										"content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+										"_id": "e7os8sm"
+									},
+									{
+										"title": "Slider",
+										"content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+										"_id": "spdotu2"
+									}
+								],
+								"t6_header_text": "Features",
+								"t6_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+								"t6_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#616771",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "wb39f18"
+									},
+									{
+										"icon": "fa fa-cubes",
+										"color": "#616771",
+										"title": "Elements &amp; Components",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "nx6uypw"
+									}
+								],
+								"t7_small_text": "Marketing",
+								"t7_header_text": "Increase Your Sells",
+								"t7_text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+								"t7_btn_text": "Read more",
+								"t8_header_text": "More Than You Think",
+								"t8_text": "Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.",
+								"t8_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#ffbe00",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "uvuz23f"
+									},
+									{
+										"icon": "fa fa-code",
+										"color": "#ff4954",
+										"title": "Clean Code",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "25hput7"
+									}
+								],
+								"t9_header_text": "Perfect for Your Business",
+								"t9_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+								"t9_features": [
+									{
+										"icon": "fa fa-tv",
+										"color": "#0facf3",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "81tr0pr"
+									},
+									{
+										"icon": "fa fa-wrench",
+										"color": "#0facf3",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "709ocxs"
+									}
+								],
+								"t10_header_text": "Unlimited Layout Option",
+								"t10_text": "Energistically transform pandemic manufactured products whereas premier solutions. Compellingly streamline an expanded array of web-readiness rather.",
+								"t10_list": [
+									{
+										"text": "MailChimp integration included",
+										"_id": "pj7ee0i"
+									},
+									{
+										"text": "Develop pages like lego",
+										"_id": "6i85pr5"
+									},
+									{
+										"text": "Dozen of colors for elements",
+										"_id": "ce33a19"
+									},
+									{
+										"text": "Drag and drop page design",
+										"_id": "j8jwhvr"
+									}
+								],
+								"t11_small_text": "Features",
+								"t11_header_text": "Team communication for the 21st century.",
+								"t11_lead_text": "",
+								"t11_features": [
+									{
+										"image": {
+											"url": "http://thetheme.io/wp/thesaas/wp-content/themes/thesaas/assets/img/demo/slack/drag.png",
+											"id": 583
+										},
+										"title": "Drag, drop, and share your files.",
+										"text": "Not just your messages, but all your files, images, PDFs, documents, and spreadsheets can be dropped right into Slack and shared with anyone you want. Add comments, star for later reference, and it’s all completely searchable. If you use any services like Google Drive, Dropbox, or Box, just paste the link and that document is immediately in sync and searchable too.",
+										"_id": "ffm8wty"
+									},
+									{
+										"image": {
+											"url": "http://thetheme.io/wp/thesaas/wp-content/themes/thesaas/assets/img/demo/slack/everywhere.png",
+											"id": 584
+										},
+										"title": "Works everywhere you go",
+										"text": "Everything in Slack—messages, notifications, files, and all—is automatically indexed and archived so that you can have it at your fingertips whenever you want. Slack also indexes the content of every file so you can search within PDFs, Word documents, Google docs, and more. With one search box and a set of powerful search operators, you can slice and dice your way to that one message in your communication haystack.",
+										"_id": "2aykpb7"
+									},
+									{
+										"image": {
+											"url": "http://thetheme.io/wp/thesaas/wp-content/themes/thesaas/assets/img/demo/slack/tools.png",
+											"id": 585
+										},
+										"title": "All your tools in one place.",
+										"text": "Connect all the tools you use to Slack and avoid all that constant switching between apps. Set up your integration so that you get all your notifications directly within Slack—from support requests, code check-ins, and error logs to sales leads—all of them searchable in one central archive. If you use any services like Google Drive, Dropbox, or Box, just paste the link and that document is immediately in sync and searchable too.",
+										"_id": "mxq960s"
+									}
+								],
+								"t12_small_text": "See it in action",
+								"t12_header_text": "Screenshots",
+								"t12_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t13_small_text": "Features",
+								"t13_header_text": "Header Varieties",
+								"t13_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t13_tabs": [
+									{
+										"title": "Color",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-color.jpg\" alt=\"...\">",
+										"_id": "is0vdwg"
+									},
+									{
+										"title": "Gradient",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-gradient.jpg\" alt=\"...\">",
+										"_id": "4ny8ret"
+									},
+									{
+										"title": "Typing",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-typing.jpg\" alt=\"...\">",
+										"_id": "kwcqw8b"
+									},
+									{
+										"title": "Slider",
+										"subtitle": "Some description about the current tab.",
+										"content": "<img src=\"header-slider.jpg\" alt=\"...\">",
+										"_id": "y5u2dqk"
+									}
+								]
+							},
+							"elements": [],
+							"widgetType": "the-feature"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "6z0zqc7",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "64t4u80",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "7ip9xxd",
+							"elType": "widget",
+							"settings": {
+								"type": "type-8",
+								"t1_small_text": "Features",
+								"t1_header_text": "So Intuitive, So Easy",
+								"t1_lead_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+								"t1_features": [
+									{
+										"icon": "icon-mobile",
+										"color": "#000000",
+										"title": "Responsive",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "lcddisx"
+									},
+									{
+										"icon": "icon-gears",
+										"color": "#0e97ff",
+										"title": "Customizable",
+										"text": "You can easily read, edit, and write your own code, or change everything.",
+										"_id": "zmd0e1s"
+									},
+									{
+										"icon": "icon-tools",
+										"color": "#b5b9bf",
+										"title": "UI Kit",
+										"text": "There is a bunch of useful and necessary elements for developing your website.",
+										"_id": "cwdneoc"
+									},
+									{
+										"icon": "icon-layers",
+										"color": "#ffbe00",
+										"title": "Lego Base",
+										"text": "You can find our code well organized, commented and readable.",
+										"_id": "h0er5im"
+									},
+									{
+										"icon": "icon-recycle",
+										"color": "#ff4954",
+										"title": "Clean Code",
+										"text": "As you can see in the source code, we provided a comprehensive documentation.",
+										"_id": "qy4fkws"
+									},
+									{
+										"icon": "icon-chat",
+										"color": "#46da60",
+										"title": "Support",
+										"text": "When you purchase this template, you&#039;ll freely receive future updates.",
+										"_id": "3wggumo"
+									}
+								],
+								"t2_header_text": "More Features",
+								"t2_lead_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+								"t2_features": [
+									{
+										"icon": "icon-browser",
+										"text": "Works great in all modern browsers",
+										"_id": "hzzpf4p",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-grid",
+										"text": "Based on Bootstrap framework 4",
+										"_id": "5ag68c1",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-paintbrush",
+										"text": "Elements with multiple colors",
+										"_id": "gud7kr6",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-documents",
+										"text": "Very well code documentation",
+										"_id": "f2mpe8y",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-gift",
+										"text": "Variety of sample landing pages",
+										"_id": "rdypyc5",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-download",
+										"text": "Free updates forever",
+										"_id": "fguac1t",
+										"color": "#b5b9bf"
+									}
+								],
+								"t3_small_text": "Features",
+								"t3_header_text": "More Than You Think",
+								"t3_lead_text": "We are so excited and proud of our product. It&#039;s really easy to create a landing page for your awesome product.",
+								"t3_features": [
+									{
+										"image": {
+											"url": "placeholder-icon.png"
+										},
+										"title": "Be The First",
+										"text": "Fly beast fourth, you stars. Them seasons sea spirit, which second. Hath May whales, creepeth light.",
+										"_id": "zm6rdgn"
+									},
+									{
+										"image": {
+											"url": "placeholder-icon.png"
+										},
+										"title": "Skyrocket You Sells",
+										"text": "Fly beast fourth, you stars. Them seasons sea spirit, which second. Hath May whales, creepeth light.",
+										"_id": "pxkal7a"
+									},
+									{
+										"image": {
+											"url": "placeholder-icon.png"
+										},
+										"title": "Acquire Potential Users",
+										"text": "Fly beast fourth, you stars. Them seasons sea spirit, which second. Hath May whales, creepeth light.",
+										"_id": "ck4yvqk"
+									}
+								],
+								"t4_features": [
+									{
+										"icon": "icon-presentation",
+										"title": "Present",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "yf6vj7c",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-scope",
+										"title": "Impression",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "vwa3eo6",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-target",
+										"title": "Conversion",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "fhxlfz5",
+										"color": "#b5b9bf"
+									}
+								],
+								"t4_info_text": "Discover more features",
+								"t5_features": [
+									{
+										"icon": "icon-profile-male",
+										"title": "Customer Acquisition",
+										"text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+										"gray_bg": "yes",
+										"_id": "m9xj1ax",
+										"color": "#b5b9bf",
+										"more_text": "Read more",
+										"more_link": ""
+									},
+									{
+										"icon": "icon-linegraph",
+										"title": "Business Grows",
+										"text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+										"_id": "wvy9v5t",
+										"color": "#b5b9bf",
+										"more_text": "Read more",
+										"more_link": "",
+										"gray_bg": ""
+									}
+								],
+								"t6_features": [
+									{
+										"icon": "icon-mobile",
+										"color": "#ffbe00",
+										"title": "Responsive Design",
+										"text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+										"gray_bg": "bg-gray",
+										"_id": "5492dre",
+										"more_text": "Read more",
+										"more_link": ""
+									},
+									{
+										"icon": "icon-recycle",
+										"color": "#ffbe00",
+										"title": "Reusable Code",
+										"text": "Interactively productize worldwide potentialities before long-term high-impact initiatives. Completely disintermediate excellent leadership skills with client-centric content.",
+										"_id": "dgb8e30",
+										"more_text": "Read more",
+										"more_link": "",
+										"gray_bg": ""
+									}
+								],
+								"t7_features": [
+									{
+										"title": "Lego Base",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "m46822e",
+										"more_text": "Read more",
+										"more_link": ""
+									},
+									{
+										"title": "Page Builder",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "oh7lcsi",
+										"more_text": "Read more",
+										"more_link": ""
+									},
+									{
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "9mwjc4o",
+										"more_text": "Read more",
+										"more_link": ""
+									}
+								],
+								"t8_bg_gray": "bg-gray",
+								"t8_features": [
+									{
+										"icon": "icon-layers",
+										"title": "Channels",
+										"text": "Organize your team conversations in open channels. Make a channel for a project, a team, or everyone has a transparent view.",
+										"_id": "dxe1gi7",
+										"color": "#b5b9bf",
+										"more_text": "Read more",
+										"more_link": ""
+									},
+									{
+										"icon": "icon-chat",
+										"title": "Direct Messages",
+										"text": "Send messages directly to another and any person or to a small group of people for more focused conversations.",
+										"_id": "hxuoxth",
+										"color": "#b5b9bf",
+										"more_text": "Read more",
+										"more_link": ""
+									},
+									{
+										"icon": "icon-mic",
+										"title": "Calls",
+										"text": "Take a conversation from typing to face-to-face by starting a Slack voice or video call in any Channel or Direct Message.",
+										"_id": "v7bdmrc",
+										"color": "#b5b9bf",
+										"more_text": "Read more",
+										"more_link": ""
+									}
+								],
+								"t9_features": [
+									{
+										"icon": "icon-mobile",
+										"title": "Responsive",
+										"_id": "l1c7zad",
+										"color": "#b5b9bf",
+										"link": "#"
+									},
+									{
+										"icon": "icon-gears",
+										"title": "Customizable",
+										"_id": "c2n3uls",
+										"color": "#b5b9bf",
+										"link": "#"
+									},
+									{
+										"icon": "icon-tools",
+										"title": "UI Elements",
+										"_id": "el7awqv",
+										"color": "#b5b9bf",
+										"link": "#"
+									},
+									{
+										"icon": "icon-recycle",
+										"title": "Clean Code",
+										"_id": "k61qsda",
+										"color": "#b5b9bf",
+										"link": "#"
+									},
+									{
+										"icon": "icon-browser",
+										"title": "Browser Support",
+										"_id": "viphu7r",
+										"color": "#b5b9bf",
+										"link": "#"
+									},
+									{
+										"icon": "icon-paintbrush",
+										"title": "Color Pallet",
+										"_id": "2acug9s",
+										"color": "#b5b9bf",
+										"link": "#"
+									},
+									{
+										"icon": "icon-puzzle",
+										"title": "Page Builder",
+										"_id": "81kshzv",
+										"color": "#b5b9bf",
+										"link": "#"
+									},
+									{
+										"icon": "icon-newspaper",
+										"title": "Documentation",
+										"_id": "kbbk0rx",
+										"color": "#b5b9bf",
+										"link": "#"
+									}
+								],
+								"t10_features": [
+									{
+										"icon": "icon-mobile",
+										"title": "Responsive Design",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "6ahrpao",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-recycle",
+										"title": "Reusable Code",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "bejtjx1",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-layers",
+										"title": "Legi Base",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "p0nw8qv",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-gears",
+										"title": "Easy Customization",
+										"text": "Your landing page displays smoothly on any device: desktop, tablet or mobile.",
+										"_id": "wbftcqh",
+										"color": "#b5b9bf"
+									}
+								],
+								"t11_features": [
+									{
+										"icon": "icon-envelope",
+										"title": "Subscription Ready",
+										"text": "MailChimp integration included",
+										"_id": "ryq0h0u",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-layers",
+										"title": "Block Variety",
+										"text": "Develop pages like lego",
+										"_id": "mss5ikb",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-paintbrush",
+										"title": "Color Pallet",
+										"text": "Dozen of colors for elements",
+										"_id": "beq8vq1",
+										"color": "#b5b9bf"
+									},
+									{
+										"icon": "icon-puzzle",
+										"title": "Page Builder",
+										"text": "Drag and drop page design",
+										"_id": "sq2rkhc",
+										"color": "#b5b9bf"
+									}
+								]
+							},
+							"elements": [],
+							"widgetType": "the-textual-feature"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "l0gpf8s",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "vu1cway",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "6q29sun",
+							"elType": "widget",
+							"settings": {
+								"type": "type-3",
+								"t1_header_text": "Join over 1,000 companies that trust us.",
+								"t1_text": "Try it yourself 30 days free. No credit card required!",
+								"t1_btn_text": "Design your site now",
+								"t2_text": "Want a bite? You&#039;re in the right place!",
+								"t2_btn_text": "Take a test drive",
+								"t3_image": {
+									"url": "demo/slack/cta.png",
+									"id": 586
+								},
+								"t3_header_text": "Reclaim your workday",
+								"t3_text": "Less email. More productive. Our customers see an average 48.6% reduction in internal email, helping them enjoy a simpler, more pleasant, and more productive work life.",
+								"t3_btn_text": "Start now",
+								"t4_text": "20,000+ companies are using our templates every day!",
+								"t4_btn_text": "Get Started",
+								"t5_header_text": "Download now",
+								"t5_text": "Continually e-enable vertical schemas with top-line infomediaries. Energistically restore real-time core competencies and compelling leadership skills.",
+								"t5_stars_text": "Based on 3,000+ reviews",
+								"t6_header_text": "Get it now",
+								"t6_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t7_text": "Start the supporting system that you always dreamed about",
+								"t7_btn_text": "Login with envato",
+								"t8_small_text": "Meet TheSaaS",
+								"t8_header_text": "30 Days Free Trial",
+								"t8_lead_text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy.",
+								"t8_btn_text": "Try it now",
+								"t8_info_text": "You&#039;ll login using your Envato account.",
+								"t9_small_text": "Own it",
+								"t9_header_text": "Get it now",
+								"t9_lead_text": "If you have visited the other pages and you have made your decision to purchase this template, go on and press the following button and get a license in less than a minute.",
+								"t9_btn_text": "Purchase for $19",
+								"t9_info_text": "or purchase an Extended License"
+							},
+							"elements": [],
+							"widgetType": "the-cta"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "tewwjdl",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "kunttra",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "exbgkls",
+							"elType": "widget",
+							"settings": {
+								"t1_bg_gray": "bg-gray",
+								"t1_small_text": "",
+								"t1_header_text": "Affordable Pricing",
+								"t1_lead_text": "Slack for Teams is a single workspace for your small- to medium-sized company or team.",
+								"t1_pricing_plan": [
+									{
+										"name": "Free",
+										"features": "Searchable messages up to 10K\n10 apps or service integrations\n5GB total file storage for the team",
+										"price": "free",
+										"price_unit": "",
+										"_id": "qjlmtyb",
+										"btn_text": "Get started",
+										"btn_link": "#",
+										"popular": ""
+									},
+									{
+										"name": "Standard",
+										"features": "Unlimited searchable message archives\nUnlimited apps and service integrations\n10GB file storage per team member",
+										"price": "6.67",
+										"popular": "yes",
+										"_id": "y1r1qi3",
+										"price_unit": "$",
+										"btn_text": "Get started",
+										"btn_link": "#"
+									},
+									{
+										"name": "Plus",
+										"features": "Everything in Free & Standard, and\nSAML-based single sign-on (SSO)\nCompliance Exports of all messages ",
+										"price": "12.50",
+										"_id": "pc5qfcu",
+										"price_unit": "$",
+										"btn_text": "Get started",
+										"btn_link": "#",
+										"popular": ""
+									}
+								]
+							},
+							"elements": [],
+							"widgetType": "the-pricing"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		},
+		{
+			"id": "mqarerx",
+			"elType": "section",
+			"settings": [],
+			"elements": [
+				{
+					"id": "bdvqzwq",
+					"elType": "column",
+					"settings": {
+						"_column_size": 100
+					},
+					"elements": [
+						{
+							"id": "xvzqbgj",
+							"elType": "widget",
+							"settings": {
+								"t1_small_text": "FAQ",
+								"t1_header_text": "Frequently Asked Questions",
+								"t1_lead_text": "Drop us an email if you couldn't find an answer to your question in the following list.",
+								"t1_columns": {
+									"unit": "%",
+									"size": 3
+								},
+								"t1_faqs": [
+									{
+										"question": "What is TheSaaS?",
+										"answer": "<p>It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.</p>",
+										"_id": "kn1c34r"
+									},
+									{
+										"question": "How long does it take?",
+										"answer": "<p>It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.</p>",
+										"_id": "ww2vhvv"
+									},
+									{
+										"question": "What payment services do you support?",
+										"answer": "<p>We accept all major credit cards.</p>",
+										"_id": "wwchq7v"
+									},
+									{
+										"question": "Can I update my card details?",
+										"answer": "<p>Yes. Go to the billing section of your dashboard and update your payment information.</p>",
+										"_id": "139bsp3"
+									},
+									{
+										"question": "Can I cancel my subscription?",
+										"answer": "<p>You can cancel your subscription at any time. Cancelling your plan comes into effect the following month.</p>",
+										"_id": "25hmux7"
+									},
+									{
+										"question": "Can I get refund?",
+										"answer": "<p>Unfortunately, not at this time! Please try our free plan for a while to make sure Helpato is what you want.</p>",
+										"_id": "ph1m3t7"
+									},
+									{
+										"question": "What if I want to change plans?",
+										"answer": "<p>It's quick and easy to switch between our different pricing plans from your dashboard.</p>",
+										"_id": "66yllsr"
+									},
+									{
+										"question": "How long are your contracts?",
+										"answer": "<p>You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation.</p>",
+										"_id": "8wpncov"
+									},
+									{
+										"question": "Other questions?",
+										"answer": "<p>We're always available at support@domain.com</p>",
+										"_id": "azmukcx"
+									}
+								],
+								"t2_small_text": "FAQ",
+								"t2_header_text": "General",
+								"t2_lead_text": "Send an email if you couldn&#039;t find an answer to your question here.",
+								"t2_faqs": [
+									{
+										"question": "What is TheSaaS?",
+										"answer": "It is a collection of layouts, design patterns, components, and guidelines for creating admin templates, SaaS startups, and complex dashboards.",
+										"_id": "u9dih0m"
+									},
+									{
+										"question": "How long are your contracts?",
+										"answer": "You can upgrade, downgrade, or cancel your monthly account at any time with no further obligation.",
+										"_id": "u9z839f"
+									}
+								]
+							},
+							"elements": [],
+							"widgetType": "the-faq"
+						}
+					],
+					"isInner": false
+				}
+			],
+			"isInner": false
+		}
+	],
+	"page_settings": []
+}

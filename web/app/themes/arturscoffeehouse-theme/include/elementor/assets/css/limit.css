@@ -1,0 +1,27 @@
+
+/*
+#elementor-template-library-templates,
+#elementor-template-library-menu-pre-made-templates,
+*/
+#elementor-panel-page-menu .elementor-panel-menu-item:nth-child(1),
+#elementor-panel-page-menu .elementor-panel-menu-item:nth-child(2),
+#elementor-panel-page-menu .elementor-panel-menu-item:nth-child(3),
+#elementor-panel-elements-search-area,
+#elementor-panel-get-pro-elements,
+#elementor-panel-elements-navigation,
+.elementor-panel-navigation,
+/*.elementor-template-library-template-remote,*/
+.elementor-control-section_layout,
+.elementor-control-section_layout ~ .elementor-control,
+.panel-elements-category-title-basic + .panel-elements-category-items,
+.panel-elements-category-title-wordpress,
+.panel-elements-category-title-wordpress + .panel-elements-category-items,
+.panel-elements-category-title-general-elements,
+.panel-elements-category-title-general-elements + .panel-elements-category-items {
+	display: none !important;
+}
+
+
+.elementor-template-library-template-remote .elementor-template-library-template-preview {
+	visibility: hidden;
+}
