@@ -2,4 +2,5 @@ vendor/
 .env
 composer.lock
 web/wp
+web/app/plugins
 web/.htaccess
