@@ -40,7 +40,10 @@
     "oscarotero/env": "^1.1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/iframe": "dev-trunk",
-    "wpackagist-plugin/gmail-smtp": "dev-trunk"
+    "wpackagist-plugin/gmail-smtp": "dev-trunk",
+    "wpackagist-plugin/google-analytics-for-wordpress": "dev-trunk",
+    "wpackagist-plugin/google-tag-manager": "dev-trunk",
+    "wpackagist-plugin/github-embed": "dev-trunk"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
